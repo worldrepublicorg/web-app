@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "Menu",
+    "world_republic": "Wereldrepubliek"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "Verkiezingen",
+        "referendums": "Referenda"
+      },
+      "sections": {
+        "parties": {
+          "title": "Politieke partijen",
+          "subtitle": "Verenig je wereldwijd rond gedeelde waarden"
+        },
+        "elections": {
+          "title": "Testverkiezingen",
+          "subtitle": "Experimenteer met wereldwijde democratie"
+        },
+        "referendums": {
+          "title": "Wereld Grondwettelijk Referendum",
+          "subtitle": "Stem over onze fundamentele principes"
+        }
+      },
+      "parties": {
+        "discover": "Ontdekken",
+        "search_placeholder": "Zoek partijen...",
+        "tabs": {
+          "new": "Nieuw",
+          "trending": "Trending",
+          "top": "Top"
+        },
+        "no_parties_found": "Geen partijen gevonden",
+        "loading_more": "Meer partijen laden...",
+        "party_details": "Partijdetails",
+        "share_party": "Partij delen",
+        "my_party": "Mijn partij",
+        "found_party_and_earn": "Richt een partij op en krijg subsidies",
+        "learn_more": "Meer informatie",
+        "party_management": "Partijbeheer",
+        "edit_party_info": "Partijinformatie bewerken",
+        "dissolve_party": "Partij ontbinden",
+        "dialogs": {
+          "found_party": "Partij oprichten",
+          "party_name": "Partijnaam",
+          "description_optional": "Beschrijving (optioneel)",
+          "official_link_optional": "Officiële link (optioneel)",
+          "founding": "Oprichten...",
+          "updating": "Bijwerken...",
+          "found": "Oprichten",
+          "save": "Opslaan",
+          "dissolving": "Ontbinden...",
+          "about_to_found": "U staat op het punt een nieuwe partij op te richten.",
+          "about_to_dissolve": "Je staat op het punt {partyName} te ontbinden. Deze actie kan niet ongedaan worden gemaakt.",
+          "leader_warning_found": "Je bent momenteel de leider van {partyName}. Het oprichten van een nieuwe partij zal je huidige partij ontbinden."
+        },
+        "detail": {
+          "failed_to_load": "Fout bij het laden van partijgegevens",
+          "party_not_found": "Partij niet gevonden",
+          "error_loading": "Fout bij het laden van de partij",
+          "back_to_parties": "Terug naar partijen",
+          "description": "Beschrijving",
+          "party_info": "Partijinformatie",
+          "leader": "Leider",
+          "website": "Website",
+          "not_found_description": "De partij die u zoekt bestaat niet of is ontbonden."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "Testverkiezingen komen binnenkort. Verifieer nu je identiteit om klaar te zijn wanneer het stemmen begint.",
+          "verify_button": "Vooraf verifiëren"
+        },
+        "coming_soon": {
+          "description": "Testverkiezingen beginnen binnenkort. Je bent al geverifieerd en klaar om te stemmen zodra de verkiezing begint."
+        },
+        "no_active_election": "Geen actieve verkiezing"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "ACCOUNT",
+          "account_info": "Accountinformatie",
+          "language": "Taal"
+        },
+        "help": {
+          "title": "HELP",
+          "faq": "FAQ",
+          "support": "Ondersteuning"
+        },
+        "source_code": {
+          "title": "BRONCODE"
+        },
+        "legal": {
+          "title": "JURIDISCH",
+          "terms": "Gebruiksvoorwaarden",
+          "privacy": "Privacybeleid"
+        }
+      }
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "app-purpose": {
+          "question": "Wat is de Wereldrepubliek?",
+          "answer": "De Wereldrepubliek is een open source bestuursplatform met eigen digitale valuta dat tot doel heeft een democratisch kader te creëren voor wereldwijde vrede en veiligheid."
+        },
+        "what-is-wdd": {
+          "question": "Wat is WDD?",
+          "answer": "WDD (werelddrachme) is de blockchain-native officiële munteenheid van de Wereldrepubliek, uitgegeven als standaard ERC-20 token op meerdere netwerken."
+        },
+        "drachma-value": {
+          "question": "Waar krijgt de drachme zijn waarde vandaan?",
+          "answer": "De drachme ontleent zijn waarde aan het feit dat het de officiële munteenheid van de Wereldrepubliek is. Naarmate de legitimiteit van ons wereldwijde bestuursplatform groeit, kan WDD het voertuig worden van wereldwijde herverdeling en het belangrijkste ruilmiddel in de wereldeconomie."
+        },
+        "identity-verification": {
+          "question": "Hoe werkt identiteitsverificatie?",
+          "answer": "De Wereldrepubliek gebruikt Self om uw identiteit te verifiëren via uw paspoort of nationale ID. Uw privacy is beschermd—Self bevestigt alleen dat u een echt persoon bent zonder uw persoonlijke gegevens bloot te stellen."
+        },
+        "test-elections": {
+          "question": "Wat zijn testverkiezingen?",
+          "answer": "Testverkiezingen zijn experimenten waarbij burgers van de Wereldrepubliek stemmen op politieke partijen. Elke partij wordt automatisch op het stembiljet geplaatst, wat gelijke kansen garandeert voor alle aspirant-leiders."
+        },
+        "party-subsidies": {
+          "question": "Hoe werken partijsubsidies?",
+          "answer": "De Wereldrepubliek financiert politieke partijen op basis van democratische steun. We verdelen WDD-beurzen evenredig aan de verkiezingsresultaten, zodat elke stem de financiële middelen van een partij direct vergroot."
+        },
+        "verification-required": {
+          "question": "Is verificatie nodig om deel te nemen?",
+          "answer": "Identiteitsverificatie is alleen vereist om te stemmen. Je kunt zonder verificatie partijen oprichten en WDD overmaken die verkregen is uit partijsubsidies."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "Portemonnee"
+      },
+      "balance": "Saldo",
+      "modals": {
+        "sign_out": {
+          "confirm": "Weet je zeker dat je wilt uitloggen?"
+        },
+        "send": {
+          "button": "Versturen",
+          "title": "WDD verzenden",
+          "choice_description": "Kies hoe u uw drachme wilt verzenden.",
+          "transfer_to_citizen": {
+            "title": "Overdragen",
+            "description": "WDD overbrengen naar een andere burger",
+            "username_label": "Gebruikersnaam van de ontvanger"
+          },
+          "withdraw_to_crypto": {
+            "title": "Opnemen",
+            "description": "WDD opnemen naar een cryptorekening",
+            "amount_label": "Bedrag",
+            "address_label": "Portemonnee adres",
+            "network_label": "Netwerk"
+          }
+        },
+        "trade": {
+          "base": "Base WDD op Uniswap",
+          "monad": "Monad WDD op Uniswap",
+          "world": "World Chain WDD op Uniswap",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "Dit zal je account permanent verwijderen en alle gegevens van onze servers verwijderen. Deze actie kan niet ongedaan worden gemaakt — ga voorzichtig te werk.",
+          "deleting": "Verwijderen..."
+        },
+        "receive": {
+          "button": "Ontvangen",
+          "title": "WDD ontvangen",
+          "description": "Deel uw gebruikersnaam om WDD van uw vrienden te ontvangen."
+        }
+      },
+      "sections": {
+        "identification": "IDENTIFICATIE",
+        "account": "ACCOUNT",
+        "danger_zone": "GEVAARZONE",
+        "delete_account": {
+          "description": "Verwijder permanent al uw gegevens"
+        }
+      },
+      "username": {
+        "label": "Gebruikersnaam",
+        "edit_title": "Gebruikersnaam bewerken",
+        "description": "3-30 tekens, alfanumeriek, underscores en koppeltekens"
+      },
+      "history": {
+        "title": "Geschiedenis"
+      },
+      "transactions": {
+        "failed_to_load": "Laden mislukt",
+        "no_transactions": "Nog geen transacties",
+        "just_now": "Zojuist",
+        "minutes_ago": "{minutes}min geleden",
+        "hours_ago": "{hours}u geleden",
+        "days_ago": "{days}d geleden",
+        "filter": {
+          "all_types": "Alle typen",
+          "select_type": "Type selecteren"
+        },
+        "types": {
+          "withdrawal": "Opname",
+          "received": "Ontvangen",
+          "sent": "Verzonden"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "Scan deze QR-code om je te verifiëren met Self.",
+        "status_completed": "Geverifieerd",
+        "status_not_completed": "Niet geverifieerd",
+        "mobile_dialog_description": "Je wordt doorgestuurd naar de Self-app om de verificatie te voltooien.",
+        "supported_countries": "Ondersteunde landen",
+        "support_telegram": "Self-support"
+      },
+      "verification_warning": {
+        "title": "Verificatie krijgen"
+      },
+      "verification_explainer": {
+        "title": "Verificatie vereist",
+        "description": "Voltooi de verificatie om tokens op te nemen."
+      },
+      "re_verification_explainer": {
+        "title": "Herverificatie vereist",
+        "description": "Voor uw veiligheid vereisen we een recente verificatie vóór gevoelige acties zoals opnames. Dit helpt uw account te beschermen tegen ongeautoriseerde toegang."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "De meeste portemonnees tonen WDD alleen nadat het handmatig is geïmporteerd op de geselecteerde keten via het ",
+      "contract_address": "contractadres"
+    }
+  },
+  "toasts": {
+    "generic_error": "Er is een fout opgetreden",
+    "copied": "Gekopieerd",
+    "wallet": {
+      "no_wallet": "Geen portemonnee adres",
+      "min_amount": "Minimum 10 WDD",
+      "sent": "Verzonden",
+      "failed": "Sumsub ID vereist",
+      "account_deleted": "Account verwijderd",
+      "delete_failed": "Account verwijderen mislukt",
+      "contract_address_error": "Kan niet opnemen naar contract adres",
+      "sign_out_failed": "Uitloggen mislukt"
+    },
+    "parties": {
+      "founded": "Partij opgericht",
+      "found_failed": "Oprichten partij mislukt",
+      "found_error": "Fout bij oprichten van partij",
+      "updated": "Bijgewerkt",
+      "update_failed": "Bijwerken mislukt",
+      "update_error": "Fout bij bijwerken van partij",
+      "transferred": "Overgedragen",
+      "transfer_failed": "Leiderschapsoverdracht mislukt",
+      "transfer_error": "Fout bij leiderschapsoverdracht",
+      "dissolved": "Ontbonden",
+      "dissolve_failed": "Ontbinding mislukt",
+      "dissolve_error": "Fout bij ontbinden van partij"
+    }
+  },
+  "common": {
+    "confirm": "Bevestigen",
+    "sign_in": "Inloggen",
+    "max": "Max",
+    "loading": "Laden...",
+    "processing": "Verwerken...",
+    "insufficient_balance": "Niet genoeg WDD",
+    "delete_account": "Account verwijderen",
+    "sign_out": "Uitloggen",
+    "invalid_address": "Ongeldig adres",
+    "coming_soon": "Binnenkort",
+    "withdraw": "Opnemen",
+    "trade": "Handelen",
+    "continue": "Doorgaan",
+    "updating": "Bijwerken...",
+    "save": "Opslaan",
+    "vote": "Stemmen",
+    "close": "Sluiten"
+  },
+  "auth": {
+    "choose_method": "Kies uw voorkeursmethode.",
+    "sign_in_with_google": "Doorgaan met Google",
+    "sign_in_with_passkey": "Biometrie gebruiken",
+    "sign_in_or_create": "Toegang tot uw account met een passkey, met behulp van uw vingerafdruk, gezichtsscan of schermvergrendeling.",
+    "create_account": "Account aanmaken",
+    "create_passkey_name": "Passkey-naam aanmaken",
+    "passkey_name_description": "Geef uw passkey een naam om deze te identificeren in uw wachtwoordbeheerder.",
+    "passkey_name": "Passkey-naam"
+  }
+}

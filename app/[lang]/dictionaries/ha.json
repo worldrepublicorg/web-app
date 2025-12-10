@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "Menu",
+    "world_republic": "Jamhuriyar Duniya"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "Zaɓe",
+        "referendums": "Zaɓen raba gardama"
+      },
+      "sections": {
+        "parties": {
+          "title": "Jam'iyyun siyasa",
+          "subtitle": "Haɗa duniya baki ɗaya a kan dabi'u masu raba"
+        },
+        "elections": {
+          "title": "Zaɓen gwaji",
+          "subtitle": "Gwada da dimokuradiyya ta duniya"
+        },
+        "referendums": {
+          "title": "Zaɓen Raba Gardama na Tsarin Mulki na Duniya",
+          "subtitle": "Yi zaɓe a kan ƙa'idodin mu na asali"
+        }
+      },
+      "parties": {
+        "discover": "Gano",
+        "search_placeholder": "Nemo jam'iyyu...",
+        "tabs": {
+          "new": "Sabuwa",
+          "trending": "Mashahuri",
+          "top": "Mafi girma"
+        },
+        "no_parties_found": "Ba a sami jam'iyyu ba",
+        "loading_more": "Ana lodawa ƙarin jam'iyyu...",
+        "party_details": "Cikakkun bayanai na jam'iyya",
+        "share_party": "Raba jam'iyya",
+        "my_party": "Jam'iyyata",
+        "found_party_and_earn": "Kafa jam'iyya kuma ku sami tallafi",
+        "learn_more": "Ƙari koyo",
+        "party_management": "Gudanar da jam'iyya",
+        "edit_party_info": "Gyara bayanan jam'iyya",
+        "dissolve_party": "Rusa jam'iyya",
+        "dialogs": {
+          "found_party": "Ƙirƙiri jam'iyya",
+          "party_name": "Sunan jam'iyya",
+          "description_optional": "Bayani (na zaɓi)",
+          "official_link_optional": "Hanyar haɗi ta hukuma (na zaɓi)",
+          "founding": "Ana ƙirƙirwa...",
+          "updating": "Ana sabuntawa...",
+          "found": "Ƙirƙiri",
+          "save": "Ajiye",
+          "dissolving": "Ana rusa...",
+          "about_to_found": "Kana shirin ƙirƙirar sabuwar jam'iyya.",
+          "about_to_dissolve": "Kana shirin rusa {partyName}. Wannan aikin ba za a iya juyar da shi ba.",
+          "leader_warning_found": "Kai ne shugaban {partyName} a yanzu. Kafa sabuwar jam'iyya zai rusa jam'iyyarka ta yanzu."
+        },
+        "detail": {
+          "failed_to_load": "An kasa lodawa bayanan jam'iyya",
+          "party_not_found": "Ba a sami jam'iyya ba",
+          "error_loading": "Kuskure yayin lodawa jam'iyya",
+          "back_to_parties": "Koma zuwa jam'iyyu",
+          "description": "Bayani",
+          "party_info": "Bayanin jam'iyya",
+          "leader": "Shugaba",
+          "website": "Gidan yanar gizo",
+          "not_found_description": "Jam'iyyar da kake nema ba ta wanzu ba ko kuma an rusa ta."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "Zaɓe na gwaji suna zuwa nan ba da jimawa ba. Tabbatar da ainihin ku yanzu don kasancewa shirye lokacin da zaɓe ya buɗe.",
+          "verify_button": "Tabbatar da farko"
+        },
+        "coming_soon": {
+          "description": "Zaɓen gwaji zai fara ba da daɗewa ba. An riga an tabbatar da kai, kuma kana shirye ka ƙaɗa kuri’a da zaran zaɓen ya fara."
+        },
+        "no_active_election": "Babu zaɓen da ke gudana"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "ASUSU",
+          "account_info": "Bayanin asusu",
+          "language": "Harshe"
+        },
+        "help": {
+          "title": "Taimako",
+          "faq": "Tambayoyin da ake yawan yi",
+          "support": "Taimako"
+        },
+        "legal": {
+          "title": "DOKA",
+          "terms": "Sharuɗɗan Amfani",
+          "privacy": "Manufar Keɓancewa"
+        },
+        "source_code": {
+          "title": "LAMBAN TUSHE"
+        }
+      }
+    },
+    "faq": {
+      "title": "Tambayoyin da ake yawan yi",
+      "items": {
+        "app-purpose": {
+          "question": "Menene Jamhuriyar Duniya?",
+          "answer": "Jamhuriyar Duniya dandali ne na mulki mai buɗe tushe tare da kuɗin dijital na kansa wanda ke nufin kafa tsarin dimokuradiyya don zaman lafiya da tsaro na duniya."
+        },
+        "what-is-wdd": {
+          "question": "Menene WDD?",
+          "answer": "WDD (drachma duniya) kudin hukuma ne na blockchain-native na Jamhuriyar Duniya, wanda aka fitar da shi azaman token ERC-20 na yau da kullun a cikin hanyoyin sadarwa da yawa."
+        },
+        "drachma-value": {
+          "question": "Ina drachma ke samun ƙimarsa?",
+          "answer": "Drachma yana samun darajarsa daga kasancewa kudin hukuma na Jamhuriyar Duniya. Yayin da halaccin dandalin mulkin duniya yake girma, WDD na iya zama abin rarraba duniya da kuma babban hanyar musayar tattalin arzikin duniya."
+        },
+        "identity-verification": {
+          "question": "Yaya tabbatar da asali ke aiki?",
+          "answer": "Jamhuriyar Duniya tana amfani da Self don tabbatar da asalin ku ta hanyar fasfo ko katin shaidar ƙasa. Sirrinku yana kariya—Self kawai yana tabbatar da cewa kai mutum ne na gaske ba tare da bayyana bayanan ku na sirri ba."
+        },
+        "test-elections": {
+          "question": "Menene zaɓen gwaji?",
+          "answer": "Zaɓen gwaji gwaje-gwaje ne inda 'yan ƙasa na Jamhuriyar Duniya ke jefa ƙuri'a ga jam'iyyun siyasa. Ana saka kowace jam'iyya ta atomatik a kan takardar jefa ƙuri'a, tare da tabbatar da dama daidai ga duk masu son zama shugabanni."
+        },
+        "party-subsidies": {
+          "question": "Yaya tallafin jam'iyya ke aiki?",
+          "answer": "Jamhuriyar Duniya tana tallafawa jam'iyyun siyasa dangane da goyon bayan dimokuradiyya. Muna rarraba tallafin WDD daidai da sakamakon zaɓe, tare da tabbatar da cewa kowace ƙuri'a tana haɓaka albarkatun kuɗi na jam'iyya kai tsaye."
+        },
+        "verification-required": {
+          "question": "Ana buƙatar tabbatarwa don shiga?",
+          "answer": "Ana buƙatar tabbatar da ainihi kawai don yin zaɓe. Kuna iya kafa jam'iyyu kuma ku canza WDD da aka samu daga tallafin jam'iyyu ba tare da tabbatarwa ba."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "Jakar kuɗi"
+      },
+      "balance": "Ma'auni",
+      "modals": {
+        "sign_out": {
+          "confirm": "Kuna da tabbacin cewa kuna son fita?"
+        },
+        "send": {
+          "button": "Aika",
+          "title": "Aika WDD",
+          "choice_description": "Zaɓi yadda kake son aika drachma naka.",
+          "transfer_to_citizen": {
+            "title": "Canja",
+            "description": "Canja WDD zuwa wani ɗan ƙasa",
+            "username_label": "Sunan mai karɓa"
+          },
+          "withdraw_to_crypto": {
+            "title": "Cire",
+            "description": "Cire WDD zuwa asusun crypto",
+            "amount_label": "Adadi",
+            "address_label": "Adireshin jakar kuɗi",
+            "network_label": "Cibiyar sadarwa"
+          }
+        },
+        "trade": {
+          "base": "Base WDD akan Uniswap",
+          "monad": "Monad WDD akan Uniswap",
+          "world": "World Chain WDD akan Uniswap",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "Wannan zai share asusu ɗinku na dindindin kuma ya cire duk bayananku daga sabobin mu. Wannan aikin ba za a iya juyar da shi ba — don Allah ku ci gaba da hankali.",
+          "deleting": "Ana share..."
+        },
+        "receive": {
+          "button": "Karɓa",
+          "title": "Karɓa WDD",
+          "description": "Raba sunan mai amfani don karɓar WDD daga abokanka."
+        }
+      },
+      "sections": {
+        "identification": "SHAIDA",
+        "account": "ASUSU",
+        "danger_zone": "YANKIN HADARI",
+        "delete_account": {
+          "description": "Cire duk bayanan ku na dindindin"
+        }
+      },
+      "username": {
+        "label": "Sunan mai amfani",
+        "edit_title": "Gyara sunan mai amfani",
+        "description": "Haruffa 3-30, alfanumerik, ƙasa da layukan"
+      },
+      "history": {
+        "title": "Tarihi"
+      },
+      "transactions": {
+        "failed_to_load": "An kasa lodawa",
+        "no_transactions": "Babu ma'amaloli tukuna",
+        "just_now": "Yanzu",
+        "minutes_ago": "da {minutes}m",
+        "hours_ago": "da {hours}h",
+        "days_ago": "da {days}k",
+        "filter": {
+          "all_types": "Duk nau'ukan",
+          "select_type": "Zaɓi nau'i"
+        },
+        "types": {
+          "withdrawal": "Cirewa",
+          "received": "An karɓa",
+          "sent": "An aika"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "Duba wannan lambar QR don tabbatarwa ta Self.",
+        "status_completed": "An tabbatar",
+        "status_not_completed": "Ba a tabbatar ba",
+        "mobile_dialog_description": "Za a mayar da kai zuwa manhajar Self don kammala tantancewa.",
+        "supported_countries": "Kasashen da ake tallafawa",
+        "support_telegram": "Tallafin Self"
+      },
+      "verification_warning": {
+        "title": "Samu tabbatarwa"
+      },
+      "verification_explainer": {
+        "title": "Tabbatarwa yana buƙata",
+        "description": "Don Allah kammala tabbatarwa don cire tokens."
+      },
+      "re_verification_explainer": {
+        "title": "Sake tabbatarwa yana buƙata",
+        "description": "Don amincin ku, muna buƙatar sabuwar tabbatarwa kafin ayyuka masu mahimmanci kamar cirewa. Wannan yana taimakawa kare asusunku daga shiga mara izini."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "Yawancin walat ɗin suna nuna WDD ne kawai bayan an shigo da shi da hannu a kan zaɓaɓɓen sarkar ta ",
+      "contract_address": "adireshin kwangila"
+    }
+  },
+  "toasts": {
+    "generic_error": "An sami kuskure",
+    "copied": "An kwafi",
+    "wallet": {
+      "no_wallet": "Babu adireshin jakar kuɗi",
+      "min_amount": "Mafi ƙanƙani 10 WDD",
+      "sent": "An aika",
+      "failed": "Ana buƙatar Sumsub ID",
+      "account_deleted": "An share asusu",
+      "delete_failed": "Ya gaza share asusu",
+      "contract_address_error": "Ba za a iya cire zuwa adireshin kwangilar ba",
+      "sign_out_failed": "Fita bai yi nasara ba"
+    },
+    "parties": {
+      "founded": "Jam'iyya ta kasance",
+      "found_failed": "Ƙirƙirar jam'iyya ta gaza",
+      "found_error": "Kuskure yayin ƙirƙirar jam'iyya",
+      "updated": "An sabunta",
+      "update_failed": "Sabuntawa ta gaza",
+      "update_error": "Kuskure yayin sabunta jam'iyya",
+      "transferred": "An canja",
+      "transfer_failed": "Canja shugabanci ya gaza",
+      "transfer_error": "Kuskure yayin canja shugabanci",
+      "dissolved": "An rusa",
+      "dissolve_failed": "Rusa ya gaza",
+      "dissolve_error": "Kuskure yayin rusa jam'iyya"
+    }
+  },
+  "common": {
+    "confirm": "Tabbatar",
+    "sign_in": "Shiga",
+    "max": "Mafi girma",
+    "loading": "Ana loda...",
+    "processing": "Ana aiki...",
+    "insufficient_balance": "WDD mara isa",
+    "delete_account": "Share asusu",
+    "sign_out": "Fita",
+    "invalid_address": "Adireshin da ba a yarda da shi ba",
+    "coming_soon": "Nan da nan",
+    "withdraw": "Cire",
+    "trade": "Kasuwanci",
+    "continue": "Ci gaba",
+    "updating": "Ana sabuntawa...",
+    "save": "Ajiye",
+    "vote": "Ka zabe",
+    "close": "Rufe"
+  },
+  "auth": {
+    "choose_method": "Zaɓi hanyar da kuka fi so.",
+    "sign_in_with_google": "Ci gaba da Google",
+    "sign_in_with_passkey": "Yi amfani da biometrics",
+    "sign_in_or_create": "Shiga asusunka tare da passkey, ta amfani da yatsa, binciken fuska ko kulle allon.",
+    "create_account": "Ƙirƙiri asusu",
+    "create_passkey_name": "Ƙirƙiri sunan passkey",
+    "passkey_name_description": "Suna passkey ɗinka don gane shi a cikin mai sarrafa kalmar sirri.",
+    "passkey_name": "Sunan passkey"
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "Menü",
+    "world_republic": "Weltrepublik"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "Wahlen",
+        "referendums": "Referenden"
+      },
+      "sections": {
+        "parties": {
+          "title": "Politische Parteien",
+          "subtitle": "Weltweit um gemeinsame Werte vereinen"
+        },
+        "elections": {
+          "title": "Testwahlen",
+          "subtitle": "Mit globaler Demokratie experimentieren"
+        },
+        "referendums": {
+          "title": "Weltverfassungsreferendum",
+          "subtitle": "Über unsere Grundprinzipien abstimmen"
+        }
+      },
+      "parties": {
+        "discover": "Entdecken",
+        "search_placeholder": "Parteien suchen...",
+        "tabs": {
+          "new": "Neu",
+          "trending": "Trending",
+          "top": "Top"
+        },
+        "no_parties_found": "Keine Parteien gefunden",
+        "loading_more": "Lade weitere Parteien...",
+        "party_details": "Parteidetails",
+        "share_party": "Partei teilen",
+        "my_party": "Meine Partei",
+        "found_party_and_earn": "Gründen Sie eine Partei und erhalten Sie Subventionen",
+        "learn_more": "Mehr erfahren",
+        "party_management": "Parteiverwaltung",
+        "edit_party_info": "Parteiinformationen bearbeiten",
+        "dissolve_party": "Partei auflösen",
+        "dialogs": {
+          "found_party": "Partei gründen",
+          "party_name": "Parteiname",
+          "description_optional": "Beschreibung (optional)",
+          "official_link_optional": "Offizieller Link (optional)",
+          "founding": "Gründe...",
+          "updating": "Aktualisiere...",
+          "found": "Gründen",
+          "save": "Speichern",
+          "dissolving": "Löse auf...",
+          "about_to_found": "Sie sind dabei, eine neue Partei zu gründen.",
+          "about_to_dissolve": "Sie sind dabei, {partyName} aufzulösen. Diese Aktion kann nicht rückgängig gemacht werden.",
+          "leader_warning_found": "Sie sind derzeit der Führer von {partyName}. Die Gründung einer neuen Partei wird Ihre aktuelle Partei auflösen."
+        },
+        "detail": {
+          "failed_to_load": "Fehler beim Laden der Parteidaten",
+          "party_not_found": "Partei nicht gefunden",
+          "error_loading": "Fehler beim Laden der Partei",
+          "back_to_parties": "Zurück zu Parteien",
+          "description": "Beschreibung",
+          "party_info": "Parteiinformationen",
+          "leader": "Vorsitzender",
+          "website": "Website",
+          "not_found_description": "Die gesuchte Partei existiert nicht oder wurde aufgelöst."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "Testwahlen kommen bald. Verifizieren Sie jetzt Ihre Identität, um bereit zu sein, wenn die Abstimmung beginnt.",
+          "verify_button": "Vorab verifizieren"
+        },
+        "coming_soon": {
+          "description": "Die Testwahlen beginnen bald. Du bist bereits verifiziert und bereit zu wählen, sobald die Wahl startet."
+        },
+        "no_active_election": "Keine aktive Wahl"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "KONTO",
+          "account_info": "Kontoinformationen",
+          "language": "Sprache"
+        },
+        "help": {
+          "title": "HILFE",
+          "faq": "FAQ",
+          "support": "Support"
+        },
+        "source_code": {
+          "title": "QUELLCODE"
+        },
+        "legal": {
+          "title": "RECHT",
+          "terms": "Nutzungsbedingungen",
+          "privacy": "Datenschutz"
+        }
+      }
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "app-purpose": {
+          "question": "Was ist die Weltrepublik?",
+          "answer": "Die Weltrepublik ist eine Open-Source-Governance-Plattform mit eigener digitaler Währung, die darauf abzielt, einen demokratischen Rahmen für globalen Frieden und Sicherheit zu schaffen."
+        },
+        "what-is-wdd": {
+          "question": "Was ist WDD?",
+          "answer": "WDD (Weltdrachme) ist die blockchain-native offizielle Währung der Weltrepublik, die als Standard-ERC-20-Token über mehrere Netzwerke ausgegeben wird."
+        },
+        "drachma-value": {
+          "question": "Woher bezieht die Drachme ihren Wert?",
+          "answer": "Die Drachme erhält ihren Wert dadurch, dass sie die offizielle Währung der Weltrepublik ist. Mit wachsender Legitimität unserer globalen Governance-Plattform kann WDD zum Vehikel der globalen Umverteilung und zum Haupttauschmittel in der Weltwirtschaft werden."
+        },
+        "identity-verification": {
+          "question": "Wie funktioniert die Identitätsprüfung?",
+          "answer": "Die Weltrepublik nutzt Self zur Überprüfung Ihrer Identität über Ihren Reisepass oder Personalausweis. Ihre Privatsphäre ist geschützt—Self bestätigt nur, dass Sie eine echte Person sind, ohne Ihre persönlichen Daten preiszugeben."
+        },
+        "test-elections": {
+          "question": "Was sind Testwahlen?",
+          "answer": "Testwahlen sind Experimente, bei denen Bürger der Weltrepublik für politische Parteien stimmen. Jede Partei wird automatisch auf den Wahlzettel gesetzt, was gleiche Chancen für alle angehenden Führungskräfte gewährleistet."
+        },
+        "party-subsidies": {
+          "question": "Wie funktionieren Parteisubventionen?",
+          "answer": "Die Weltrepublik finanziert politische Parteien auf der Basis demokratischer Unterstützung. Wir verteilen WDD-Zuschüsse proportional zu den Wahlergebnissen und stellen sicher, dass jede Stimme die finanziellen Ressourcen einer Partei direkt erhöht."
+        },
+        "verification-required": {
+          "question": "Brauche ich eine Verifizierung, um teilzunehmen?",
+          "answer": "Die Identitätsprüfung ist nur für das Wählen erforderlich. Sie können Parteien gründen und WDD aus Parteisubventionen auch ohne Verifizierung transferieren."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "Geldbörse"
+      },
+      "balance": "Saldo",
+      "modals": {
+        "sign_out": {
+          "confirm": "Möchtest du dich wirklich abmelden?"
+        },
+        "send": {
+          "button": "Senden",
+          "title": "WDD senden",
+          "choice_description": "Wählen Sie, wie Sie Ihre Drachme senden möchten.",
+          "transfer_to_citizen": {
+            "title": "Übertragen",
+            "description": "WDD an einen anderen Bürger übertragen",
+            "username_label": "Benutzername des Empfängers"
+          },
+          "withdraw_to_crypto": {
+            "title": "Abheben",
+            "description": "WDD auf ein Krypto-Konto abheben",
+            "amount_label": "Betrag",
+            "address_label": "Geldbörse-Adresse",
+            "network_label": "Netzwerk"
+          }
+        },
+        "trade": {
+          "base": "Base WDD auf Uniswap",
+          "monad": "Monad WDD auf Uniswap",
+          "world": "World Chain WDD auf Uniswap",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "Dies wird Ihr Konto dauerhaft löschen und alle Ihre Daten von unseren Servern entfernen. Diese Aktion kann nicht rückgängig gemacht werden — bitte fahren Sie vorsichtig fort.",
+          "deleting": "Wird gelöscht..."
+        },
+        "receive": {
+          "button": "Empfangen",
+          "title": "WDD empfangen",
+          "description": "Teilen Sie Ihren Benutzernamen, um WDD von Ihren Freunden zu erhalten."
+        }
+      },
+      "sections": {
+        "identification": "IDENTIFIKATION",
+        "account": "KONTO",
+        "danger_zone": "GEFÄHRENZONE",
+        "delete_account": {
+          "description": "Alle Ihre Daten dauerhaft entfernen"
+        }
+      },
+      "username": {
+        "label": "Benutzername",
+        "edit_title": "Benutzername bearbeiten",
+        "description": "3-30 Zeichen, alphanumerisch, Unterstriche und Bindestriche"
+      },
+      "history": {
+        "title": "Verlauf"
+      },
+      "transactions": {
+        "failed_to_load": "Laden fehlgeschlagen",
+        "no_transactions": "Noch keine Transaktionen",
+        "just_now": "Gerade eben",
+        "minutes_ago": "vor {minutes}m",
+        "hours_ago": "vor {hours}h",
+        "days_ago": "vor {days}d",
+        "filter": {
+          "all_types": "Alle Typen",
+          "select_type": "Typ auswählen"
+        },
+        "types": {
+          "withdrawal": "Abhebung",
+          "received": "Empfangen",
+          "sent": "Gesendet"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "Scannen Sie diesen QR-Code, um sich mit Self zu verifizieren.",
+        "status_completed": "Verifiziert",
+        "status_not_completed": "Nicht verifiziert",
+        "mobile_dialog_description": "Du wirst zur Self-App weitergeleitet, um die Verifizierung abzuschließen.",
+        "supported_countries": "Unterstützte Länder",
+        "support_telegram": "Self Support"
+      },
+      "verification_warning": {
+        "title": "Verifizierung erhalten"
+      },
+      "verification_explainer": {
+        "title": "Verifizierung erforderlich",
+        "description": "Bitte schließen Sie die Verifizierung ab, um Token abzuheben."
+      },
+      "re_verification_explainer": {
+        "title": "Erneute Verifizierung erforderlich",
+        "description": "Zu Ihrer Sicherheit benötigen wir eine aktuelle Verifizierung vor sensiblen Aktionen wie Abhebungen. Dies hilft, Ihr Konto vor unbefugtem Zugriff zu schützen."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "Die meisten Geldbörsen zeigen WDD nur an, nachdem es manuell auf der ausgewählten Chain über seine ",
+      "contract_address": "Vertragsadresse"
+    }
+  },
+  "toasts": {
+    "generic_error": "Ein Fehler ist aufgetreten",
+    "copied": "Kopiert",
+    "wallet": {
+      "no_wallet": "Keine Geldbörse-Adresse",
+      "min_amount": "Mindestens 10 WDD",
+      "sent": "Gesendet",
+      "failed": "Sumsub ID erforderlich",
+      "account_deleted": "Konto gelöscht",
+      "delete_failed": "Löschen des Kontos fehlgeschlagen",
+      "contract_address_error": "Auszahlung an Vertragsadresse nicht möglich",
+      "sign_out_failed": "Abmeldung fehlgeschlagen"
+    },
+    "parties": {
+      "founded": "Partei gegründet",
+      "found_failed": "Gründung fehlgeschlagen",
+      "found_error": "Fehler beim Gründen der Partei",
+      "updated": "Aktualisiert",
+      "update_failed": "Aktualisierung fehlgeschlagen",
+      "update_error": "Fehler beim Aktualisieren der Partei",
+      "transferred": "Übertragen",
+      "transfer_failed": "Führungsübertragung fehlgeschlagen",
+      "transfer_error": "Fehler bei der Führungsübertragung",
+      "dissolved": "Aufgelöst",
+      "dissolve_failed": "Auflösung fehlgeschlagen",
+      "dissolve_error": "Fehler beim Auflösen der Partei"
+    }
+  },
+  "common": {
+    "confirm": "Bestätigen",
+    "sign_in": "Anmelden",
+    "max": "Max",
+    "loading": "Lädt...",
+    "processing": "Verarbeitung...",
+    "insufficient_balance": "Nicht genug WDD",
+    "delete_account": "Konto löschen",
+    "sign_out": "Abmelden",
+    "invalid_address": "Ungültige Adresse",
+    "coming_soon": "Demnächst",
+    "withdraw": "Abheben",
+    "trade": "Handeln",
+    "continue": "Weiter",
+    "updating": "Aktualisiere...",
+    "save": "Speichern",
+    "vote": "Abstimmen",
+    "close": "Schließen"
+  },
+  "auth": {
+    "choose_method": "Wählen Sie Ihre bevorzugte Methode.",
+    "sign_in_with_google": "Mit Google fortfahren",
+    "sign_in_with_passkey": "Biometrie verwenden",
+    "sign_in_or_create": "Greifen Sie mit einem Passkey auf Ihr Konto zu, indem Sie Ihren Fingerabdruck, Gesichtsscan oder Bildschirmsperre verwenden.",
+    "create_account": "Konto erstellen",
+    "create_passkey_name": "Passkey-Namen erstellen",
+    "passkey_name_description": "Benennen Sie Ihren Passkey, um ihn im Passwort-Manager zu identifizieren.",
+    "passkey_name": "Passkey-Name"
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "القائمة",
+    "world_republic": "الجمهورية العالمية"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "الانتخابات",
+        "referendums": "الاستفتاءات"
+      },
+      "sections": {
+        "parties": {
+          "title": "الأحزاب السياسية",
+          "subtitle": "اتحد عالمياً حول القيم المشتركة"
+        },
+        "elections": {
+          "title": "انتخابات تجريبية",
+          "subtitle": "جرب الديمقراطية العالمية"
+        },
+        "referendums": {
+          "title": "الاستفتاء الدستوري العالمي",
+          "subtitle": "صوت على مبادئنا الأساسية"
+        }
+      },
+      "parties": {
+        "discover": "اكتشف",
+        "search_placeholder": "البحث عن الأحزاب...",
+        "tabs": {
+          "new": "جديد",
+          "trending": "رائج",
+          "top": "الأعلى"
+        },
+        "no_parties_found": "لم يتم العثور على أحزاب",
+        "loading_more": "جاري تحميل المزيد من الأحزاب...",
+        "party_details": "تفاصيل الحزب",
+        "share_party": "مشاركة الحزب",
+        "my_party": "حزبي",
+        "found_party_and_earn": "أنشئ حزبًا واحصل على إعانات",
+        "learn_more": "اعرف المزيد",
+        "party_management": "إدارة الحزب",
+        "edit_party_info": "تعديل معلومات الحزب",
+        "dissolve_party": "حل الحزب",
+        "dialogs": {
+          "found_party": "تأسيس حزب",
+          "party_name": "اسم الحزب",
+          "description_optional": "الوصف (اختياري)",
+          "official_link_optional": "الرابط الرسمي (اختياري)",
+          "founding": "جاري التأسيس...",
+          "updating": "جاري التحديث...",
+          "found": "تأسيس",
+          "save": "حفظ",
+          "dissolving": "جاري الحل...",
+          "about_to_found": "أنت على وشك تأسيس حزب جديد.",
+          "about_to_dissolve": "أنت على وشك حل {partyName}. لا يمكن التراجع عن هذا الإجراء.",
+          "leader_warning_found": "أنت حاليًا قائد {partyName}. تأسيس حزب جديد سيحل حزبك الحالي."
+        },
+        "detail": {
+          "failed_to_load": "فشل تحميل بيانات الحزب",
+          "party_not_found": "لم يتم العثور على الحزب",
+          "error_loading": "خطأ في تحميل الحزب",
+          "back_to_parties": "العودة إلى الأحزاب",
+          "description": "الوصف",
+          "party_info": "معلومات الحزب",
+          "leader": "القائد",
+          "website": "الموقع الإلكتروني",
+          "not_found_description": "الحزب الذي تبحث عنه غير موجود أو تم حله."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "الانتخابات التجريبية قادمة قريباً. تحقق من هويتك الآن لتكون جاهزاً عند فتح التصويت.",
+          "verify_button": "التحقق مسبقاً"
+        },
+        "coming_soon": {
+          "description": "الانتخابات التجريبية ستبدأ قريبًا. تم التحقق منك بالفعل وأنت جاهز للتصويت بمجرد بدء الانتخابات."
+        },
+        "no_active_election": "لا توجد انتخابات نشطة"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "الحساب",
+          "account_info": "معلومات الحساب",
+          "language": "اللغة"
+        },
+        "help": {
+          "title": "المساعدة",
+          "faq": "الأسئلة الشائعة",
+          "support": "الدعم"
+        },
+        "legal": {
+          "title": "القانونية",
+          "terms": "شروط الاستخدام",
+          "privacy": "سياسة الخصوصية"
+        },
+        "source_code": {
+          "title": "الكود المصدري"
+        }
+      }
+    },
+    "faq": {
+      "title": "الأسئلة الشائعة",
+      "items": {
+        "app-purpose": {
+          "question": "ما هي الجمهورية العالمية؟",
+          "answer": "جمهورية العالم هي منصة حوكمة مفتوحة المصدر لها عملتها الرقمية الخاصة التي تهدف إلى إنشاء إطار ديمقراطي للسلام والأمن العالميين."
+        },
+        "what-is-wdd": {
+          "question": "ما هو WDD؟",
+          "answer": "WDD (الدراخما العالمية) هي العملة الرسمية الأصلية للبلوك تشين لجمهورية العالم، الصادرة كرمز ERC-20 قياسي عبر عدة شبكات."
+        },
+        "drachma-value": {
+          "question": "من أين يحصل الدراخم على قيمته؟",
+          "answer": "تحصل الدراخما على قيمتها من كونها العملة الرسمية للجمهورية العالمية. مع نمو شرعية منصة الحكم العالمية لدينا، يمكن أن تصبح WDD وسيلة إعادة التوزيع العالمي والوسيط الرئيسي للتبادل في الاقتصاد العالمي."
+        },
+        "identity-verification": {
+          "question": "كيف يعمل التحقق من الهوية؟",
+          "answer": "تستخدم الجمهورية العالمية Self للتحقق من هويتك من خلال جواز سفرك أو بطاقة الهوية الوطنية. خصوصيتك محمية—Self يؤكد فقط أنك شخص حقيقي دون الكشف عن أي من بياناتك الشخصية."
+        },
+        "test-elections": {
+          "question": "ما هي الانتخابات التجريبية؟",
+          "answer": "الانتخابات التجريبية هي تجارب يصوت فيها مواطنو الجمهورية العالمية للأحزاب السياسية. يتم إدراج كل حزب تلقائيًا في ورقة الاقتراع، مما يضمن تكافؤ الفرص لجميع القادة الطموحين."
+        },
+        "party-subsidies": {
+          "question": "كيف تعمل إعانات الأحزاب؟",
+          "answer": "تقوم الجمهورية العالمية بتمويل الأحزاب السياسية بناءً على الدعم الديمقراطي. نقوم بتوزيع منح WDD بما يتناسب مع نتائج الانتخابات، مما يضمن أن كل صوت يزيد بشكل مباشر من الموارد المالية للحزب."
+        },
+        "verification-required": {
+          "question": "هل التحقق ضروري للمشاركة؟",
+          "answer": "التحقق من الهوية مطلوب فقط للتصويت. يمكنك تأسيس أحزاب وتحويل عملات WDD المكتسبة من إعانات الأحزاب دون الحاجة إلى التحقق."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "المحفظة"
+      },
+      "balance": "الرصيد",
+      "modals": {
+        "sign_out": {
+          "confirm": "هل أنت متأكد من أنك تريد تسجيل الخروج؟"
+        },
+        "send": {
+          "button": "إرسال",
+          "title": "إرسال WDD",
+          "choice_description": "اختر كيف تريد إرسال دراخمك.",
+          "transfer_to_citizen": {
+            "title": "تحويل",
+            "description": "تحويل WDD إلى مواطن آخر",
+            "username_label": "اسم المستخدم للمستلم"
+          },
+          "withdraw_to_crypto": {
+            "title": "سحب",
+            "description": "سحب WDD إلى حساب عملة مشفرة",
+            "amount_label": "المبلغ",
+            "address_label": "عنوان المحفظة",
+            "network_label": "الشبكة"
+          }
+        },
+        "trade": {
+          "base": "Base WDD على Uniswap",
+          "monad": "Monad WDD على Uniswap",
+          "world": "World Chain WDD على Uniswap",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "سيؤدي هذا إلى حذف حسابك نهائياً وإزالة جميع بياناتك من خوادمنا. لا يمكن التراجع عن هذا الإجراء — يرجى المتابعة بحذر.",
+          "deleting": "جاري الحذف..."
+        },
+        "receive": {
+          "button": "استقبل",
+          "title": "استقبل WDD",
+          "description": "شارك اسم المستخدم الخاص بك لتلقي WDD من أصدقائك."
+        }
+      },
+      "sections": {
+        "identification": "الهوية",
+        "account": "الحساب",
+        "danger_zone": "منطقة الخطر",
+        "delete_account": {
+          "description": "إزالة جميع بياناتك بشكل دائم"
+        }
+      },
+      "username": {
+        "label": "اسم المستخدم",
+        "edit_title": "تعديل اسم المستخدم",
+        "description": "3-30 حرفًا، أبجدي رقمي، شرطات سفلية وشرطات"
+      },
+      "history": {
+        "title": "السجل"
+      },
+      "transactions": {
+        "failed_to_load": "فشل التحميل",
+        "no_transactions": "لا توجد معاملات بعد",
+        "just_now": "الآن",
+        "minutes_ago": "منذ {minutes}د",
+        "hours_ago": "منذ {hours}س",
+        "days_ago": "منذ {days}ي",
+        "filter": {
+          "all_types": "جميع الأنواع",
+          "select_type": "اختر النوع"
+        },
+        "types": {
+          "withdrawal": "سحب",
+          "received": "مستلم",
+          "sent": "مرسل"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "امسح رمز الاستجابة السريعة هذا للتحقق عبر Self.",
+        "status_completed": "متحقق",
+        "status_not_completed": "غير متحقق",
+        "mobile_dialog_description": "سيتم إعادة توجيهك إلى تطبيق Self لإكمال التحقق.",
+        "supported_countries": "الدول المدعومة",
+        "support_telegram": "دعم Self"
+      },
+      "verification_warning": {
+        "title": "احصل على التحقق"
+      },
+      "verification_explainer": {
+        "title": "التحقق مطلوب",
+        "description": "يرجى إكمال التحقق لسحب الرموز المميزة."
+      },
+      "re_verification_explainer": {
+        "title": "إعادة التحقق مطلوبة",
+        "description": "لأمانك، نطلب التحقق الحديث قبل الإجراءات الحساسة مثل عمليات السحب. يساعد هذا في حماية حسابك من الوصول غير المصرح به."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "معظم المحافظ تعرض WDD فقط بعد استيراده يدوياً على السلسلة المحددة باستخدام ",
+      "contract_address": "عنوان العقد"
+    }
+  },
+  "toasts": {
+    "generic_error": "حدث خطأ",
+    "copied": "تم النسخ",
+    "wallet": {
+      "no_wallet": "لا يوجد عنوان محفظة",
+      "min_amount": "الحد الأدنى 10 WDD",
+      "sent": "تم الإرسال",
+      "failed": "Sumsub ID مطلوب",
+      "account_deleted": "تم حذف الحساب",
+      "delete_failed": "فشل في حذف الحساب",
+      "contract_address_error": "لا يمكن السحب إلى عنوان العقد",
+      "sign_out_failed": "فشل في تسجيل الخروج"
+    },
+    "parties": {
+      "founded": "تم تأسيس الحزب",
+      "found_failed": "فشل تأسيس الحزب",
+      "found_error": "خطأ في تأسيس الحزب",
+      "updated": "تم التحديث",
+      "update_failed": "فشل التحديث",
+      "update_error": "خطأ في تحديث الحزب",
+      "transferred": "تم النقل",
+      "transfer_failed": "فشل نقل القيادة",
+      "transfer_error": "خطأ في نقل القيادة",
+      "dissolved": "تم الحل",
+      "dissolve_failed": "فشل الحل",
+      "dissolve_error": "خطأ في حل الحزب"
+    }
+  },
+  "common": {
+    "confirm": "تأكيد",
+    "sign_in": "تسجيل الدخول",
+    "max": "الحد الأقصى",
+    "loading": "جاري التحميل...",
+    "processing": "جاري المعالجة...",
+    "insufficient_balance": "WDD غير كافي",
+    "delete_account": "حذف الحساب",
+    "sign_out": "تسجيل الخروج",
+    "invalid_address": "عنوان غير صالح",
+    "coming_soon": "قريباً",
+    "withdraw": "سحب",
+    "trade": "تداول",
+    "continue": "متابعة",
+    "updating": "جاري التحديث...",
+    "save": "حفظ",
+    "vote": "صوت",
+    "close": "إغلاق"
+  },
+  "auth": {
+    "choose_method": "اختر الطريقة المفضلة لديك.",
+    "sign_in_with_google": "المتابعة مع Google",
+    "sign_in_with_passkey": "استخدم القياسات الحيوية",
+    "sign_in_or_create": "الوصول إلى حسابك باستخدام مفتاح المرور، باستخدام بصمة الإصبع أو مسح الوجه أو قفل الشاشة.",
+    "create_account": "إنشاء حساب",
+    "create_passkey_name": "إنشاء اسم مفتاح المرور",
+    "passkey_name_description": "قم بتسمية مفتاح المرور الخاص بك لتحديده في مدير كلمات المرور.",
+    "passkey_name": "اسم مفتاح المرور"
+  }
+}

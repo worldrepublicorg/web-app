@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "منو",
+    "world_republic": "جمهوری جهانی"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "انتخابات",
+        "referendums": "همه‌پرسی"
+      },
+      "sections": {
+        "parties": {
+          "title": "احزاب سیاسی",
+          "subtitle": "به طور جهانی حول ارزش‌های مشترک متحد شوید"
+        },
+        "elections": {
+          "title": "انتخابات آزمایشی",
+          "subtitle": "با دموکراسی جهانی تجربه کنید"
+        },
+        "referendums": {
+          "title": "همه‌پرسی قانون اساسی جهان",
+          "subtitle": "بر اصول بنیادین ما رأی دهید"
+        }
+      },
+      "parties": {
+        "discover": "کشف کنید",
+        "search_placeholder": "جستجوی احزاب...",
+        "tabs": {
+          "new": "جدید",
+          "trending": "محبوب",
+          "top": "برتر"
+        },
+        "no_parties_found": "حزبی یافت نشد",
+        "loading_more": "در حال بارگذاری احزاب بیشتر...",
+        "party_details": "جزئیات حزب",
+        "share_party": "اشتراک‌گذاری حزب",
+        "my_party": "حزب من",
+        "found_party_and_earn": "حزب تأسیس کنید و یارانه دریافت کنید",
+        "learn_more": "بیشتر بدانید",
+        "party_management": "مدیریت حزب",
+        "edit_party_info": "ویرایش اطلاعات حزب",
+        "dissolve_party": "انحلال حزب",
+        "dialogs": {
+          "found_party": "تأسیس حزب",
+          "party_name": "نام حزب",
+          "description_optional": "توضیحات (اختیاری)",
+          "official_link_optional": "لینک رسمی (اختیاری)",
+          "founding": "در حال تأسیس...",
+          "updating": "در حال به‌روزرسانی...",
+          "found": "تأسیس",
+          "save": "ذخیره",
+          "dissolving": "در حال انحلال...",
+          "about_to_found": "شما در حال تأسیس یک حزب جدید هستید.",
+          "about_to_dissolve": "شما در حال انحلال {partyName} هستید. این عمل قابل بازگشت نیست.",
+          "leader_warning_found": "شما در حال حاضر رهبر {partyName} هستید. تأسیس حزب جدید حزب فعلی شما را منحل خواهد کرد."
+        },
+        "detail": {
+          "failed_to_load": "بارگذاری اطلاعات حزب ناموفق بود",
+          "party_not_found": "حزب یافت نشد",
+          "error_loading": "خطا در بارگذاری حزب",
+          "back_to_parties": "بازگشت به احزاب",
+          "description": "توضیحات",
+          "party_info": "اطلاعات حزب",
+          "leader": "رهبر",
+          "website": "وب‌سایت",
+          "not_found_description": "حزبی که به دنبال آن هستید وجود ندارد یا منحل شده است."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "انتخابات آزمایشی به زودی برگزار می‌شود. اکنون هویت خود را تأیید کنید تا هنگام باز شدن رای‌گیری آماده باشید.",
+          "verify_button": "پیش‌تأیید"
+        },
+        "coming_soon": {
+          "description": "انتخابات آزمایشی به‌زودی آغاز می‌شود. شما از قبل تأیید شده‌اید و آماده رأی دادن هستید به محض شروع انتخابات."
+        },
+        "no_active_election": "انتخاباتی در حال برگزاری نیست"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "حساب کاربری",
+          "account_info": "اطلاعات حساب",
+          "language": "زبان"
+        },
+        "help": {
+          "title": "راهنما",
+          "faq": "سوالات متداول",
+          "support": "پشتیبانی"
+        },
+        "legal": {
+          "title": "قانونی",
+          "terms": "شرایط استفاده",
+          "privacy": "حریم خصوصی"
+        },
+        "source_code": {
+          "title": "کد منبع"
+        }
+      }
+    },
+    "faq": {
+      "title": "سوالات متداول",
+      "items": {
+        "app-purpose": {
+          "question": "جمهوری جهان چیست؟",
+          "answer": "جمهوری جهانی یک پلتفرم حاکمیتی منبع باز با ارز دیجیتال خود است که هدف آن ایجاد چارچوبی دموکراتیک برای صلح و امنیت جهانی است."
+        },
+        "what-is-wdd": {
+          "question": "WDD چیست؟",
+          "answer": "WDD (دراخمای جهانی) ارز رسمی blockchain-native جمهوری جهانی است که به عنوان توکن استاندارد ERC-20 در چندین شبکه صادر شده است."
+        },
+        "drachma-value": {
+          "question": "دراخما ارزش خود را از کجا می‌گیرد؟",
+          "answer": "دراخما ارزش خود را از اینکه ارز رسمی جمهوری جهانی است به دست می‌آورد. با افزایش مشروعیت پلتفرم حاکمیت جهانی ما، WDD می‌تواند به وسیله توزیع مجدد جهانی و رسانه اصلی مبادله در اقتصاد جهان تبدیل شود."
+        },
+        "identity-verification": {
+          "question": "تأیید هویت چگونه کار می‌کند؟",
+          "answer": "جمهوری جهانی از Self برای تأیید هویت شما از طریق پاسپورت یا کارت شناسایی ملی استفاده می‌کند. حریم خصوصی شما محافظت می‌شود—Self فقط تأیید می‌کند که شما یک شخص واقعی هستید بدون افشای اطلاعات شخصی شما."
+        },
+        "test-elections": {
+          "question": "انتخابات آزمایشی چیست؟",
+          "answer": "انتخابات آزمایشی آزمایش‌هایی هستند که در آن شهروندان جمهوری جهانی به احزاب سیاسی رأی می‌دهند. هر حزب به‌طور خودکار در برگه رأی گنجانده می‌شود و فرصت برابر برای همه رهبران مشتاق تضمین می‌شود."
+        },
+        "party-subsidies": {
+          "question": "یارانه‌های احزاب چگونه کار می‌کنند؟",
+          "answer": "جمهوری جهانی احزاب سیاسی را بر اساس حمایت دموکراتیک تأمین مالی می‌کند. ما کمک‌های بلاعوض WDD را متناسب با نتایج انتخابات توزیع می‌کنیم و اطمینان حاصل می‌کنیم که هر رأی مستقیماً منابع مالی یک حزب را افزایش می‌دهد."
+        },
+        "verification-required": {
+          "question": "آیا برای مشارکت نیاز به احراز هویت دارم؟",
+          "answer": "احراز هویت فقط برای رأی دادن الزامی است. شما می‌توانید بدون احراز هویت، حزب تأسیس کنید و WDD حاصل از یارانه‌های حزبی را انتقال دهید."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "کیف پول"
+      },
+      "balance": "موجودی",
+      "modals": {
+        "sign_out": {
+          "confirm": "آیا مطمئن هستید که می‌خواهید خارج شوید؟"
+        },
+        "send": {
+          "button": "ارسال",
+          "title": "ارسال WDD",
+          "choice_description": "انتخاب کنید که چگونه می‌خواهید دراخم خود را ارسال کنید.",
+          "transfer_to_citizen": {
+            "title": "انتقال",
+            "description": "انتقال WDD به شهروند دیگر",
+            "username_label": "نام کاربری دریافت‌کننده"
+          },
+          "withdraw_to_crypto": {
+            "title": "برداشت",
+            "description": "برداشت WDD به یک حساب کریپتو",
+            "amount_label": "مبلغ",
+            "address_label": "آدرس کیف پول",
+            "network_label": "شبکه"
+          }
+        },
+        "trade": {
+          "base": "Base WDD در Uniswap",
+          "monad": "Monad WDD در Uniswap",
+          "world": "World Chain WDD در Uniswap",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "این کار حساب شما را به طور دائمی حذف کرده و تمام داده‌های شما را از سرورهای ما حذف خواهد کرد. این عمل قابل بازگشت نیست — لطفاً با احتیاط ادامه دهید.",
+          "deleting": "در حال حذف..."
+        },
+        "receive": {
+          "button": "دریافت",
+          "title": "دریافت WDD",
+          "description": "نام کاربری خود را به اشتراک بگذارید تا WDD از دوستان خود دریافت کنید."
+        }
+      },
+      "sections": {
+        "identification": "شناسایی",
+        "account": "حساب کاربری",
+        "danger_zone": "منطقه خطر",
+        "delete_account": {
+          "description": "تمام داده‌های خود را به طور دائمی حذف کنید"
+        }
+      },
+      "username": {
+        "label": "نام کاربری",
+        "edit_title": "ویرایش نام کاربری",
+        "description": "3-30 کاراکتر، الفبایی-عددی، زیرخط و خط تیره"
+      },
+      "history": {
+        "title": "تاریخچه"
+      },
+      "transactions": {
+        "failed_to_load": "بارگذاری ناموفق",
+        "no_transactions": "هنوز تراکنشی وجود ندارد",
+        "just_now": "همین الان",
+        "minutes_ago": "{minutes}دقیقه پیش",
+        "hours_ago": "{hours}ساعت پیش",
+        "days_ago": "{days}روز پیش",
+        "filter": {
+          "all_types": "همه انواع",
+          "select_type": "نوع را انتخاب کنید"
+        },
+        "types": {
+          "withdrawal": "برداشت",
+          "received": "دریافت شده",
+          "sent": "ارسال شده"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "برای تأیید با Self این کد QR را اسکن کنید.",
+        "status_completed": "تأیید شده",
+        "status_not_completed": "تأیید نشده",
+        "mobile_dialog_description": "برای تکمیل تأیید، به اپلیکیشن Self هدایت می‌شوید.",
+        "supported_countries": "کشورهای پشتیبانی‌شده",
+        "support_telegram": "پشتیبانی Self"
+      },
+      "verification_warning": {
+        "title": "دریافت تأیید"
+      },
+      "verification_explainer": {
+        "title": "تأیید مورد نیاز است",
+        "description": "لطفاً برای برداشت توکن‌ها تأیید را تکمیل کنید."
+      },
+      "re_verification_explainer": {
+        "title": "تأیید مجدد مورد نیاز است",
+        "description": "برای امنیت شما، ما قبل از اقدامات حساس مانند برداشت، تأیید جدید را الزامی می‌کنیم. این به محافظت از حساب شما در برابر دسترسی غیرمجاز کمک می‌کند."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "اکثر کیف پول‌ها فقط پس از وارد کردن دستی WDD در زنجیره انتخاب شده با ",
+      "contract_address": "آدرس قرارداد"
+    }
+  },
+  "toasts": {
+    "generic_error": "خطایی رخ داد",
+    "copied": "کپی شد",
+    "wallet": {
+      "no_wallet": "آدرس کیف پول موجود نیست",
+      "min_amount": "حداقل ۱۰ WDD",
+      "sent": "ارسال شد",
+      "failed": "Sumsub ID مورد نیاز است",
+      "account_deleted": "حساب کاربری حذف شد",
+      "delete_failed": "حذف حساب کاربری ناموفق بود",
+      "contract_address_error": "نمی‌توان به آدرس قرارداد برداشت کرد",
+      "sign_out_failed": "خروج ناموفق"
+    },
+    "parties": {
+      "founded": "حزب تأسیس شد",
+      "found_failed": "تأسیس حزب ناموفق بود",
+      "found_error": "خطا در تأسیس حزب",
+      "updated": "به‌روزرسانی شد",
+      "update_failed": "به‌روزرسانی ناموفق بود",
+      "update_error": "خطا در به‌روزرسانی حزب",
+      "transferred": "انتقال یافت",
+      "transfer_failed": "انتقال رهبری ناموفق بود",
+      "transfer_error": "خطا در انتقال رهبری",
+      "dissolved": "منحل شد",
+      "dissolve_failed": "انحلال ناموفق بود",
+      "dissolve_error": "خطا در انحلال حزب"
+    }
+  },
+  "common": {
+    "confirm": "تأیید",
+    "sign_in": "ورود",
+    "max": "حداکثر",
+    "loading": "در حال بارگذاری...",
+    "processing": "در حال پردازش...",
+    "insufficient_balance": "WDD کافی نیست",
+    "delete_account": "حذف حساب",
+    "sign_out": "خروج",
+    "invalid_address": "آدرس نامعتبر",
+    "coming_soon": "به زودی",
+    "withdraw": "برداشت",
+    "trade": "معامله",
+    "continue": "ادامه",
+    "updating": "در حال به‌روزرسانی...",
+    "save": "ذخیره",
+    "vote": "رای دهید",
+    "close": "بستن"
+  },
+  "auth": {
+    "choose_method": "روش مورد نظر خود را انتخاب کنید.",
+    "sign_in_with_google": "ادامه با Google",
+    "sign_in_with_passkey": "استفاده از بیومتریک",
+    "sign_in_or_create": "با استفاده از passkey، با استفاده از اثر انگشت، اسکن صورت یا قفل صفحه، به حساب خود دسترسی پیدا کنید.",
+    "create_account": "ایجاد حساب کاربری",
+    "create_passkey_name": "ایجاد نام passkey",
+    "passkey_name_description": "passkey خود را نامگذاری کنید تا در مدیر رمز عبور شناسایی شود.",
+    "passkey_name": "نام passkey"
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "Valikko",
+    "world_republic": "Maailman tasavalta"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "Vaalit",
+        "referendums": "Kansanäänestykset"
+      },
+      "sections": {
+        "parties": {
+          "title": "Poliittiset puolueet",
+          "subtitle": "Yhdisty ympäri maailman yhteisten arvojen ympärille"
+        },
+        "elections": {
+          "title": "Testivaalit",
+          "subtitle": "Kokeile globaalia demokratiaa"
+        },
+        "referendums": {
+          "title": "Maailman perustuslakikansanäänestys",
+          "subtitle": "Äänestä perustavista periaatteistamme"
+        }
+      },
+      "parties": {
+        "discover": "Löydä",
+        "search_placeholder": "Etsi puolueita...",
+        "tabs": {
+          "new": "Uudet",
+          "trending": "Suosituimmat",
+          "top": "Parhaat"
+        },
+        "no_parties_found": "Puolueita ei löytynyt",
+        "loading_more": "Ladataan lisää puolueita...",
+        "party_details": "Puolueen tiedot",
+        "share_party": "Jaa puolue",
+        "my_party": "Oma puolueeni",
+        "found_party_and_earn": "Perusta puolue ja saa tukea",
+        "learn_more": "Lue lisää",
+        "party_management": "Puolueen hallinta",
+        "edit_party_info": "Muokkaa puolueen tietoja",
+        "dissolve_party": "Hajota puolue",
+        "dialogs": {
+          "found_party": "Perusta puolue",
+          "party_name": "Puolueen nimi",
+          "description_optional": "Kuvaus (valinnainen)",
+          "official_link_optional": "Virallinen linkki (valinnainen)",
+          "founding": "Perustetaan...",
+          "updating": "Päivitetään...",
+          "found": "Perusta",
+          "save": "Tallenna",
+          "dissolving": "Hajotetaan...",
+          "about_to_found": "Olet perustamassa uutta puoluetta.",
+          "about_to_dissolve": "Olet hajottamassa {partyName}:tä. Tätä toimintaa ei voi perua.",
+          "leader_warning_found": "Olet tällä hetkellä {partyName}:n johtaja. Uuden puolueen perustaminen hajottaa nykyisen puolueesi."
+        },
+        "detail": {
+          "failed_to_load": "Puolueen tietojen lataaminen epäonnistui",
+          "party_not_found": "Puoluetta ei löytynyt",
+          "error_loading": "Virhe puolueen lataamisessa",
+          "back_to_parties": "Takaisin puolueisiin",
+          "description": "Kuvaus",
+          "party_info": "Puolueen tiedot",
+          "leader": "Johtaja",
+          "website": "Verkkosivusto",
+          "not_found_description": "Etsimäsi puolue ei ole olemassa tai se on hajotettu."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "Testivaalit tulevat pian. Vahvista henkilöllisyytesi nyt, jotta olet valmis, kun äänestys avautuu.",
+          "verify_button": "Ennakkovahvista"
+        },
+        "coming_soon": {
+          "description": "Testivaalit alkavat pian. Olet jo varmennettu ja valmis äänestämään heti vaalien alkaessa."
+        },
+        "no_active_election": "Ei käynnissä olevaa vaalia"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "TILI",
+          "account_info": "Tilitiedot",
+          "language": "Kieli"
+        },
+        "help": {
+          "title": "APUA",
+          "faq": "UKK",
+          "support": "Tuki"
+        },
+        "legal": {
+          "title": "LAILLINEN",
+          "terms": "Käyttöehdot",
+          "privacy": "Tietosuojakäytäntö"
+        },
+        "source_code": {
+          "title": "LÄHDEKOODI"
+        }
+      }
+    },
+    "faq": {
+      "title": "UKK",
+      "items": {
+        "app-purpose": {
+          "question": "Mikä on Maailman tasavalta?",
+          "answer": "Maailman tasavalta on avoimen lähdekoodin hallintapalvelu, jolla on oma digitaalinen valuutta, ja sen tavoitteena on luoda demokraattinen viitekehys maailmanlaajuiseen rauhaan ja turvallisuuteen."
+        },
+        "what-is-wdd": {
+          "question": "Mikä on WDD?",
+          "answer": "WDD (maailman drakma) on Maailman tasavallan blockchain-native virallinen valuutta, joka on laskettu liikkeeseen standardina ERC-20 tokenina useilla verkkoilla."
+        },
+        "drachma-value": {
+          "question": "Mistä drakma saa arvonsa?",
+          "answer": "Drakma saa arvonsa siitä, että se on Maailman tasavallan virallinen valuutta. Kun globaalin hallintoplattformamme legitimiteetti kasvaa, WDD voi tulla globaalin uudelleenjakelun välineeksi ja maailmantalouden tärkeimmäksi vaihtovälineeksi."
+        },
+        "identity-verification": {
+          "question": "Miten henkilöllisyyden vahvistus toimii?",
+          "answer": "Maailman tasavalta käyttää Selfiä henkilöllisyytesi vahvistamiseen passin tai henkilötodistuksen kautta. Yksityisyytesi on suojattu—Self vahvistaa vain, että olet oikea henkilö paljastamatta henkilötietojasi."
+        },
+        "test-elections": {
+          "question": "Mitä ovat testivaalit?",
+          "answer": "Koe-vaalit ovat kokeiluja, joissa Maailman tasavalta -kansalaiset äänestävät poliittisia puolueita. Jokainen puolue sisällytetään automaattisesti äänestyslippuun, mikä takaa yhtäläiset mahdollisuudet kaikille pyrkiville johtajille."
+        },
+        "party-subsidies": {
+          "question": "Miten puoluetukijärjestelmä toimii?",
+          "answer": "Maailman tasavalta rahoittaa poliittisia puolueita demokraattisen kannatuksen perusteella. Jaamme WDD-avustuksia vaalitulosten mukaisessa suhteessa varmistaen, että jokainen ääni kasvattaa suoraan puolueen taloudellisia resursseja."
+        },
+        "verification-required": {
+          "question": "Tarvitaanko osallistumiseen vahvistus?",
+          "answer": "Henkilöllisyyden vahvistaminen vaaditaan vain äänestämiseen. Voit perustaa puolueita ja siirtää puoluetuista saatuja WDD-varajo ilman vahvistusta."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "Lompakko"
+      },
+      "balance": "Saldo",
+      "modals": {
+        "sign_out": {
+          "confirm": "Oletko varma, että haluat kirjautua ulos?"
+        },
+        "send": {
+          "button": "Lähetä",
+          "title": "Lähetä WDD",
+          "choice_description": "Valitse, miten haluat lähettää drachmasi.",
+          "transfer_to_citizen": {
+            "title": "Siirrä",
+            "description": "Siirrä WDD toiselle kansalaiselle",
+            "username_label": "Vastaanottajan käyttäjänimi"
+          },
+          "withdraw_to_crypto": {
+            "title": "Nosta",
+            "description": "Nosta WDD crypto-tilille",
+            "amount_label": "Määrä",
+            "address_label": "Lompakko-osoite",
+            "network_label": "Verkko"
+          }
+        },
+        "trade": {
+          "base": "Base WDD Uniswapissa",
+          "monad": "Monad WDD Uniswapissa",
+          "world": "World Chain WDD Uniswapissa",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "Tämä poistaa pysyvästi tilisi ja poistaa kaikki tietosi palvelimiltamme. Tätä toimintoa ei voi perua — jatka varovasti.",
+          "deleting": "Poistetaan..."
+        },
+        "receive": {
+          "button": "Vastaanota",
+          "title": "Vastaanota WDD",
+          "description": "Jaa käyttäjänimesi vastaanottaaksesi WDD ystäviltäsi."
+        }
+      },
+      "sections": {
+        "identification": "TUNNISTUS",
+        "account": "TILI",
+        "danger_zone": "VAARALLINEN ALUE",
+        "delete_account": {
+          "description": "Poista pysyvästi kaikki tietosi"
+        }
+      },
+      "username": {
+        "label": "Käyttäjänimi",
+        "edit_title": "Muokkaa käyttäjänimeä",
+        "description": "3-30 merkkiä, aakkosnumeerinen, alaviivat ja viivat"
+      },
+      "history": {
+        "title": "Historia"
+      },
+      "transactions": {
+        "failed_to_load": "Lataus epäonnistui",
+        "no_transactions": "Ei vielä tapahtumia",
+        "just_now": "Juuri nyt",
+        "minutes_ago": "{minutes}min sitten",
+        "hours_ago": "{hours}t sitten",
+        "days_ago": "{days}pv sitten",
+        "filter": {
+          "all_types": "Kaikki tyypit",
+          "select_type": "Valitse tyyppi"
+        },
+        "types": {
+          "withdrawal": "Nosto",
+          "received": "Vastaanotettu",
+          "sent": "Lähetetty"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "Skannaa tämä QR-koodi vahvistaaksesi Selfillä.",
+        "status_completed": "Vahvistettu",
+        "status_not_completed": "Ei vahvistettu",
+        "mobile_dialog_description": "Sinut ohjataan Self-sovellukseen viimeistelemään vahvistus.",
+        "supported_countries": "Tuetut maat",
+        "support_telegram": "Self-tuki"
+      },
+      "verification_warning": {
+        "title": "Hanki vahvistus"
+      },
+      "verification_explainer": {
+        "title": "Vahvistus vaaditaan",
+        "description": "Ole hyvä ja suorita vahvistus tokenien nostamiseksi."
+      },
+      "re_verification_explainer": {
+        "title": "Uudelleenvahvistus vaaditaan",
+        "description": "Turvallisuutesi vuoksi vaadimme tuoreen vahvistuksen ennen herkkiä toimia, kuten nostoja. Tämä auttaa suojaamaan tiliäsi luvattomalta pääsyltä."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "Useimmat lompakot näyttävät WDD:n vasta sen jälkeen, kun se on manuaalisesti tuotu valitulle ketjulle sen ",
+      "contract_address": "sopimusosoitteella"
+    }
+  },
+  "toasts": {
+    "generic_error": "Virhe tapahtui",
+    "copied": "Kopioitu",
+    "wallet": {
+      "no_wallet": "Ei lompakko-osoitetta",
+      "min_amount": "Vähintään 10 WDD",
+      "sent": "Lähetetty",
+      "failed": "Sumsub ID vaaditaan",
+      "account_deleted": "Tili poistettu",
+      "delete_failed": "Tilin poisto epäonnistui",
+      "contract_address_error": "Ei voi nostaa sopimusosoitteeseen",
+      "sign_out_failed": "Kirjautuminen ulos epäonnistui"
+    },
+    "parties": {
+      "founded": "Puolue perustettu",
+      "found_failed": "Puolueen perustaminen epäonnistui",
+      "found_error": "Virhe perustettaessa puoluetta",
+      "updated": "Päivitetty",
+      "update_failed": "Päivitys epäonnistui",
+      "update_error": "Virhe päivittäessä puoluetta",
+      "transferred": "Siirretty",
+      "transfer_failed": "Johtajuuden siirto epäonnistui",
+      "transfer_error": "Virhe siirrettäessä johtajuutta",
+      "dissolved": "Lakannut",
+      "dissolve_failed": "Lakkauttaminen epäonnistui",
+      "dissolve_error": "Virhe lakkauttaessa puoluetta"
+    }
+  },
+  "common": {
+    "confirm": "Vahvista",
+    "sign_in": "Kirjaudu sisään",
+    "max": "Maksimi",
+    "loading": "Ladataan...",
+    "processing": "Käsitellään...",
+    "insufficient_balance": "Ei tarpeeksi WDD:tä",
+    "delete_account": "Poista tili",
+    "sign_out": "Kirjaudu ulos",
+    "invalid_address": "Virheellinen osoite",
+    "coming_soon": "Tulossa pian",
+    "withdraw": "Nosta",
+    "trade": "Kauppa",
+    "continue": "Jatka",
+    "updating": "Päivitetään...",
+    "save": "Tallenna",
+    "vote": "Äänestä",
+    "close": "Sulje"
+  },
+  "auth": {
+    "choose_method": "Valitse haluamasi menetelmä.",
+    "sign_in_with_google": "Jatka Googlella",
+    "sign_in_with_passkey": "Käytä biometriaa",
+    "sign_in_or_create": "Pääsy tilillesi passkeyllä, käyttämällä sormenjälkeä, kasvonskannausta tai näytön lukitusta.",
+    "create_account": "Luo tili",
+    "create_passkey_name": "Luo passkey-nimi",
+    "passkey_name_description": "Nimeä passkey-tunnuksesi tunnistamaan se salasananhallinnassa.",
+    "passkey_name": "Passkey-nimi"
+  }
+}

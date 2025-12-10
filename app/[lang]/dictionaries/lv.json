@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "Izvēlne",
+    "world_republic": "Pasaules Republika"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "Vēlēšanas",
+        "referendums": "Referendumi"
+      },
+      "sections": {
+        "parties": {
+          "title": "Politiskās partijas",
+          "subtitle": "Apvienojieties globāli ap kopīgām vērtībām"
+        },
+        "elections": {
+          "title": "Testa vēlēšanas",
+          "subtitle": "Eksperimentējiet ar globālu demokrātiju"
+        },
+        "referendums": {
+          "title": "Pasaules konstitucionālais referendums",
+          "subtitle": "Balsojiet par mūsu pamatprincipiem"
+        }
+      },
+      "parties": {
+        "discover": "Atklāt",
+        "search_placeholder": "Meklēt partijas...",
+        "tabs": {
+          "new": "Jaunas",
+          "trending": "Populāras",
+          "top": "Top"
+        },
+        "no_parties_found": "Partijas nav atrastas",
+        "loading_more": "Ielādē vairāk partiju...",
+        "party_details": "Partijas detaļas",
+        "share_party": "Dalīties ar partiju",
+        "my_party": "Mana partija",
+        "found_party_and_earn": "Izveidojiet partiju un saņemiet subsīdijas",
+        "learn_more": "Uzzināt vairāk",
+        "party_management": "Partijas pārvalde",
+        "edit_party_info": "Rediģēt partijas informāciju",
+        "dissolve_party": "Izformēt partiju",
+        "dialogs": {
+          "found_party": "Izveidot partiju",
+          "party_name": "Partijas nosaukums",
+          "description_optional": "Apraksts (nav obligāts)",
+          "official_link_optional": "Oficiālā saite (nav obligāta)",
+          "founding": "Izveido...",
+          "updating": "Atjaunina...",
+          "found": "Izveidot",
+          "save": "Saglabāt",
+          "dissolving": "Izformē...",
+          "about_to_found": "Jūs gatavojaties izveidot jaunu partiju.",
+          "about_to_dissolve": "Jūs gatavojaties izformēt {partyName}. Šo darbību nevar atsaukt.",
+          "leader_warning_found": "Pašlaik esat {partyName} vadītājs. Dibinot jaunu partiju, jūsu pašreizējā partija tiks izformēta."
+        },
+        "detail": {
+          "failed_to_load": "Neizdevās ielādēt partijas datus",
+          "party_not_found": "Partija nav atrasta",
+          "error_loading": "Kļūda ielādējot partiju",
+          "back_to_parties": "Atpakaļ uz partijām",
+          "description": "Apraksts",
+          "party_info": "Partijas informācija",
+          "leader": "Līderis",
+          "website": "Tīmekļa vietne",
+          "not_found_description": "Partija, kuru meklējat, neeksistē vai ir izformēta."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "Testa vēlēšanas drīz sāksies. Apstipriniet savu identitāti tagad, lai būtu gatavs, kad sāksies balsošana.",
+          "verify_button": "Iepriekšēja verificēšana"
+        },
+        "coming_soon": {
+          "description": "Pārbaudes vēlēšanas drīz sāksies. Jūs jau esat verificēts un gatavs balsot, tiklīdz vēlēšanas sāksies."
+        },
+        "no_active_election": "Nav aktīvu vēlēšanu"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "KONTS",
+          "account_info": "Konta informācija",
+          "language": "Valoda"
+        },
+        "help": {
+          "title": "PALĪDZĪBA",
+          "faq": "BUJ",
+          "support": "Atbalsts"
+        },
+        "legal": {
+          "title": "JURIDISKAIS",
+          "terms": "Lietošanas noteikumi",
+          "privacy": "Privātuma politika"
+        },
+        "source_code": {
+          "title": "AVOTA KODS"
+        }
+      }
+    },
+    "faq": {
+      "title": "BUJ",
+      "items": {
+        "app-purpose": {
+          "question": "Kas ir Pasaules Republika?",
+          "answer": "Pasaules Republika ir atvirkāta koda pārvaldes platforma ar savu digitālo valūtu, kuras mērķis ir izveidot demokrātisku ietvaru globālai mieram un drošībai."
+        },
+        "what-is-wdd": {
+          "question": "Kas ir WDD?",
+          "answer": "WDD (pasaules drahma) ir Pasaules Republikas oficiālā valūta, kas ir blockchain-native, izdota kā standarta ERC-20 tokens vairākos tīklos."
+        },
+        "drachma-value": {
+          "question": "No kurienes drahma iegūst savu vērtību?",
+          "answer": "Drahma iegūst savu vērtību, būdama Pasaules Republikas oficiālā valūta. Pieaugot mūsu globālās pārvaldes platformas leģitimitātei, WDD var kļūt par globālās pārdales līdzekli un galveno apmaiņas līdzekli pasaules ekonomikā."
+        },
+        "identity-verification": {
+          "question": "Kā darbojas identitātes pārbaude?",
+          "answer": "Pasaules Republika izmanto Self, lai apstiprinātu jūsu identitāti, izmantojot jūsu pasi vai valsts ID. Jūsu privātums ir aizsargāts—Self tikai apstiprina, ka esat īsta persona, neizpaužot jūsu personīgos datus."
+        },
+        "test-elections": {
+          "question": "Kas ir testa vēlēšanas?",
+          "answer": "Testa vēlēšanas ir eksperimenti, kuros Pasaules Republika pilsoņi balso par politiskajām partijām. Katra partija tiek automātiski iekļauta vēlēšanu sarakstā, nodrošinot vienlīdzīgas iespējas visiem topošajiem līderiem."
+        },
+        "party-subsidies": {
+          "question": "Kā darbojas partiju subsīdijas?",
+          "answer": "Pasaules Republika finansē politiskās partijas, pamatojoties uz demokrātisku atbalstu. Mēs sadalām WDD grantus proporcionāli vēlēšanu rezultātiem, nodrošinot, ka katra balss tieši palielina partijas finanšu resursus."
+        },
+        "verification-required": {
+          "question": "Vai dalībai ir nepieciešama verifikācija?",
+          "answer": "Identitātes pārbaude ir nepieciešama tikai balsošanai. Jūs varat dibināt partijas un pārskaitīt no partiju subsīdijām iegūto WDD bez verifikācijas."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "Maks"
+      },
+      "balance": "Atlikums",
+      "modals": {
+        "sign_out": {
+          "confirm": "Vai tiešām vēlaties iziet?"
+        },
+        "send": {
+          "button": "Nosūtīt",
+          "title": "Nosūtīt WDD",
+          "choice_description": "Izvēlieties, kā vēlaties nosūtīt savu drahmu.",
+          "transfer_to_citizen": {
+            "title": "Pārsūtīt",
+            "description": "Pārsūtīt WDD citam pilsonim",
+            "username_label": "Saņēmēja lietotājvārds"
+          },
+          "withdraw_to_crypto": {
+            "title": "Izņemt",
+            "description": "Izņemt WDD uz kripto kontu",
+            "amount_label": "Summa",
+            "address_label": "Maka adrese",
+            "network_label": "Tīkls"
+          }
+        },
+        "trade": {
+          "base": "Base WDD Uniswap",
+          "monad": "Monad WDD Uniswap",
+          "world": "World Chain WDD Uniswap",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "Tas neatgriezeniski dzēsīs jūsu kontu un noņems visus jūsu datus no mūsu serveriem. Šo darbību nevar atsaukt — lūdzu, turpiniet uzmanīgi.",
+          "deleting": "Dzēš..."
+        },
+        "receive": {
+          "button": "Saņemt",
+          "title": "Saņemt WDD",
+          "description": "Dalieties ar savu lietotājvārdu, lai saņemtu WDD no draugiem."
+        }
+      },
+      "sections": {
+        "identification": "IDENTIFIKĀCIJA",
+        "account": "KONTS",
+        "danger_zone": "BĪSTAMĀ ZONA",
+        "delete_account": {
+          "description": "Pastāvīgi noņemiet visus savus datus"
+        }
+      },
+      "username": {
+        "label": "Lietotājvārds",
+        "edit_title": "Rediģēt lietotājvārdu",
+        "description": "3-30 rakstzīmes, alfanumeriskas, pasvītrojumi un domuzīmes"
+      },
+      "history": {
+        "title": "Vēsture"
+      },
+      "transactions": {
+        "failed_to_load": "Neizdevās ielādēt",
+        "no_transactions": "Vēl nav darījumu",
+        "just_now": "Tikko",
+        "minutes_ago": "pirms {minutes}min",
+        "hours_ago": "pirms {hours}h",
+        "days_ago": "pirms {days}d",
+        "filter": {
+          "all_types": "Visi veidi",
+          "select_type": "Izvēlieties veidu"
+        },
+        "types": {
+          "withdrawal": "Izņemšana",
+          "received": "Saņemts",
+          "sent": "Nosūtīts"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "Skenējiet šo QR kodu, lai verificētos ar Self.",
+        "status_completed": "Pārbaudīts",
+        "status_not_completed": "Nav pārbaudīts",
+        "mobile_dialog_description": "Jūs tiksiet novirzīts uz Self lietotni, lai pabeigtu verifikāciju.",
+        "supported_countries": "Atbalstītās valstis",
+        "support_telegram": "Self atbalsts"
+      },
+      "verification_warning": {
+        "title": "Iegūstiet apstiprinājumu"
+      },
+      "verification_explainer": {
+        "title": "Nepieciešama pārbaude",
+        "description": "Lūdzu, pabeidziet pārbaudi, lai izņemtu tokenus."
+      },
+      "re_verification_explainer": {
+        "title": "Nepieciešama atkārtota pārbaude",
+        "description": "Jūsu drošībai mums nepieciešama svaiga pārbaude pirms jutīgām darbībām, piemēram, izņemšanām. Tas palīdz aizsargāt jūsu kontu no neautorizētas piekļuves."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "Lielākā daļa makiem parāda WDD tikai pēc tam, kad tas ir manuāli importēts izvēlētajā ķēdē pēc tā ",
+      "contract_address": "līguma adreses"
+    }
+  },
+  "toasts": {
+    "generic_error": "Radās kļūda",
+    "copied": "Nokopēts",
+    "wallet": {
+      "no_wallet": "Nav maka adreses",
+      "min_amount": "Minimums 10 WDD",
+      "sent": "Nosūtīts",
+      "failed": "Nepieciešams Sumsub ID",
+      "account_deleted": "Konts dzēsts",
+      "delete_failed": "Konta dzēšana neizdevās",
+      "contract_address_error": "Nevar izņemt uz līguma adresi",
+      "sign_out_failed": "Izrakstīšanās neizdevās"
+    },
+    "parties": {
+      "founded": "Partija izveidota",
+      "found_failed": "Partijas izveide neizdevās",
+      "found_error": "Kļūda izveidojot partiju",
+      "updated": "Atjaunināts",
+      "update_failed": "Atjaunināšana neizdevās",
+      "update_error": "Kļūda atjauninot partiju",
+      "transferred": "Pārcelts",
+      "transfer_failed": "Vadības nodošana neizdevās",
+      "transfer_error": "Kļūda nododot vadību",
+      "dissolved": "Izformēta",
+      "dissolve_failed": "Izformēšana neizdevās",
+      "dissolve_error": "Kļūda izformējot partiju"
+    }
+  },
+  "common": {
+    "confirm": "Apstiprināt",
+    "sign_in": "Pieteikties",
+    "max": "Maksimums",
+    "loading": "Ielādē...",
+    "processing": "Apstrādā...",
+    "insufficient_balance": "Nepietiek WDD",
+    "delete_account": "Dzēst kontu",
+    "sign_out": "Iziet",
+    "invalid_address": "Nederīga adrese",
+    "coming_soon": "Drīzumā",
+    "withdraw": "Izņemt",
+    "trade": "Tirdzniecība",
+    "continue": "Turpināt",
+    "updating": "Atjaunina...",
+    "save": "Saglabāt",
+    "vote": "Balsot",
+    "close": "Aizvērt"
+  },
+  "auth": {
+    "choose_method": "Izvēlieties vēlamo metodi.",
+    "sign_in_with_google": "Turpināt ar Google",
+    "sign_in_with_passkey": "Izmantot biometriju",
+    "sign_in_or_create": "Piekļūstiet savam kontam, izmantojot passkey, izmantojot pirkstu nospiedumu, sejas skenēšanu vai ekrāna bloķēšanu.",
+    "create_account": "Izveidot kontu",
+    "create_passkey_name": "Izveidot passkey nosaukumu",
+    "passkey_name_description": "Nosauciet savu passkey, lai to identificētu paroļu pārvaldniekā.",
+    "passkey_name": "Passkey nosaukums"
+  }
+}

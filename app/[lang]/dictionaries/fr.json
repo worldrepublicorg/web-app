@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "Menu",
+    "world_republic": "République mondiale"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "Élections",
+        "referendums": "Référendums"
+      },
+      "sections": {
+        "parties": {
+          "title": "Partis politiques",
+          "subtitle": "Unissez-vous mondialement autour de valeurs partagées"
+        },
+        "elections": {
+          "title": "Élections de test",
+          "subtitle": "Expérimentez avec la démocratie mondiale"
+        },
+        "referendums": {
+          "title": "Référendum constitutionnel mondial",
+          "subtitle": "Votez sur nos principes fondateurs"
+        }
+      },
+      "parties": {
+        "discover": "Découvrir",
+        "search_placeholder": "Rechercher des partis...",
+        "tabs": {
+          "new": "Nouveaux",
+          "trending": "Tendances",
+          "top": "Principaux"
+        },
+        "no_parties_found": "Aucun parti trouvé",
+        "loading_more": "Chargement de plus de partis...",
+        "party_details": "Détails du parti",
+        "share_party": "Partager le parti",
+        "my_party": "Mon parti",
+        "found_party_and_earn": "Fondez un parti et obtenez des subventions",
+        "learn_more": "En savoir plus",
+        "party_management": "Gestion du parti",
+        "edit_party_info": "Modifier les informations du parti",
+        "dissolve_party": "Dissoudre le parti",
+        "dialogs": {
+          "found_party": "Fonder un parti",
+          "party_name": "Nom du parti",
+          "description_optional": "Description (optionnel)",
+          "official_link_optional": "Lien officiel (optionnel)",
+          "founding": "Fondation...",
+          "updating": "Mise à jour...",
+          "found": "Fonder",
+          "save": "Enregistrer",
+          "dissolving": "Dissolution...",
+          "about_to_found": "Vous êtes sur le point de fonder un nouveau parti.",
+          "about_to_dissolve": "Vous êtes sur le point de dissoudre {partyName}. Cette action ne peut pas être annulée.",
+          "leader_warning_found": "Vous êtes actuellement le leader de {partyName}. Fonder un nouveau parti dissoudra votre parti actuel."
+        },
+        "detail": {
+          "failed_to_load": "Échec du chargement des données du parti",
+          "party_not_found": "Parti introuvable",
+          "error_loading": "Erreur lors du chargement du parti",
+          "back_to_parties": "Retour aux partis",
+          "description": "Description",
+          "party_info": "Informations du parti",
+          "leader": "Leader",
+          "website": "Site web",
+          "not_found_description": "Le parti que vous recherchez n'existe pas ou a été dissous."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "Les élections de test arrivent bientôt. Vérifiez votre identité maintenant pour être prêt lorsque le vote s'ouvre.",
+          "verify_button": "Pré-vérifier"
+        },
+        "coming_soon": {
+          "description": "Les élections tests commencent bientôt. Vous êtes déjà vérifié et prêt à voter dès que l’élection commencera."
+        },
+        "no_active_election": "Aucune élection en cours"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "COMPTE",
+          "account_info": "Informations du compte",
+          "language": "Langue"
+        },
+        "help": {
+          "title": "AIDE",
+          "faq": "FAQ",
+          "support": "Support"
+        },
+        "source_code": {
+          "title": "CODE SOURCE"
+        },
+        "legal": {
+          "title": "LÉGAL",
+          "terms": "Conditions d'utilisation",
+          "privacy": "Politique de confidentialité"
+        }
+      }
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "app-purpose": {
+          "question": "Qu'est-ce que la République mondiale ?",
+          "answer": "La République mondiale est une plateforme de gouvernance open source avec sa propre monnaie numérique qui vise à établir un cadre démocratique pour la paix et la sécurité mondiales."
+        },
+        "what-is-wdd": {
+          "question": "Qu'est-ce que WDD?",
+          "answer": "WDD (drachme mondiale) est la monnaie officielle native à la blockchain de la République mondiale, émise en tant que token ERC-20 standard sur plusieurs réseaux."
+        },
+        "drachma-value": {
+          "question": "D'où vient la valeur du drachme ?",
+          "answer": "La drachme tire sa valeur du fait qu'elle est la monnaie officielle de la République mondiale. À mesure que la légitimité de notre plateforme de gouvernance mondiale grandit, WDD peut devenir le véhicule de redistribution mondiale et le principal moyen d'échange dans l'économie mondiale."
+        },
+        "identity-verification": {
+          "question": "Comment fonctionne la vérification d'identité ?",
+          "answer": "La République mondiale utilise Self pour vérifier votre identité via votre passeport ou votre carte d'identité nationale. Votre vie privée est protégée—Self confirme uniquement que vous êtes une vraie personne sans exposer vos données personnelles."
+        },
+        "test-elections": {
+          "question": "Que sont les élections de test?",
+          "answer": "Les élections tests sont des expériences où les citoyens de la République mondiale votent pour des partis politiques. Chaque parti est automatiquement inclus sur le bulletin de vote, garantissant l'égalité des chances pour tous les aspirants dirigeants."
+        },
+        "party-subsidies": {
+          "question": "Comment fonctionnent les subventions aux partis ?",
+          "answer": "La République mondiale finance les partis politiques sur la base du soutien démocratique. Nous distribuons des subventions WDD proportionnellement aux résultats des élections, garantissant que chaque vote augmente directement les ressources financières d'un parti."
+        },
+        "verification-required": {
+          "question": "Faut-il être vérifié pour participer ?",
+          "answer": "La vérification d'identité n'est requise que pour voter. Vous pouvez fonder un parti et transférer les WDD issus des subventions aux partis sans vérification."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "Portefeuille"
+      },
+      "balance": "Solde",
+      "modals": {
+        "sign_out": {
+          "confirm": "Êtes-vous sûr de vouloir vous déconnecter ?"
+        },
+        "send": {
+          "button": "Envoyer",
+          "title": "Envoyer WDD",
+          "choice_description": "Choisissez comment vous souhaitez envoyer votre drachme.",
+          "transfer_to_citizen": {
+            "title": "Transférer",
+            "description": "Transférer WDD à un autre citoyen",
+            "username_label": "Nom d'utilisateur du destinataire"
+          },
+          "withdraw_to_crypto": {
+            "title": "Retirer",
+            "description": "Retirer WDD vers un compte crypto",
+            "amount_label": "Montant",
+            "address_label": "Adresse du portefeuille",
+            "network_label": "Réseau"
+          }
+        },
+        "trade": {
+          "base": "Base WDD sur Uniswap",
+          "monad": "Monad WDD sur Uniswap",
+          "world": "World Chain WDD sur Uniswap",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "Cela supprimera définitivement votre compte et supprimera toutes vos données de nos serveurs. Cette action ne peut pas être annulée — veuillez continuer avec précaution.",
+          "deleting": "Suppression..."
+        },
+        "receive": {
+          "button": "Recevoir",
+          "title": "Recevoir WDD",
+          "description": "Partagez votre nom d'utilisateur pour recevoir WDD de vos amis."
+        }
+      },
+      "sections": {
+        "identification": "IDENTIFICATION",
+        "account": "COMPTE",
+        "danger_zone": "ZONE DE DANGER",
+        "delete_account": {
+          "description": "Supprimer définitivement toutes vos données"
+        }
+      },
+      "username": {
+        "label": "Nom d'utilisateur",
+        "edit_title": "Modifier le nom d'utilisateur",
+        "description": "3-30 caractères, alphanumériques, tirets bas et tirets"
+      },
+      "history": {
+        "title": "Historique"
+      },
+      "transactions": {
+        "failed_to_load": "Échec du chargement",
+        "no_transactions": "Aucune transaction pour le moment",
+        "just_now": "À l'instant",
+        "minutes_ago": "il y a {minutes}min",
+        "hours_ago": "il y a {hours}h",
+        "days_ago": "il y a {days}j",
+        "filter": {
+          "all_types": "Tous les types",
+          "select_type": "Sélectionner le type"
+        },
+        "types": {
+          "withdrawal": "Retrait",
+          "received": "Reçu",
+          "sent": "Envoyé"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "Scannez ce QR code pour vérifier avec Self.",
+        "status_completed": "Vérifié",
+        "status_not_completed": "Non vérifié",
+        "mobile_dialog_description": "Vous serez redirigé vers l’app Self pour terminer la vérification.",
+        "supported_countries": "Pays pris en charge",
+        "support_telegram": "Support Self"
+      },
+      "verification_warning": {
+        "title": "Se faire vérifier"
+      },
+      "verification_explainer": {
+        "title": "Vérification requise",
+        "description": "Veuillez compléter la vérification pour retirer des jetons."
+      },
+      "re_verification_explainer": {
+        "title": "Re-vérification requise",
+        "description": "Pour votre sécurité, nous exigeons une vérification récente avant les actions sensibles comme les retraits. Cela aide à protéger votre compte contre les accès non autorisés."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "La plupart des portefeuilles n'affichent WDD qu'après l'avoir importé manuellement sur la chaîne sélectionnée via son ",
+      "contract_address": "adresse de contrat"
+    }
+  },
+  "toasts": {
+    "generic_error": "Une erreur s'est produite",
+    "copied": "Copié",
+    "wallet": {
+      "no_wallet": "Aucune adresse de portefeuille",
+      "min_amount": "Minimum 10 WDD",
+      "sent": "Envoyé",
+      "failed": "Sumsub ID requis",
+      "account_deleted": "Compte supprimé",
+      "delete_failed": "Échec de la suppression du compte",
+      "contract_address_error": "Impossible de retirer vers une adresse de contrat",
+      "sign_out_failed": "Déconnexion échouée"
+    },
+    "parties": {
+      "founded": "Parti fondé",
+      "found_failed": "Échec de la fondation du parti",
+      "found_error": "Erreur lors de la fondation du parti",
+      "updated": "Mis à jour",
+      "update_failed": "Échec de la mise à jour",
+      "update_error": "Erreur lors de la mise à jour du parti",
+      "transferred": "Transféré",
+      "transfer_failed": "Échec du transfert de direction",
+      "transfer_error": "Erreur lors du transfert de direction",
+      "dissolved": "Dissous",
+      "dissolve_failed": "Échec de la dissolution",
+      "dissolve_error": "Erreur lors de la dissolution du parti"
+    }
+  },
+  "common": {
+    "confirm": "Confirmer",
+    "sign_in": "Se connecter",
+    "max": "Max",
+    "loading": "Chargement...",
+    "processing": "Traitement...",
+    "insufficient_balance": "Pas assez de WDD",
+    "delete_account": "Supprimer le compte",
+    "sign_out": "Se déconnecter",
+    "invalid_address": "Adresse invalide",
+    "coming_soon": "Bientôt disponible",
+    "withdraw": "Retirer",
+    "trade": "Échanger",
+    "continue": "Continuer",
+    "updating": "Mise à jour...",
+    "save": "Enregistrer",
+    "vote": "Voter",
+    "close": "Fermer"
+  },
+  "auth": {
+    "choose_method": "Choisissez votre méthode préférée.",
+    "sign_in_with_google": "Continuer avec Google",
+    "sign_in_with_passkey": "Utiliser la biométrie",
+    "sign_in_or_create": "Accédez à votre compte avec une passkey, en utilisant votre empreinte digitale, votre scan facial ou le verrouillage de l'écran.",
+    "create_account": "Créer un compte",
+    "create_passkey_name": "Créer un nom de passkey",
+    "passkey_name_description": "Nommez votre passkey pour l'identifier dans votre gestionnaire de mots de passe.",
+    "passkey_name": "Nom de passkey"
+  }
+}

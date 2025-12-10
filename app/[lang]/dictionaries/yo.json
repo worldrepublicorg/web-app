@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "Akojọ",
+    "world_republic": "Ìjọba Àpapọ̀ Ayé"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "Awọn idibo",
+        "referendums": "Awọn idibo agbaye"
+      },
+      "sections": {
+        "parties": {
+          "title": "Awọn ẹgbẹ oselu",
+          "subtitle": "Dapọ ni agbaye ni ayika awọn iye ti a pin"
+        },
+        "elections": {
+          "title": "Awọn idibo idanwo",
+          "subtitle": "Ṣe ayẹwo pẹlu ijọba onilẹ agbaye"
+        },
+        "referendums": {
+          "title": "Idibo Ofin Agbaye",
+          "subtitle": "Dibo lori awọn ipilẹṣẹ wa"
+        }
+      },
+      "parties": {
+        "discover": "Ṣawari",
+        "search_placeholder": "Wa awọn ẹgbẹ...",
+        "tabs": {
+          "new": "Tuntun",
+          "trending": "Trending",
+          "top": "Oke"
+        },
+        "no_parties_found": "Ko ri awọn ẹgbẹ",
+        "loading_more": "N gbe awọn ẹgbẹ siwaju sii...",
+        "party_details": "Awọn alaye ẹgbẹ",
+        "share_party": "Pin ẹgbẹ",
+        "my_party": "Ẹgbẹ mi",
+        "found_party_and_earn": "Da egbe kan sile ki o si gba awọn iranlọwọ",
+        "learn_more": "Kọ ẹkọ diẹ sii",
+        "party_management": "Iṣakoso ẹgbẹ",
+        "edit_party_info": "Ṣatunkọ alaye ẹgbẹ",
+        "dissolve_party": "Yọ ẹgbẹ kuro",
+        "dialogs": {
+          "found_party": "Ṣẹda ẹgbẹ",
+          "party_name": "Orukọ ẹgbẹ",
+          "description_optional": "Apejuwe (aṣayan)",
+          "official_link_optional": "Ọna asopọ ti ofesi (aṣayan)",
+          "founding": "N ṣẹda...",
+          "updating": "N ṣe imudojuiwọn...",
+          "found": "Ṣẹda",
+          "save": "Fi pamọ",
+          "dissolving": "N yọ kuro...",
+          "about_to_found": "O n fẹ ṣẹda ẹgbẹ tuntun kan.",
+          "about_to_dissolve": "O n fẹ yọ {partyName} kuro. Iṣẹ yii ko le pada sẹhin.",
+          "leader_warning_found": "O jẹ oludari {partyName} lọwọlọwọ. Didasilẹ egbe tuntun yoo yọ egbe rẹ lọwọlọwọ kuro."
+        },
+        "detail": {
+          "failed_to_load": "Kuna lati gbe data ẹgbẹ",
+          "party_not_found": "Ko ri ẹgbẹ",
+          "error_loading": "Aṣiṣe nigba gbigbe ẹgbẹ",
+          "back_to_parties": "Pada si awọn ẹgbẹ",
+          "description": "Apejuwe",
+          "party_info": "Alaye ẹgbẹ",
+          "leader": "Oludari",
+          "website": "Oju opo wẹẹbu",
+          "not_found_description": "Ẹgbẹ ti o n wa ko wa tabi ti yọ kuro."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "Awọn idibo idanwo n bọ laipẹ. Jẹrisi idanimọ rẹ ni bayi lati ṣe mura nigba ti idibo ba ṣii.",
+          "verify_button": "Jẹrisi tẹlẹ"
+        },
+        "coming_soon": {
+          "description": "Idibo idanwo yoo bẹrẹ laipẹ. A ti fọwọsi rẹ tẹlẹ, o si ti ṣetan lati dibo ni kete ti idibo ba bẹrẹ."
+        },
+        "no_active_election": "Ko si ìdìbọ tó ń lọ lọwọ"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "IROYIN",
+          "account_info": "Alaye iroyin",
+          "language": "Ede"
+        },
+        "help": {
+          "title": "IRANLỌWỌ",
+          "faq": "Awọn ibeere ti o wọpọ",
+          "support": "Atilẹyin"
+        },
+        "legal": {
+          "title": "OFIN",
+          "terms": "Awọn ofin lilo",
+          "privacy": "Eto Ikọkọ"
+        },
+        "source_code": {
+          "title": "KÓÒDÙ ORÍSÙN"
+        }
+      }
+    },
+    "faq": {
+      "title": "Awọn ibeere ti o wọpọ",
+      "items": {
+        "app-purpose": {
+          "question": "Kini Orilẹ-ede Agbaye?",
+          "answer": "Orilẹ-ede Agbaye jẹ pẹpẹ iṣakoso ti o ni owo dijitali tirẹ ti o n gbero lati dẹ agbekalẹ tiwantiwa fun alaafia ati aabo agbaye."
+        },
+        "what-is-wdd": {
+          "question": "Kini WDD?",
+          "answer": "WDD (drachma agbaye) jẹ owo osise blockchain-native ti Orilẹ-ede Agbaye, ti a ṣe agbekalẹ bi aami ERC-20 ti o wọpọ ni ọpọlọpọ awọn nẹtiwọọki."
+        },
+        "drachma-value": {
+          "question": "Nibo ni drachma gba iye rẹ?",
+          "answer": "Drachma gba iye-owo rẹ lati jẹ owo osise ti Orilẹ-ede Agbaye. Bi oju-ọna ijọba agbaye wa ba n dagba, WDD le di ọkọ ayika ti pinpin agbaye ati oju-ọna pataki ti iyipada ni ọrọ-aje agbaye."
+        },
+        "identity-verification": {
+          "question": "Bawo ni iwadi aami ṣe n ṣiṣẹ?",
+          "answer": "Orilẹ-ede Agbaye nlo Self lati jẹrisi idanimọ rẹ nipasẹ pasipọọti rẹ tabi ID orilẹ-ede rẹ. Ikọkọ rẹ ni aabo—Self kan jẹrisi pe o jẹ eniyan otitọ laisi fifihan eyikeyi data ti ara ẹni rẹ."
+        },
+        "test-elections": {
+          "question": "Kini awọn idibo idanwo?",
+          "answer": "Awọn idibo idanwo jẹ awọn idanwo nibiti awọn ara ilu Ìjọba Àpapọ̀ Ayé dibo fun awọn ẹgbẹ oselu. Gbogbo ẹgbẹ ni a fi kun laifọwọyi lori iwe idibo, aridaju anfani dogba fun gbogbo awọn oludari ti o nireti."
+        },
+        "party-subsidies": {
+          "question": "Bawo ni awọn ifunni ẹgbẹ ṣe n ṣiṣẹ?",
+          "answer": "Ìjọba Àpapọ̀ Ayé n ṣe inawo awọn ẹgbẹ oselu ti o da lori atilẹyin tiwantiwa. A n pin awọn ifunni WDD ni ibamu si awọn abajade idibo, ni idaniloju pe ibo kọọkan n mu awọn orisun inawo ẹgbẹ pọ si taara."
+        },
+        "verification-required": {
+          "question": "Ṣé ìjẹ́rìí pọn dandan láti kópa?",
+          "answer": "Ìjẹ́rìí idánimọ̀ wúlò fún ìbò dídì nìkan. O lè dá ẹgbẹ́ sílẹ̀ kí o sì gbé WDD tí o rí láti inú owó ìrànwọ́ ẹgbẹ́ lọ láìsí ìjẹ́rìí."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "Apamọwọ"
+      },
+      "balance": "Iye owo",
+      "modals": {
+        "sign_out": {
+          "confirm": "Ṣe o da ọ loju pe o fẹ jade?"
+        },
+        "send": {
+          "button": "Fi",
+          "title": "Fi WDD",
+          "choice_description": "Yan bi o fẹ fi drachma rẹ ranṣẹ.",
+          "transfer_to_citizen": {
+            "title": "Gbe",
+            "description": "Gbe WDD si ara ilu miiran",
+            "username_label": "Orukọ olumulo olugba"
+          },
+          "withdraw_to_crypto": {
+            "title": "Yọ",
+            "description": "Yọ WDD soke si iroye crypto",
+            "amount_label": "Iye",
+            "address_label": "Adirẹsi apamọwọ",
+            "network_label": "Nẹtiwọọki"
+          }
+        },
+        "trade": {
+          "base": "Base WDD lori Uniswap",
+          "monad": "Monad WDD lori Uniswap",
+          "world": "World Chain WDD lori Uniswap",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "Eyi yoo pa iroyin rẹ lailai ati yọ awọn data rẹ kuro ni awọn server wa. Iṣẹ yii ko le yipada — tẹsiwaju pẹlu iṣọra.",
+          "deleting": "Npa..."
+        },
+        "receive": {
+          "button": "Gba",
+          "title": "Gba WDD",
+          "description": "Pin orukọ olumulo rẹ lati gba WDD lati awọn ọrẹ rẹ."
+        }
+      },
+      "sections": {
+        "identification": "AMỌRAN",
+        "account": "IROYIN",
+        "danger_zone": "AGBAYE ELEWU",
+        "delete_account": {
+          "description": "Yọ gbogbo data rẹ lailai"
+        }
+      },
+      "username": {
+        "label": "Orukọ olumulo",
+        "edit_title": "Ṣatunkọ orukọ olumulo",
+        "description": "Awọn kikọ 3-30, alfanumeriki, awọn ila isalẹ ati awọn hyphen"
+      },
+      "history": {
+        "title": "Itan"
+      },
+      "transactions": {
+        "failed_to_load": "Kuna lati gbe",
+        "no_transactions": "Ko si awọn iṣowo sibẹ",
+        "just_now": "Ni bayi",
+        "minutes_ago": "{minutes}iṣẹju sẹhin",
+        "hours_ago": "{hours}wakati sẹhin",
+        "days_ago": "{days}ọjọ sẹhin",
+        "filter": {
+          "all_types": "Gbogbo awọn iru",
+          "select_type": "Yan iru"
+        },
+        "types": {
+          "withdrawal": "Yiyọ kuro",
+          "received": "Ti gba",
+          "sent": "Ti ranṣẹ"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "Ṣàyẹ̀wò kóòdù QR yìí láti fọwọsi pẹ̀lú Self.",
+        "status_completed": "Ti a jẹrisi",
+        "status_not_completed": "Ko jẹrisi",
+        "mobile_dialog_description": "A ó yí ọ lọ sí app Self láti parí ìfọwọsi.",
+        "supported_countries": "Àwọn orílẹ̀-èdè tí a ń ṣe àtìlẹ́yìn",
+        "support_telegram": "Ìtìlẹ́yìn Self"
+      },
+      "verification_warning": {
+        "title": "Gba ijẹrisi"
+      },
+      "verification_explainer": {
+        "title": "Ijẹrisi nilo",
+        "description": "Jọwọ pari ijẹrisi lati yọ tokens jade."
+      },
+      "re_verification_explainer": {
+        "title": "Ijẹrisi tuntun nilo",
+        "description": "Fun aabo rẹ, a nilo ijẹrisi tuntun ṣaaju awọn iṣẹ wiwu bi yiyọ jade. Eyi ṣe iranlọwọ lati dènà akọọnti rẹ lati wiwọle laisi aṣẹ."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "Ọpọlọpọ awọn apamọwọ nikan ni o ṣe afihan WDD lẹhin ti a ti fi ọwọ mu si sori ẹgbẹ ti a yan nipasẹ ",
+      "contract_address": "adirẹẹsi iwe-adehun"
+    }
+  },
+  "toasts": {
+    "generic_error": "Aṣiṣe kan ṣẹlẹ",
+    "copied": "A kọ",
+    "wallet": {
+      "no_wallet": "Ko si adirẹsi apamọwọ",
+      "min_amount": "Kere ju 10 WDD",
+      "sent": "Ti a ran",
+      "failed": "Sumsub ID nilo",
+      "account_deleted": "Iroyin ti a pa",
+      "delete_failed": "Pipa iroyin kuna",
+      "contract_address_error": "Ko le ya jade si adirẹsi adehun",
+      "sign_out_failed": "Sign out kuna"
+    },
+    "parties": {
+      "founded": "Ẹgbẹ ti da silẹ",
+      "found_failed": "Dida ẹgbẹ silẹ kuna",
+      "found_error": "Aṣiṣe nigba dida ẹgbẹ silẹ",
+      "updated": "Titunṣe",
+      "update_failed": "Itunṣe kuna",
+      "update_error": "Aṣiṣe nigba titunṣe ẹgbẹ",
+      "transferred": "Yipada",
+      "transfer_failed": "Iyipada iṣakoso kuna",
+      "transfer_error": "Aṣiṣe nigba iyipada iṣakoso",
+      "dissolved": "Fo",
+      "dissolve_failed": "Fifo ẹgbẹ kuna",
+      "dissolve_error": "Aṣiṣe nigba fifo ẹgbẹ"
+    }
+  },
+  "common": {
+    "confirm": "Jẹrisi",
+    "sign_in": "Wọle",
+    "max": "Opo",
+    "loading": "Nṣiṣẹ...",
+    "processing": "N ṣiṣẹ...",
+    "insufficient_balance": "Ko to WDD",
+    "delete_account": "Paarẹ akọọnti",
+    "sign_out": "Jade",
+    "invalid_address": "Adirẹsi ti ko tọ",
+    "coming_soon": "Laipe",
+    "withdraw": "Yọ",
+    "trade": "Iṣowo",
+    "continue": "Tẹsiwaju",
+    "updating": "N ṣe imudojuiwọn...",
+    "save": "Fi pamọ",
+    "vote": "Dibò",
+    "close": "Pa"
+  },
+  "auth": {
+    "choose_method": "Yan ọna ti o fẹ.",
+    "sign_in_with_google": "Tẹsiwaju pẹlu Google",
+    "sign_in_with_passkey": "Lo biometrics",
+    "sign_in_or_create": "Wọle si akọọlẹ rẹ pẹlu passkey, lilo aami ika rẹ, iwọran oju tabi titiidi iboju.",
+    "create_account": "Ṣẹda akọọlẹ",
+    "create_passkey_name": "Ṣẹda orukọ passkey",
+    "passkey_name_description": "Sọ orukọ passkey rẹ lati ṣe idaniloju rẹ ni oluṣakoso ọrọ aṣina rẹ.",
+    "passkey_name": "Orukọ passkey"
+  }
+}

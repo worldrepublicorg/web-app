@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "Menyu",
+    "world_republic": "Jahon Respublikasi"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "Saylovlar",
+        "referendums": "Referendumlar"
+      },
+      "sections": {
+        "parties": {
+          "title": "Siyosiy partiyalar",
+          "subtitle": "Umumiy qadriyatlar atrofida global birlashuv"
+        },
+        "elections": {
+          "title": "Sinov saylovlari",
+          "subtitle": "Global demokratiya bilan tajriba qiling"
+        },
+        "referendums": {
+          "title": "Jahon Konstitutsiyaviy Referendumi",
+          "subtitle": "Asosiy tamoyillarimiz bo'yicha ovoz bering"
+        }
+      },
+      "parties": {
+        "discover": "Topish",
+        "search_placeholder": "Partiyalarni qidirish...",
+        "tabs": {
+          "new": "Yangi",
+          "trending": "Trend",
+          "top": "Eng yaxshi"
+        },
+        "no_parties_found": "Partiyalar topilmadi",
+        "loading_more": "Ko'proq partiyalar yuklanmoqda...",
+        "party_details": "Partiya tafsilotlari",
+        "share_party": "Partiyani ulashish",
+        "my_party": "Mening partiyam",
+        "found_party_and_earn": "Partiya tashkil qiling va subsidiyalar oling",
+        "learn_more": "Ko'proq biling",
+        "party_management": "Partiya boshqaruvi",
+        "edit_party_info": "Partiya ma'lumotlarini tahrirlash",
+        "dissolve_party": "Partiyani tarqatib yuborish",
+        "dialogs": {
+          "found_party": "Partiya tuzish",
+          "party_name": "Partiya nomi",
+          "description_optional": "Tavsif (ixtiyoriy)",
+          "official_link_optional": "Rasmiy havola (ixtiyoriy)",
+          "founding": "Tuzilmoqda...",
+          "updating": "Yangilanmoqda...",
+          "found": "Tuzish",
+          "save": "Saqlash",
+          "dissolving": "Tarqatilmoqda...",
+          "about_to_found": "Siz yangi partiya tuzmoqchisiz.",
+          "about_to_dissolve": "Siz {partyName} partiyasini tarqatib yubormoqchisiz. Bu harakatni bekor qilib bo'lmaydi.",
+          "leader_warning_found": "Siz hozirda {partyName} partiyasining rahbari ekansiz. Yangi partiya tashkil qilish joriy partiyangizni tarqatib yuboradi."
+        },
+        "detail": {
+          "failed_to_load": "Partiya ma'lumotlarini yuklashda xatolik",
+          "party_not_found": "Partiya topilmadi",
+          "error_loading": "Partiyani yuklashda xatolik",
+          "back_to_parties": "Partiyalarga qaytish",
+          "description": "Tavsif",
+          "party_info": "Partiya ma'lumotlari",
+          "leader": "Rahbar",
+          "website": "Veb-sayt",
+          "not_found_description": "Siz qidirayotgan partiya mavjud emas yoki tarqatib yuborilgan."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "Test saylovlar tez orada bo'ladi. Ovoz berish ochilganda tayyor bo'lish uchun hozir o'z identifikatsiyangizni tasdiqlang.",
+          "verify_button": "Oldindan tasdiqlash"
+        },
+        "coming_soon": {
+          "description": "Sinov saylovlari yaqinda boshlanadi. Siz allaqachon tasdiqlangansiz va saylov boshlanganda ovoz berishga tayyorsiz."
+        },
+        "no_active_election": "Faol saylov yo'q"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "HISOB",
+          "account_info": "Hisob ma'lumoti",
+          "language": "Til"
+        },
+        "help": {
+          "title": "YORDAM",
+          "faq": "Savol-javob",
+          "support": "Qo'llab-quvvatlash"
+        },
+        "legal": {
+          "title": "HUQUQIY",
+          "terms": "Foydalanish shartlari",
+          "privacy": "Maxfiylik siyosati"
+        },
+        "source_code": {
+          "title": "MANBA KODI"
+        }
+      }
+    },
+    "faq": {
+      "title": "Savol-javob",
+      "items": {
+        "app-purpose": {
+          "question": "Jahon Respublikasi nima?",
+          "answer": "Jahon Respublikasi global tinchlik va xavfsizlik uchun demokratik asos yaratishga intilayotgan o'z raqamli valyutasi bo'lgan ochiq manbali boshqaruv platformasidir."
+        },
+        "what-is-wdd": {
+          "question": "WDD nima?",
+          "answer": "WDD (jahon drahmasi) Jahon Respublikasining blockchain-native rasmiy valyutasidir va bir nechta tarmoqlarda standart ERC-20 token sifatida chiqarilgan."
+        },
+        "drachma-value": {
+          "question": "Draxmaning qiymati qayerdan keladi?",
+          "answer": "Draxma o'z qiymatini Jahon Respublikasining rasmiy valyutasi bo'lishidan oladi. Bizning global boshqaruv platformamizning qonuniyligi o'sishi bilan, WDD global qayta taqsimlash vositasi va jahon iqtisodiyotidagi asosiy almashish vositasi bo'lishi mumkin."
+        },
+        "identity-verification": {
+          "question": "Shaxsni tekshirish qanday ishlaydi?",
+          "answer": "Jahon Respublikasi pasportingiz yoki milliy ID kartaingiz orqali identifikatsiyangizni tasdiqlash uchun Self-dan foydalanadi. Maxfiyligingiz himoyalangan—Self shaxsiy ma'lumotlaringizni oshkor qilmasdan siz haqiqiy shaxs ekanligingizni tasdiqlaydi."
+        },
+        "test-elections": {
+          "question": "Test saylovlar nima?",
+          "answer": "Sinov saylovlari Jahon Respublikasi fuqarolari siyosiy partiyalar uchun ovoz beradigan tajribalardir. Har bir partiya avtomatik ravishda byulletenga kiritiladi va barcha intiluvchan liderlar uchun teng imkoniyatlarni ta'minlaydi."
+        },
+        "party-subsidies": {
+          "question": "Partiya subsidiyalari qanday ishlaydi?",
+          "answer": "Jahon Respublikasi siyosiy partiyalarni demokratik qo'llab-quvvatlash asosida moliyalashtiradi. Biz WDD grantlarini saylov natijalariga mutanosib ravishda taqsimlaymiz va har bir ovoz partiyaning moliyaviy resurslarini bevosita oshirishini ta'minlaymiz."
+        },
+        "verification-required": {
+          "question": "Qatnashish uchun tasdiqlash shartmi?",
+          "answer": "Shaxsni tasdiqlash faqat ovoz berish uchun talab qilinadi. Siz tasdiqlashsiz partiya tuzishingiz va partiya subsidiyalaridan olingan WDD mablag'larini o'tkazishingiz mumkin."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "Hamyon"
+      },
+      "balance": "Balans",
+      "modals": {
+        "sign_out": {
+          "confirm": "Chiqishni xohlaysizmi?"
+        },
+        "send": {
+          "button": "Yuborish",
+          "title": "WDD yuborish",
+          "choice_description": "Draxmaningizni qanday yubormoqchi ekanligingizni tanlang.",
+          "transfer_to_citizen": {
+            "title": "O'tkazish",
+            "description": "WDD ni boshqa fuqaroga o'tkazish",
+            "username_label": "Qabul qiluvchi foydalanuvchi nomi"
+          },
+          "withdraw_to_crypto": {
+            "title": "Yechib olish",
+            "description": "WDD ni kripto hisobga yechib olish",
+            "amount_label": "Miqdor",
+            "address_label": "Hamyon manzili",
+            "network_label": "Tarmoq"
+          }
+        },
+        "trade": {
+          "base": "Base WDD Uniswapda",
+          "monad": "Monad WDD Uniswapda",
+          "world": "World Chain WDD Uniswapda",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "Bu hisobingizni butunlay o'chiradi va barcha ma'lumotlaringizni serverlarimizdan olib tashlaydi. Bu amalni qaytarib bo'lmaydi — iltimos ehtiyotkorlik bilan davom eting.",
+          "deleting": "O'chirilmoqda..."
+        },
+        "receive": {
+          "button": "Qabul qilish",
+          "title": "WDD qabul qilish",
+          "description": "Do'stlaringizdan WDD olish uchun foydalanuvchi nomingizni ulashing."
+        }
+      },
+      "sections": {
+        "identification": "IDENTIFIKATSIYA",
+        "account": "HISOB",
+        "danger_zone": "XAVF HUDUDI",
+        "delete_account": {
+          "description": "Barcha ma'lumotlaringizni doimiy ravishda olib tashlang"
+        }
+      },
+      "username": {
+        "label": "Foydalanuvchi nomi",
+        "edit_title": "Foydalanuvchi nomini tahrirlash",
+        "description": "3-30 belgi, alfanumerik, pastki chiziq va tire"
+      },
+      "history": {
+        "title": "Tarix"
+      },
+      "transactions": {
+        "failed_to_load": "Yuklashda xatolik",
+        "no_transactions": "Hali tranzaksiyalar yo'q",
+        "just_now": "Hozir",
+        "minutes_ago": "{minutes}daq oldin",
+        "hours_ago": "{hours}soat oldin",
+        "days_ago": "{days}kun oldin",
+        "filter": {
+          "all_types": "Barcha turlar",
+          "select_type": "Turini tanlang"
+        },
+        "types": {
+          "withdrawal": "Yechib olish",
+          "received": "Qabul qilindi",
+          "sent": "Yuborildi"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "Self bilan tasdiqlash uchun ushbu QR kodni skaner qiling.",
+        "status_completed": "Tasdiqlangan",
+        "status_not_completed": "Tasdiqlanmagan",
+        "mobile_dialog_description": "Tasdiqlashni yakunlash uchun Self ilovasiga yo‘naltirilasiz.",
+        "supported_countries": "Qo‘llab-quvvatlanadigan mamlakatlar",
+        "support_telegram": "Self yordami"
+      },
+      "verification_warning": {
+        "title": "Tasdiqlash"
+      },
+      "verification_explainer": {
+        "title": "Tasdiqlash talab qilinadi",
+        "description": "Tokenlarni yechib olish uchun iltimos tasdiqlashni yakunlang."
+      },
+      "re_verification_explainer": {
+        "title": "Qayta tasdiqlash talab qilinadi",
+        "description": "Xavfsizligingiz uchun, yechib olish kabi sezgir harakatlardan oldin yangi tasdiqlash talab qilamiz. Bu sizning hisobingizni ruxsatsiz kirishdan himoya qilishga yordam beradi."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "Ko'pchilik hamyonlar WDD ni faqat tanlangan zanjirga qo'lda import qilingandan keyin ko'rsatadi. Uning ",
+      "contract_address": "shartnoma manzili"
+    }
+  },
+  "toasts": {
+    "generic_error": "Xato yuz berdi",
+    "copied": "Nusxa olindi",
+    "wallet": {
+      "no_wallet": "Hamyon manzili yo'q",
+      "min_amount": "Minimal 10 WDD",
+      "sent": "Yuborildi",
+      "failed": "Sumsub ID talab qilinadi",
+      "account_deleted": "Hisob o'chirildi",
+      "delete_failed": "Hisobni o'chirish muvaffaqiyatsiz",
+      "contract_address_error": "Shartnoma manziliga yechib bo'lmaydi",
+      "sign_out_failed": "Chiqish muvaffaqiyatsiz"
+    },
+    "parties": {
+      "founded": "Partiya tashkil etildi",
+      "found_failed": "Partiya tashkil etish muvaffaqiyatsiz",
+      "found_error": "Partiya tashkil etishda xato",
+      "updated": "Yangilandi",
+      "update_failed": "Yangilash muvaffaqiyatsiz",
+      "update_error": "Partiyani yangilashda xato",
+      "transferred": "O'tkazildi",
+      "transfer_failed": "Rahbarlikni o'tkazish muvaffaqiyatsiz",
+      "transfer_error": "Rahbarlikni o'tkazishda xato",
+      "dissolved": "Tarqatildi",
+      "dissolve_failed": "Tarqatish muvaffaqiyatsiz",
+      "dissolve_error": "Partiyani tarqatishda xato"
+    }
+  },
+  "common": {
+    "confirm": "Tasdiqlash",
+    "sign_in": "Kirish",
+    "max": "Maks",
+    "loading": "Yuklanmoqda...",
+    "processing": "Ishlanmoqda...",
+    "insufficient_balance": "Yetarli WDD yo'q",
+    "delete_account": "Hisobni o'chirish",
+    "sign_out": "Chiqish",
+    "invalid_address": "Noto'g'ri manzil",
+    "coming_soon": "Tez orada",
+    "withdraw": "Yechib olish",
+    "trade": "Savdo",
+    "continue": "Davom etish",
+    "updating": "Yangilanmoqda...",
+    "save": "Saqlash",
+    "vote": "Ovoz bering",
+    "close": "Yopish"
+  },
+  "auth": {
+    "choose_method": "Afzal ko'rgan usulni tanlang.",
+    "sign_in_with_google": "Google bilan davom eting",
+    "sign_in_with_passkey": "Biometrikadan foydalaning",
+    "sign_in_or_create": "Hisobingizga passkey yordamida kirish, barmoq izi, yuz skanerlash yoki ekran qulfidan foydalanish.",
+    "create_account": "Hisob yaratish",
+    "create_passkey_name": "Passkey nomini yaratish",
+    "passkey_name_description": "Parol menejerida aniqlash uchun passkey-ingizga nom bering.",
+    "passkey_name": "Passkey nomi"
+  }
+}

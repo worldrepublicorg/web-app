@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "Menyu",
+    "world_republic": "Dünya Respublikası"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "Seçkilər",
+        "referendums": "Referendumlar"
+      },
+      "sections": {
+        "parties": {
+          "title": "Siyasi partiyalar",
+          "subtitle": "Ortaq dəyərlər ətrafında qlobal birləşmə"
+        },
+        "elections": {
+          "title": "Sınaq seçkiləri",
+          "subtitle": "Qlobal demokratiya ilə təcrübə et"
+        },
+        "referendums": {
+          "title": "Dünya Konstitusiya Referendumu",
+          "subtitle": "Təməl prinsiplərimiz üçün səs ver"
+        }
+      },
+      "parties": {
+        "discover": "Kəşf edin",
+        "search_placeholder": "Partiyaları axtarın...",
+        "tabs": {
+          "new": "Yeni",
+          "trending": "Trend",
+          "top": "Ən yaxşı"
+        },
+        "no_parties_found": "Partiya tapılmadı",
+        "loading_more": "Daha çox partiya yüklənir...",
+        "party_details": "Partiya detalları",
+        "share_party": "Partiyanı paylaş",
+        "my_party": "Partiyam",
+        "found_party_and_earn": "Partiya yaradın və subsidiyalar əldə edin",
+        "learn_more": "Ətraflı öyrənin",
+        "party_management": "Partiya idarəetməsi",
+        "edit_party_info": "Partiya məlumatlarını redaktə et",
+        "dissolve_party": "Partiyanı ləğv et",
+        "dialogs": {
+          "found_party": "Partiya yarat",
+          "party_name": "Partiya adı",
+          "description_optional": "Təsvir (istəyə bağlı)",
+          "official_link_optional": "Rəsmi keçid (istəyə bağlı)",
+          "founding": "Yaradılır...",
+          "updating": "Yenilənir...",
+          "found": "Yarat",
+          "save": "Saxla",
+          "dissolving": "Ləğv edilir...",
+          "about_to_found": "Yeni partiya yaratmaq üzrəsiniz.",
+          "about_to_dissolve": "Siz {partyName} partiyasını ləğv etmək üzrəsiniz. Bu hərəkət geri alına bilməz.",
+          "leader_warning_found": "Hal-hazırda {partyName} partiyasının liderisiniz. Yeni partiya yaratmaq cari partiyanızı ləğv edəcək."
+        },
+        "detail": {
+          "failed_to_load": "Partiya məlumatlarını yükləmək mümkün olmadı",
+          "party_not_found": "Partiya tapılmadı",
+          "error_loading": "Partiyanı yükləyərkən xəta",
+          "back_to_parties": "Partiyalara qayıt",
+          "description": "Təsvir",
+          "party_info": "Partiya məlumatları",
+          "leader": "Rəhbər",
+          "website": "Veb sayt",
+          "not_found_description": "Axtardığınız partiya mövcud deyil və ya ləğv edilib."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "Test seçkiləri tezliklə gəlir. Səsvermə açılanda hazır olmaq üçün indi kimliyinizi təsdiqləyin.",
+          "verify_button": "Əvvəlcədən təsdiqlə"
+        },
+        "coming_soon": {
+          "description": "Sınaq seçkiləri tezliklə başlayacaq. Artıq təsdiqlənmisiniz və seçki başlayanda səs verməyə hazırsınız."
+        },
+        "no_active_election": "Aktiv seçki yoxdur"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "HESAB",
+          "account_info": "Hesab məlumatı",
+          "language": "Dil"
+        },
+        "help": {
+          "title": "KÖMƏK",
+          "faq": "FAQ",
+          "support": "Dəstək"
+        },
+        "legal": {
+          "title": "HÜQUQİ",
+          "terms": "İstifadə Şərtləri",
+          "privacy": "Məxfilik Siyasəti"
+        },
+        "source_code": {
+          "title": "MƏNBƏ KODU"
+        }
+      }
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "app-purpose": {
+          "question": "Dünya Respublikası nədir?",
+          "answer": "Dünya Respublikası öz rəqəmsal valyutası olan açıq mənbəli idarəetmə platformasıdır və qlobal sülh və təhlükəsizlik üçün demokratik çərçivə yaratmağa çalışır."
+        },
+        "what-is-wdd": {
+          "question": "WDD nədir?",
+          "answer": "WDD (dünya draxması) Dünya Respublikasının blockchain-native rəsmi valyutasıdır və bir neçə şəbəkədə standart ERC-20 token kimi buraxılmışdır."
+        },
+        "drachma-value": {
+          "question": "Drahmanın dəyəri nədən yaranır?",
+          "answer": "Draxma dəyərini Dünya Respublikasının rəsmi valyutası olmaqdan əldə edir. Qlobal idarəetmə platformamızın etibarlılığı artdıqca, WDD qlobal yenidən bölüşdürmənin vasitəsi və dünya iqtisadiyyatında əsas mübadilə vasitəsi ola bilər."
+        },
+        "identity-verification": {
+          "question": "Şəxsiyyət yoxlaması necə işləyir?",
+          "answer": "Dünya Respublikası pasportunuz və ya milli şəxsiyyətiniz vasitəsilə şəxsiyyətinizi təsdiqləmək üçün Self istifadə edir. Məxfilik qorunur—Self yalnız şəxsi məlumatlarınızı açıqlamadan gerçək bir şəxs olduğunuzu təsdiqləyir."
+        },
+        "test-elections": {
+          "question": "Test seçkiləri nədir?",
+          "answer": "Sınaq seçkiləri Dünya Respublikası vətəndaşlarının siyasi partiyalara səs verdiyi eksperimentlərdir. Hər bir partiya avtomatik olaraq bülletenə daxil edilir və bütün iddialı liderlər üçün bərabər imkanlar təmin edilir."
+        },
+        "party-subsidies": {
+          "question": "Partiya subsidiyaları necə işləyir?",
+          "answer": "Dünya Respublikası siyasi partiyaları demokratik dəstək əsasında maliyyələşdirir. Biz seçki nəticələrinə mütənasib olaraq WDD qrantlarını bölüşdürürük və hər bir səsin partiyanın maliyyə resurslarını birbaşa artırmasını təmin edirik."
+        },
+        "verification-required": {
+          "question": "İştirak etmək üçün təsdiqləmə lazımdır?",
+          "answer": "Şəxsiyyətin təsdiqlənməsi yalnız səsvermə üçün tələb olunur. Təsdiqləmə olmadan da partiya yarada və partiya subsidiyalarından qazanılan WDD-ni köçürə bilərsiniz."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "Cüzdan"
+      },
+      "balance": "Balans",
+      "modals": {
+        "sign_out": {
+          "confirm": "Hesabdan çıxmaq istədiyinizə əminsiniz?"
+        },
+        "send": {
+          "button": "Göndər",
+          "title": "WDD göndər",
+          "choice_description": "Draxmanızı necə göndərmək istədiyinizi seçin.",
+          "transfer_to_citizen": {
+            "title": "Köçür",
+            "description": "WDD-ni başqa vətəndaşa köçür",
+            "username_label": "Qəbul edənin istifadəçi adı"
+          },
+          "withdraw_to_crypto": {
+            "title": "Çıxar",
+            "description": "WDD-ni kripto hesabına çıxar",
+            "amount_label": "Məbləğ",
+            "address_label": "Cüzdan ünvanı",
+            "network_label": "Şəbəkə"
+          }
+        },
+        "trade": {
+          "base": "Base WDD Uniswap-da",
+          "monad": "Monad WDD Uniswap-da",
+          "world": "World Chain WDD Uniswap-da",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "Bu, hesabınızı və bütün məlumatlarınızı serverlərimizdən daimi olaraq siləcək. Bu əməliyyatı geri qaytarmaq mümkün deyil — xahiş edirik ehtiyatla davam edin.",
+          "deleting": "Silinir..."
+        },
+        "receive": {
+          "button": "Qəbul et",
+          "title": "WDD qəbul et",
+          "description": "Dostlarınızdan WDD almaq üçün istifadəçi adınızı paylaşın."
+        }
+      },
+      "sections": {
+        "identification": "İDENFİKASİYA",
+        "account": "HESAB",
+        "danger_zone": "TƏHLÜKƏ ZONASI",
+        "delete_account": {
+          "description": "Bütün məlumatlarınızı daimi olaraq silin"
+        }
+      },
+      "username": {
+        "label": "İstifadəçi adı",
+        "edit_title": "İstifadəçi adını redaktə et",
+        "description": "3-30 simvol, alfanumerik, alt xətt və tire"
+      },
+      "history": {
+        "title": "Tarixçə"
+      },
+      "transactions": {
+        "failed_to_load": "Yüklənmədi",
+        "no_transactions": "Hələ əməliyyat yoxdur",
+        "just_now": "İndi",
+        "minutes_ago": "{minutes}d əvvəl",
+        "hours_ago": "{hours}s əvvəl",
+        "days_ago": "{days}g əvvəl",
+        "filter": {
+          "all_types": "Bütün növlər",
+          "select_type": "Növü seçin"
+        },
+        "types": {
+          "withdrawal": "Çıxarış",
+          "received": "Alındı",
+          "sent": "Göndərildi"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "Self ilə təsdiqləmək üçün bu QR kodu skan et.",
+        "status_completed": "Təsdiqləndi",
+        "status_not_completed": "Təsdiqlənməyib",
+        "mobile_dialog_description": "Təsdiqi tamamlamak üçün Self tətbiqinə yönləndiriləcəksiniz.",
+        "supported_countries": "Dəstəklənən ölkələr",
+        "support_telegram": "Self dəstəyi"
+      },
+      "verification_warning": {
+        "title": "Təsdiqlə"
+      },
+      "verification_explainer": {
+        "title": "Təsdiqləmə tələb olunur",
+        "description": "Token çıxarmaq üçün təsdiqləməni tamamlayın."
+      },
+      "re_verification_explainer": {
+        "title": "Yenidən təsdiqləmə tələb olunur",
+        "description": "Təhlükəsizliyiniz üçün çıxarışlar kimi həssas əməliyyatlardan əvvəl təzə təsdiqləmə tələb edirik. Bu, hesabınızı qeyri-leqal girişdən qorumağa kömək edir."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "Əksər pulqabları WDD-ni yalnız seçilmiş zəncirdə əl ilə idxal edildikdən sonra onun ",
+      "contract_address": "müqavilə ünvanı"
+    }
+  },
+  "toasts": {
+    "generic_error": "Xəta baş verdi",
+    "copied": "Kopyalandı",
+    "wallet": {
+      "no_wallet": "Cüzdan ünvanı yoxdur",
+      "min_amount": "Minimum 10 WDD",
+      "sent": "Göndərildi",
+      "failed": "Sumsub ID tələb olunur",
+      "account_deleted": "Hesab silindi",
+      "delete_failed": "Hesabı silmək alınmadı",
+      "contract_address_error": "Müqavilə ünvanına çıxarmaq olmaz",
+      "sign_out_failed": "Hesabdan çıxmaq alınmadı"
+    },
+    "parties": {
+      "founded": "Partiya yaradıldı",
+      "found_failed": "Partiya yaratma uğursuz oldu",
+      "found_error": "Partiya yaradarkən xəta",
+      "updated": "Yeniləndi",
+      "update_failed": "Yeniləmə uğursuz oldu",
+      "update_error": "Partiyanı yeniləyərkən xəta",
+      "transferred": "Köçürüldü",
+      "transfer_failed": "Rəhbərliyin köçürülməsi uğursuz oldu",
+      "transfer_error": "Rəhbərliyi köçürərkən xəta",
+      "dissolved": "Ləğv edildi",
+      "dissolve_failed": "Ləğv etmə uğursuz oldu",
+      "dissolve_error": "Partiyanı ləğv edərkən xəta"
+    }
+  },
+  "common": {
+    "confirm": "Təsdiqlə",
+    "sign_in": "Daxil ol",
+    "max": "Maks",
+    "loading": "Yüklənir...",
+    "processing": "İşlənir...",
+    "insufficient_balance": "Kifayət qədər WDD yoxdur",
+    "delete_account": "Hesabı sil",
+    "sign_out": "Çıxış",
+    "invalid_address": "Yanlış ünvan",
+    "coming_soon": "Tezliklə",
+    "withdraw": "Çıxar",
+    "trade": "Ticarət",
+    "continue": "Davam et",
+    "updating": "Yenilənir...",
+    "save": "Saxla",
+    "vote": "Səs ver",
+    "close": "Bağla"
+  },
+  "auth": {
+    "choose_method": "Üstünlük verdiyiniz metodu seçin.",
+    "sign_in_with_google": "Google ilə davam edin",
+    "sign_in_with_passkey": "Biometrikadan istifadə edin",
+    "sign_in_or_create": "Hesabınıza parol açarı, barmaq izi, üz skanı və ya ekran kilidi ilə daxil olun.",
+    "create_account": "Hesab yarat",
+    "create_passkey_name": "Passkey adı yarat",
+    "passkey_name_description": "Passkey-nizi şifrə idarəçisində müəyyən etmək üçün adlandırın.",
+    "passkey_name": "Passkey adı"
+  }
+}

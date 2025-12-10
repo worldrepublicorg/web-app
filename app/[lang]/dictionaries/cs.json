@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "Menu",
+    "world_republic": "Světová republika"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "Volby",
+        "referendums": "Referenda"
+      },
+      "sections": {
+        "parties": {
+          "title": "Politické strany",
+          "subtitle": "Sjednoťte se globálně kolem sdílených hodnot"
+        },
+        "elections": {
+          "title": "Testovací volby",
+          "subtitle": "Experimentujte s globální demokracií"
+        },
+        "referendums": {
+          "title": "Ústavní světový referendum",
+          "subtitle": "Hlasujte o našich základních principech"
+        }
+      },
+      "parties": {
+        "discover": "Objevit",
+        "search_placeholder": "Hledat strany...",
+        "tabs": {
+          "new": "Nové",
+          "trending": "Trendy",
+          "top": "Nejlepší"
+        },
+        "no_parties_found": "Nebyly nalezeny žádné strany",
+        "loading_more": "Načítání dalších stran...",
+        "party_details": "Detaily strany",
+        "share_party": "Sdílet stranu",
+        "my_party": "Moje strana",
+        "found_party_and_earn": "Založte stranu a získejte dotace",
+        "learn_more": "Zjistit více",
+        "party_management": "Správa strany",
+        "edit_party_info": "Upravit informace o straně",
+        "dissolve_party": "Rozpustit stranu",
+        "dialogs": {
+          "found_party": "Založit stranu",
+          "party_name": "Název strany",
+          "description_optional": "Popis (volitelné)",
+          "official_link_optional": "Oficiální odkaz (volitelné)",
+          "founding": "Zakládání...",
+          "updating": "Aktualizace...",
+          "found": "Založit",
+          "save": "Uložit",
+          "dissolving": "Rozpouštění...",
+          "about_to_found": "Chystáte se založit novou stranu.",
+          "about_to_dissolve": "Chystáte se rozpustit {partyName}. Tuto akci nelze vrátit zpět.",
+          "leader_warning_found": "Jste momentálně vůdce {partyName}. Založení nové strany rozpustí vaši současnou stranu."
+        },
+        "detail": {
+          "failed_to_load": "Nepodařilo se načíst data strany",
+          "party_not_found": "Strana nenalezena",
+          "error_loading": "Chyba při načítání strany",
+          "back_to_parties": "Zpět ke stranám",
+          "description": "Popis",
+          "party_info": "Informace o straně",
+          "leader": "Vůdce",
+          "website": "Webová stránka",
+          "not_found_description": "Strana, kterou hledáte, neexistuje nebo byla rozpuštěna."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "Testovací volby přicházejí brzy. Ověřte si svou identitu nyní, abyste byli připraveni, až se hlasování otevře.",
+          "verify_button": "Předběžné ověření"
+        },
+        "coming_soon": {
+          "description": "Zkušební volby brzy začnou. Už jste ověřeni a připraveni hlasovat, jakmile volby začnou."
+        },
+        "no_active_election": "Žádné aktivní volby"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "ÚČET",
+          "account_info": "Informace o účtu",
+          "language": "Jazyk"
+        },
+        "help": {
+          "title": "POMOC",
+          "faq": "FAQ",
+          "support": "Podpora"
+        },
+        "legal": {
+          "title": "PRÁVNÍ",
+          "terms": "Podmínky použití",
+          "privacy": "Zásady ochrany osobních údajů"
+        },
+        "source_code": {
+          "title": "ZDROJOVÝ KÓD"
+        }
+      }
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "app-purpose": {
+          "question": "Co je Světová Republika?",
+          "answer": "Světová republika je platforma pro správu s otevřeným zdrojovým kódem s vlastní digitální měnou, která si klade za cíl vytvořit demokratický rámec pro globální mír a bezpečnost."
+        },
+        "what-is-wdd": {
+          "question": "Co je WDD?",
+          "answer": "WDD (světová drachma) je oficiální měna Světové republiky nativní pro blockchain, vydávaná jako standardní token ERC-20 napříč více sítěmi."
+        },
+        "drachma-value": {
+          "question": "Odkud získává drachma svou hodnotu?",
+          "answer": "Drachma získává svou hodnotu tím, že je oficiální měnou Světové republiky. Jak legitimita naší globální správní platformy roste, WDD se může stát nástrojem globálního přerozdělování a hlavním prostředkem směny ve světové ekonomice."
+        },
+        "identity-verification": {
+          "question": "Jak funguje ověření identity?",
+          "answer": "Světová republika používá Self k ověření vaší identity prostřednictvím vašeho pasu nebo občanského průkazu. Vaše soukromí je chráněno—Self pouze potvrzuje, že jste skutečná osoba, aniž by odhalil vaše osobní údaje."
+        },
+        "test-elections": {
+          "question": "Co jsou testovací volby?",
+          "answer": "Zkušební volby jsou experimenty, kde občané Světová republika volí politické strany. Každá strana je automaticky zařazena na volební lístek, což zajišťuje rovné příležitosti pro všechny aspirující lídry."
+        },
+        "party-subsidies": {
+          "question": "Jak fungují dotace pro strany?",
+          "answer": "Světová republika financuje politické strany na základě demokratické podpory. Rozdělujeme granty WDD úměrně volebním výsledkům, čímž zajišťujeme, že každý hlas přímo zvyšuje finanční zdroje strany."
+        },
+        "verification-required": {
+          "question": "Je k účasti potřeba ověření?",
+          "answer": "Ověření totožnosti je vyžadováno pouze pro hlasování. Bez ověření můžete zakládat strany a převádět WDD získané ze stranických dotací."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "Peněženka"
+      },
+      "balance": "Zůstatek",
+      "modals": {
+        "sign_out": {
+          "confirm": "Jste si jisti, že se chcete odhlásit?"
+        },
+        "send": {
+          "button": "Poslat",
+          "title": "Poslat WDD",
+          "choice_description": "Vyberte, jak chcete poslat svou drachmu.",
+          "transfer_to_citizen": {
+            "title": "Převést",
+            "description": "Převést WDD jinému občanovi",
+            "username_label": "Uživatelské jméno příjemce"
+          },
+          "withdraw_to_crypto": {
+            "title": "Vybrat",
+            "description": "Vybrat WDD na krypto účet",
+            "amount_label": "Částka",
+            "address_label": "Adresa peněženky",
+            "network_label": "Síť"
+          }
+        },
+        "trade": {
+          "base": "Base WDD na Uniswap",
+          "monad": "Monad WDD na Uniswap",
+          "world": "World Chain WDD na Uniswap",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "Toto permanentně smaže váš účet a odstraní všechna vaše data z našich serverů. Tuto akci nelze vrátit zpět — pokračujte opatrně.",
+          "deleting": "Mažu..."
+        },
+        "receive": {
+          "button": "Přijmout",
+          "title": "Přijmout WDD",
+          "description": "Sdílejte své uživatelské jméno, abyste mohli přijímat WDD od přátel."
+        }
+      },
+      "sections": {
+        "identification": "IDENTIFIKACE",
+        "account": "ÚČET",
+        "danger_zone": "NEBEZPEČNÁ ZÓNA",
+        "delete_account": {
+          "description": "Trvale odstraňte všechna vaše data"
+        }
+      },
+      "username": {
+        "label": "Uživatelské jméno",
+        "edit_title": "Upravit uživatelské jméno",
+        "description": "3-30 znaků, alfanumerické, podtržítka a pomlčky"
+      },
+      "history": {
+        "title": "Historie"
+      },
+      "transactions": {
+        "failed_to_load": "Nepodařilo se načíst",
+        "no_transactions": "Zatím žádné transakce",
+        "just_now": "Právě teď",
+        "minutes_ago": "před {minutes}m",
+        "hours_ago": "před {hours}h",
+        "days_ago": "před {days}d",
+        "filter": {
+          "all_types": "Všechny typy",
+          "select_type": "Vyberte typ"
+        },
+        "types": {
+          "withdrawal": "Výběr",
+          "received": "Přijato",
+          "sent": "Odesláno"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "Naskenujte tento QR kód pro ověření přes Self.",
+        "status_completed": "Ověřeno",
+        "status_not_completed": "Neověřeno",
+        "mobile_dialog_description": "Budete přesměrováni do aplikace Self k dokončení ověření.",
+        "supported_countries": "Podporované země",
+        "support_telegram": "Podpora Self"
+      },
+      "verification_warning": {
+        "title": "Získejte ověření"
+      },
+      "verification_explainer": {
+        "title": "Ověření vyžadováno",
+        "description": "Pro výběr tokenů prosím dokončete ověření."
+      },
+      "re_verification_explainer": {
+        "title": "Opětovné ověření vyžadováno",
+        "description": "Pro vaši bezpečnost vyžadujeme aktuální ověření před citlivými akcemi, jako jsou výběry. To pomáhá chránit váš účet před neoprávněným přístupem."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "Většina peněženek zobrazí WDD až poté, co je ručně importováno na vybraném řetězci pomocí jeho ",
+      "contract_address": "adresy smlouvy"
+    }
+  },
+  "toasts": {
+    "generic_error": "Vyskytla se chyba",
+    "copied": "Zkopírováno",
+    "wallet": {
+      "no_wallet": "Žádná adresa peněženky",
+      "min_amount": "Minimum 10 WDD",
+      "sent": "Odesláno",
+      "failed": "Sumsub ID je potřeba",
+      "account_deleted": "Účet smazán",
+      "delete_failed": "Mazání účtu selhalo",
+      "contract_address_error": "Nelze vybrat na kontraktovou adresu",
+      "sign_out_failed": "Odhlášení se nezdařilo"
+    },
+    "parties": {
+      "founded": "Strana založena",
+      "found_failed": "Založení strany selhalo",
+      "found_error": "Chyba při zakládání strany",
+      "updated": "Aktualizováno",
+      "update_failed": "Aktualizace selhala",
+      "update_error": "Chyba při aktualizaci strany",
+      "transferred": "Přeneseno",
+      "transfer_failed": "Předání vedení selhalo",
+      "transfer_error": "Chyba při předávání vedení",
+      "dissolved": "Rozpuštěna",
+      "dissolve_failed": "Rozpuštění selhalo",
+      "dissolve_error": "Chyba při rozpouštění strany"
+    }
+  },
+  "common": {
+    "confirm": "Potvrdit",
+    "sign_in": "Přihlásit se",
+    "max": "Max",
+    "loading": "Načítám...",
+    "processing": "Zpracovávání...",
+    "insufficient_balance": "Nedostatek WDD",
+    "delete_account": "Smazat účet",
+    "sign_out": "Odhlásit se",
+    "invalid_address": "Neplatná adresa",
+    "coming_soon": "Již brzy",
+    "withdraw": "Vybrat",
+    "trade": "Obchodovat",
+    "continue": "Pokračovat",
+    "updating": "Aktualizace...",
+    "save": "Uložit",
+    "vote": "Hlasovat",
+    "close": "Zavřít"
+  },
+  "auth": {
+    "choose_method": "Vyberte preferovanou metodu.",
+    "sign_in_with_google": "Pokračovat s Google",
+    "sign_in_with_passkey": "Použít biometrii",
+    "sign_in_or_create": "Přístup k vašemu účtu pomocí passkey, pomocí otisku prstu, skenování obličeje nebo zámku obrazovky.",
+    "create_account": "Vytvořit účet",
+    "create_passkey_name": "Vytvořit název passkey",
+    "passkey_name_description": "Pojmenujte svůj passkey, abyste ho identifikovali ve správci hesel.",
+    "passkey_name": "Název passkey"
+  }
+}

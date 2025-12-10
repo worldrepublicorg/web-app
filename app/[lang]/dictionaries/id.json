@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "Menu",
+    "world_republic": "Republik Dunia"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "Pemilu",
+        "referendums": "Referendum"
+      },
+      "sections": {
+        "parties": {
+          "title": "Partai politik",
+          "subtitle": "Bersatu secara global di sekitar nilai-nilai bersama"
+        },
+        "elections": {
+          "title": "Pemilu uji coba",
+          "subtitle": "Bereksperimen dengan demokrasi global"
+        },
+        "referendums": {
+          "title": "Referendum Konstitusi Dunia",
+          "subtitle": "Beri suara atas prinsip-prinsip dasar kita"
+        }
+      },
+      "parties": {
+        "discover": "Temukan",
+        "search_placeholder": "Cari partai...",
+        "tabs": {
+          "new": "Baru",
+          "trending": "Trending",
+          "top": "Teratas"
+        },
+        "no_parties_found": "Tidak ada partai ditemukan",
+        "loading_more": "Memuat lebih banyak partai...",
+        "party_details": "Detail partai",
+        "share_party": "Bagikan partai",
+        "my_party": "Partai saya",
+        "found_party_and_earn": "Dirikan partai dan dapatkan subsidi",
+        "learn_more": "Pelajari lebih lanjut",
+        "party_management": "Manajemen partai",
+        "edit_party_info": "Edit informasi partai",
+        "dissolve_party": "Bubarkan partai",
+        "dialogs": {
+          "found_party": "Dirikan partai",
+          "party_name": "Nama partai",
+          "description_optional": "Deskripsi (opsional)",
+          "official_link_optional": "Tautan resmi (opsional)",
+          "founding": "Mendirikan...",
+          "updating": "Memperbarui...",
+          "found": "Dirikan",
+          "save": "Simpan",
+          "dissolving": "Membubarkan...",
+          "about_to_found": "Anda akan mendirikan partai baru.",
+          "about_to_dissolve": "Anda akan membubarkan {partyName}. Tindakan ini tidak dapat dibatalkan.",
+          "leader_warning_found": "Anda saat ini adalah pemimpin {partyName}. Mendirikan partai baru akan membubarkan partai Anda saat ini."
+        },
+        "detail": {
+          "failed_to_load": "Gagal memuat data partai",
+          "party_not_found": "Partai tidak ditemukan",
+          "error_loading": "Kesalahan memuat partai",
+          "back_to_parties": "Kembali ke partai",
+          "description": "Deskripsi",
+          "party_info": "Informasi partai",
+          "leader": "Pemimpin",
+          "website": "Situs web",
+          "not_found_description": "Partai yang Anda cari tidak ada atau telah dibubarkan."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "Pemilihan uji coba akan segera dimulai. Verifikasi identitas Anda sekarang untuk siap saat pemungutan suara dibuka.",
+          "verify_button": "Pra-verifikasi"
+        },
+        "coming_soon": {
+          "description": "Pemilu uji coba akan segera dimulai. Anda sudah terverifikasi dan siap memilih begitu pemilihan dimulai."
+        },
+        "no_active_election": "Tidak ada pemilihan aktif"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "AKUN",
+          "account_info": "Informasi akun",
+          "language": "Bahasa"
+        },
+        "help": {
+          "title": "BANTUAN",
+          "faq": "FAQ",
+          "support": "Dukungan"
+        },
+        "legal": {
+          "title": "LEGAL",
+          "terms": "Ketentuan Penggunaan",
+          "privacy": "Kebijakan Privasi"
+        },
+        "source_code": {
+          "title": "KODE SUMBER"
+        }
+      }
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "app-purpose": {
+          "question": "Apa itu Republik Dunia?",
+          "answer": "Republik Dunia adalah platform tata kelola sumber terbuka dengan mata uang digitalnya sendiri yang bertujuan untuk membangun kerangka demokratis untuk perdamaian dan keamanan global."
+        },
+        "what-is-wdd": {
+          "question": "Apa itu WDD?",
+          "answer": "WDD (drachma dunia) adalah mata uang resmi blockchain-native Republik Dunia, diterbitkan sebagai token ERC-20 standar di beberapa jaringan."
+        },
+        "drachma-value": {
+          "question": "Dari mana nilai drachma berasal?",
+          "answer": "Drachma memperoleh nilainya dari menjadi mata uang resmi Republik Dunia. Seiring legitimasi platform tata kelola global kita tumbuh, WDD dapat menjadi kendaraan redistribusi global dan media pertukaran utama dalam perekonomian dunia."
+        },
+        "identity-verification": {
+          "question": "Bagaimana cara kerja verifikasi identitas?",
+          "answer": "Republik Dunia menggunakan Self untuk memverifikasi identitas Anda melalui paspor atau KTP Anda. Privasi Anda dilindungi—Self hanya mengonfirmasi bahwa Anda adalah orang yang nyata tanpa mengekspos data pribadi Anda."
+        },
+        "test-elections": {
+          "question": "Apa itu pemilihan uji?",
+          "answer": "Pemilu uji coba adalah eksperimen di mana warga Republik Dunia memilih partai politik. Setiap partai secara otomatis dimasukkan dalam surat suara, memastikan kesempatan yang sama bagi semua calon pemimpin."
+        },
+        "party-subsidies": {
+          "question": "Bagaimana cara kerja subsidi partai?",
+          "answer": "Republik Dunia mendanai partai politik berdasarkan dukungan demokratis. Kami mendistribusikan hibah WDD secara proporsional dengan hasil pemilu, memastikan bahwa setiap suara secara langsung meningkatkan sumber daya keuangan partai."
+        },
+        "verification-required": {
+          "question": "Apakah perlu verifikasi untuk berpartisipasi?",
+          "answer": "Verifikasi identitas hanya diperlukan untuk memilih. Anda dapat mendirikan partai dan mentransfer WDD yang diperoleh dari subsidi partai tanpa verifikasi."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "Dompet"
+      },
+      "balance": "Saldo",
+      "modals": {
+        "sign_out": {
+          "confirm": "Anda yakin ingin keluar?"
+        },
+        "send": {
+          "button": "Kirim",
+          "title": "Kirim WDD",
+          "choice_description": "Pilih cara Anda ingin mengirim drachma Anda.",
+          "transfer_to_citizen": {
+            "title": "Transfer",
+            "description": "Transfer WDD ke warga negara lain",
+            "username_label": "Nama pengguna penerima"
+          },
+          "withdraw_to_crypto": {
+            "title": "Tarik",
+            "description": "Tarik WDD ke akun crypto",
+            "amount_label": "Jumlah",
+            "address_label": "Alamat dompet",
+            "network_label": "Jaringan"
+          }
+        },
+        "trade": {
+          "base": "Base WDD di Uniswap",
+          "monad": "Monad WDD di Uniswap",
+          "world": "World Chain WDD di Uniswap",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "Ini akan menghapus akun Anda secara permanen dan menghapus semua data Anda dari server kami. Tindakan ini tidak dapat dibatalkan — silakan lanjutkan dengan hati-hati.",
+          "deleting": "Menghapus..."
+        },
+        "receive": {
+          "button": "Terima",
+          "title": "Terima WDD",
+          "description": "Bagikan nama pengguna Anda untuk menerima WDD dari teman-teman Anda."
+        }
+      },
+      "sections": {
+        "identification": "IDENTIFIKASI",
+        "account": "AKUN",
+        "danger_zone": "ZONA BERBAHAYA",
+        "delete_account": {
+          "description": "Hapus permanen semua data Anda"
+        }
+      },
+      "username": {
+        "label": "Nama pengguna",
+        "edit_title": "Edit nama pengguna",
+        "description": "3-30 karakter, alfanumerik, garis bawah dan tanda hubung"
+      },
+      "history": {
+        "title": "Riwayat"
+      },
+      "transactions": {
+        "failed_to_load": "Gagal memuat",
+        "no_transactions": "Belum ada transaksi",
+        "just_now": "Baru saja",
+        "minutes_ago": "{minutes}m yang lalu",
+        "hours_ago": "{hours}j yang lalu",
+        "days_ago": "{days}h yang lalu",
+        "filter": {
+          "all_types": "Semua jenis",
+          "select_type": "Pilih jenis"
+        },
+        "types": {
+          "withdrawal": "Penarikan",
+          "received": "Diterima",
+          "sent": "Terkirim"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "Pindai kode QR ini untuk verifikasi dengan Self.",
+        "status_completed": "Terverifikasi",
+        "status_not_completed": "Belum terverifikasi",
+        "mobile_dialog_description": "Anda akan dialihkan ke aplikasi Self untuk menyelesaikan verifikasi.",
+        "supported_countries": "Negara yang didukung",
+        "support_telegram": "Dukungan Self"
+      },
+      "verification_warning": {
+        "title": "Dapatkan verifikasi"
+      },
+      "verification_explainer": {
+        "title": "Verifikasi diperlukan",
+        "description": "Harap selesaikan verifikasi untuk menarik token."
+      },
+      "re_verification_explainer": {
+        "title": "Verifikasi ulang diperlukan",
+        "description": "Untuk keamanan Anda, kami memerlukan verifikasi terbaru sebelum tindakan sensitif seperti penarikan. Ini membantu melindungi akun Anda dari akses tidak sah."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "Sebagian besar dompet hanya menampilkan WDD setelah diimpor secara manual di chain yang dipilih menggunakan ",
+      "contract_address": "alamat kontrak"
+    }
+  },
+  "toasts": {
+    "generic_error": "Terjadi kesalahan",
+    "copied": "Disalin",
+    "wallet": {
+      "no_wallet": "Tidak ada alamat dompet",
+      "min_amount": "Minimal 10 WDD",
+      "sent": "Terkirim",
+      "failed": "Sumsub ID diperlukan",
+      "account_deleted": "Akun dihapus",
+      "delete_failed": "Gagal menghapus akun",
+      "contract_address_error": "Tidak dapat menarik ke alamat kontrak",
+      "sign_out_failed": "Keluar gagal"
+    },
+    "parties": {
+      "founded": "Partai didirikan",
+      "found_failed": "Gagal mendirikan partai",
+      "found_error": "Kesalahan saat mendirikan partai",
+      "updated": "Diperbarui",
+      "update_failed": "Gagal memperbarui",
+      "update_error": "Kesalahan saat memperbarui partai",
+      "transferred": "Ditransfer",
+      "transfer_failed": "Gagal mentransfer kepemimpinan",
+      "transfer_error": "Kesalahan saat mentransfer kepemimpinan",
+      "dissolved": "Dibubarkan",
+      "dissolve_failed": "Gagal membubarkan",
+      "dissolve_error": "Kesalahan saat membubarkan partai"
+    }
+  },
+  "common": {
+    "confirm": "Konfirmasi",
+    "sign_in": "Masuk",
+    "max": "Maks",
+    "loading": "Memuat...",
+    "processing": "Memproses...",
+    "insufficient_balance": "WDD tidak cukup",
+    "delete_account": "Hapus akun",
+    "sign_out": "Keluar",
+    "invalid_address": "Alamat tidak valid",
+    "coming_soon": "Segera hadir",
+    "withdraw": "Tarik",
+    "trade": "Perdagangan",
+    "continue": "Lanjutkan",
+    "updating": "Memperbarui...",
+    "save": "Simpan",
+    "vote": "Pilih",
+    "close": "Tutup"
+  },
+  "auth": {
+    "choose_method": "Pilih metode pilihan Anda.",
+    "sign_in_with_google": "Lanjutkan dengan Google",
+    "sign_in_with_passkey": "Gunakan biometrik",
+    "sign_in_or_create": "Akses akun Anda dengan passkey, menggunakan sidik jari, pemindaian wajah, atau kunci layar.",
+    "create_account": "Buat akun",
+    "create_passkey_name": "Buat nama passkey",
+    "passkey_name_description": "Beri nama passkey Anda untuk mengidentifikasinya di pengelola kata sandi.",
+    "passkey_name": "Nama passkey"
+  }
+}

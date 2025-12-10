@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "메뉴",
+    "world_republic": "세계 공화국"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "선거",
+        "referendums": "국민투표"
+      },
+      "sections": {
+        "parties": {
+          "title": "정당",
+          "subtitle": "공유된 가치로 전 세계가 결집"
+        },
+        "elections": {
+          "title": "테스트 선거",
+          "subtitle": "글로벌 민주주의를 실험해 보세요"
+        },
+        "referendums": {
+          "title": "세계 헌법 국민투표",
+          "subtitle": "우리의 근본 원칙에 투표하세요"
+        }
+      },
+      "parties": {
+        "discover": "발견",
+        "search_placeholder": "정당 검색...",
+        "tabs": {
+          "new": "신규",
+          "trending": "트렌딩",
+          "top": "상위"
+        },
+        "no_parties_found": "정당을 찾을 수 없습니다",
+        "loading_more": "더 많은 정당 로딩 중...",
+        "party_details": "정당 세부정보",
+        "share_party": "정당 공유",
+        "my_party": "내 정당",
+        "found_party_and_earn": "정당을 설립하고 보조금을 받으세요",
+        "learn_more": "자세히 알아보기",
+        "party_management": "정당 관리",
+        "edit_party_info": "정당 정보 편집",
+        "dissolve_party": "정당 해산",
+        "dialogs": {
+          "found_party": "정당 창당",
+          "party_name": "정당명",
+          "description_optional": "설명 (선택사항)",
+          "official_link_optional": "공식 링크 (선택사항)",
+          "founding": "창당 중...",
+          "updating": "업데이트 중...",
+          "found": "창당",
+          "save": "저장",
+          "dissolving": "해산 중...",
+          "about_to_found": "새 정당을 창당하려고 합니다.",
+          "about_to_dissolve": "{partyName}을(를) 해산하려고 합니다. 이 작업은 취소할 수 없습니다.",
+          "leader_warning_found": "현재 {partyName}의 지도자입니다. 새로운 정당을 설립하면 현재 정당이 해산됩니다."
+        },
+        "detail": {
+          "failed_to_load": "정당 데이터 로드 실패",
+          "party_not_found": "정당을 찾을 수 없습니다",
+          "error_loading": "정당 로드 오류",
+          "back_to_parties": "정당으로 돌아가기",
+          "description": "설명",
+          "party_info": "정당 정보",
+          "leader": "지도자",
+          "website": "웹사이트",
+          "not_found_description": "찾고 있는 정당이 존재하지 않거나 해산되었습니다."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "테스트 선거가 곧 시작됩니다. 투표가 시작될 때 준비되도록 지금 신원을 확인하세요.",
+          "verify_button": "사전 확인"
+        },
+        "coming_soon": {
+          "description": "시범 선거가 곧 시작됩니다. 이미 인증되었으며 선거가 시작되는 즉시 투표할 준비가 되어 있습니다."
+        },
+        "no_active_election": "진행 중인 선거가 없습니다"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "계정",
+          "account_info": "계정 정보",
+          "language": "언어"
+        },
+        "help": {
+          "title": "도움말",
+          "faq": "FAQ",
+          "support": "지원"
+        },
+        "legal": {
+          "title": "법률",
+          "terms": "이용 약관",
+          "privacy": "개인정보 처리방침"
+        },
+        "source_code": {
+          "title": "소스 코드"
+        }
+      }
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "app-purpose": {
+          "question": "세계 공화국은 무엇인가요?",
+          "answer": "세계 공화국은 자체 디지털 통화를 보유한 오픈 소스 거버넌스 플랫폼으로, 글로벌 평화와 안보를 위한 민주적 프레임워크를 구축하는 것을 목표로 합니다."
+        },
+        "what-is-wdd": {
+          "question": "WDD란 무엇인가요?",
+          "answer": "WDD(세계 드라크마)는 세계 공화국의 블록체인 네이티브 공식 통화이며, 여러 네트워크에서 표준 ERC-20 토큰으로 발행됩니다."
+        },
+        "drachma-value": {
+          "question": "드라크마의 가치는 어디에서 오나요?",
+          "answer": "드라크마는 세계 공화국의 공식 통화라는 점에서 가치를 얻습니다. 우리의 글로벌 거버넌스 플랫폼의 정당성이 성장함에 따라 WDD는 글로벌 재분배의 수단이자 세계 경제의 주요 교환 매체가 될 수 있습니다."
+        },
+        "identity-verification": {
+          "question": "신원 확인은 어떻게 작동합니까?",
+          "answer": "세계 공화국은 여권이나 주민등록증을 통해 신원을 확인하기 위해 Self를 사용합니다. 귀하의 프라이버시는 보호됩니다—Self는 개인정보를 노출하지 않고 귀하가 실존 인물임을 확인합니다."
+        },
+        "test-elections": {
+          "question": "테스트 선거란 무엇인가요?",
+          "answer": "테스트 선거는 세계 공화국 시민들이 정당에 투표하는 실험입니다. 모든 정당은 투표 용지에 자동으로 포함되어 모든 야심 찬 지도자들에게 동등한 기회를 보장합니다."
+        },
+        "party-subsidies": {
+          "question": "정당 보조금은 어떻게 운영되나요?",
+          "answer": "세계 공화국은 민주적 지지를 바탕으로 정당에 자금을 지원합니다. 선거 결과에 비례하여 WDD 보조금을 분배하여, 모든 표가 정당의 재정 자원을 직접적으로 증가시키도록 보장합니다."
+        },
+        "verification-required": {
+          "question": "참여하려면 인증이 필요한가요?",
+          "answer": "신원 확인은 투표할 때만 필요합니다. 인증 없이도 정당을 창당하고 정당 보조금으로 받은 WDD를 이체할 수 있습니다."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "지갑"
+      },
+      "balance": "잔액",
+      "modals": {
+        "sign_out": {
+          "confirm": "로그아웃하시겠습니까?"
+        },
+        "send": {
+          "button": "보내기",
+          "title": "WDD 보내기",
+          "choice_description": "드라크마를 보내는 방법을 선택하세요.",
+          "transfer_to_citizen": {
+            "title": "이체",
+            "description": "WDD를 다른 시민에게 이체",
+            "username_label": "수신자 사용자 이름"
+          },
+          "withdraw_to_crypto": {
+            "title": "출금",
+            "description": "WDD를 암호화폐 계정으로 출금",
+            "amount_label": "금액",
+            "address_label": "지갑 주소",
+            "network_label": "네트워크"
+          }
+        },
+        "trade": {
+          "base": "Base WDD Uniswap의",
+          "monad": "Monad WDD Uniswap의",
+          "world": "World Chain WDD Uniswap의",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "이것은 귀하의 계정을 영구적으로 삭제하고 모든 데이터를 서버에서 제거합니다. 이 작업은 되돌릴 수 없습니다 — 신중하게 진행하세요.",
+          "deleting": "삭제 중..."
+        },
+        "receive": {
+          "button": "수신",
+          "title": "WDD 수신",
+          "description": "친구들로부터 WDD를 받으려면 사용자 이름을 공유하세요."
+        }
+      },
+      "sections": {
+        "identification": "신원확인",
+        "account": "계정",
+        "danger_zone": "위험 구역",
+        "delete_account": {
+          "description": "모든 데이터를 영구적으로 제거"
+        }
+      },
+      "username": {
+        "label": "사용자 이름",
+        "edit_title": "사용자 이름 편집",
+        "description": "3-30자, 영숫자, 밑줄 및 하이픈"
+      },
+      "history": {
+        "title": "기록"
+      },
+      "transactions": {
+        "failed_to_load": "로드 실패",
+        "no_transactions": "아직 거래가 없습니다",
+        "just_now": "방금",
+        "minutes_ago": "{minutes}분 전",
+        "hours_ago": "{hours}시간 전",
+        "days_ago": "{days}일 전",
+        "filter": {
+          "all_types": "모든 유형",
+          "select_type": "유형 선택"
+        },
+        "types": {
+          "withdrawal": "인출",
+          "received": "수신됨",
+          "sent": "전송됨"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "이 QR 코드를 스캔하여 Self에서 인증하세요.",
+        "status_completed": "인증됨",
+        "status_not_completed": "미인증",
+        "mobile_dialog_description": "본인 인증을 완료하려면 Self 앱으로 이동합니다.",
+        "supported_countries": "지원되는 국가",
+        "support_telegram": "Self 지원"
+      },
+      "verification_warning": {
+        "title": "인증 받기"
+      },
+      "verification_explainer": {
+        "title": "인증 필요",
+        "description": "토큰을 인출하려면 인증을 완료해 주세요."
+      },
+      "re_verification_explainer": {
+        "title": "재인증 필요",
+        "description": "보안을 위해 인출과 같은 민감한 작업 전에 최신 인증이 필요합니다. 이는 계정을 무단 액세스로부터 보호하는 데 도움이 됩니다."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "대부분의 지갑은 선택한 체인에 수동으로 가져온 후에만 WDD를 표시합니다. 그 ",
+      "contract_address": "컨트랙트 주소"
+    }
+  },
+  "toasts": {
+    "generic_error": "오류가 발생했습니다",
+    "copied": "복사되었습니다",
+    "wallet": {
+      "no_wallet": "지갑 주소가 없습니다",
+      "min_amount": "최소 10 WDD",
+      "sent": "전송됨",
+      "failed": "Sumsub ID 필요",
+      "account_deleted": "계정 삭제됨",
+      "delete_failed": "계정 삭제 실패",
+      "contract_address_error": "계약 주소로 출금할 수 없습니다",
+      "sign_out_failed": "로그아웃 실패"
+    },
+    "parties": {
+      "founded": "정당 창당됨",
+      "found_failed": "정당 창당 실패",
+      "found_error": "정당 창당 중 오류 발생",
+      "updated": "업데이트됨",
+      "update_failed": "업데이트 실패",
+      "update_error": "정당 업데이트 중 오류 발생",
+      "transferred": "이전됨",
+      "transfer_failed": "리더십 이전 실패",
+      "transfer_error": "리더십 이전 중 오류 발생",
+      "dissolved": "해산됨",
+      "dissolve_failed": "해산 실패",
+      "dissolve_error": "정당 해산 중 오류 발생"
+    }
+  },
+  "common": {
+    "confirm": "확인",
+    "sign_in": "로그인",
+    "max": "최대",
+    "loading": "로딩 중...",
+    "processing": "처리 중...",
+    "insufficient_balance": "WDD 부족",
+    "delete_account": "계정 삭제",
+    "sign_out": "로그아웃",
+    "invalid_address": "유효하지 않은 주소",
+    "coming_soon": "곧 출시",
+    "withdraw": "인출",
+    "trade": "거래",
+    "continue": "계속",
+    "updating": "업데이트 중...",
+    "save": "저장",
+    "vote": "투표",
+    "close": "닫기"
+  },
+  "auth": {
+    "choose_method": "선호하는 방법을 선택하세요.",
+    "sign_in_with_google": "Google로 계속",
+    "sign_in_with_passkey": "생체 인증 사용",
+    "sign_in_or_create": "패스키를 사용하여 계정에 액세스하세요. 지문, 얼굴 스캔 또는 화면 잠금을 사용합니다.",
+    "create_account": "계정 만들기",
+    "create_passkey_name": "패스키 이름 만들기",
+    "passkey_name_description": "비밀번호 관리자에서 식별할 수 있도록 패스키에 이름을 지정하세요.",
+    "passkey_name": "패스키 이름"
+  }
+}

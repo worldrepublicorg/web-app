@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "Menyu",
+    "world_republic": "Jamhuri ya Dunia"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "Uchaguzi",
+        "referendums": "Kura za maoni"
+      },
+      "sections": {
+        "parties": {
+          "title": "Vyakula vya kisiasa",
+          "subtitle": "Ungana kimataifa kuzunguka maadili ya pamoja"
+        },
+        "elections": {
+          "title": "Uchaguzi wa majaribio",
+          "subtitle": "Jaribu demokrasia ya kimataifa"
+        },
+        "referendums": {
+          "title": "Kura ya Maoni ya Katiba ya Ulimwengu",
+          "subtitle": "Piga kura kuhusu kanuni zetu za msingi"
+        }
+      },
+      "parties": {
+        "discover": "Gundua",
+        "search_placeholder": "Tafuta vyama...",
+        "tabs": {
+          "new": "Mpya",
+          "trending": "Maarufu",
+          "top": "Juu"
+        },
+        "no_parties_found": "Hakuna vyama vilivyopatikana",
+        "loading_more": "Inapakia vyama zaidi...",
+        "party_details": "Maelezo ya chama",
+        "share_party": "Shiriki chama",
+        "my_party": "Chama changu",
+        "found_party_and_earn": "Anzisha chama na upate ruzuku",
+        "learn_more": "Jifunze zaidi",
+        "party_management": "Usimamizi wa chama",
+        "edit_party_info": "Hariri taarifa za chama",
+        "dissolve_party": "Futa chama",
+        "dialogs": {
+          "found_party": "Anzisha chama",
+          "party_name": "Jina la chama",
+          "description_optional": "Maelezo (si lazima)",
+          "official_link_optional": "Kiungo rasmi (si lazima)",
+          "founding": "Inaanzisha...",
+          "updating": "Inasasisha...",
+          "found": "Anzisha",
+          "save": "Hifadhi",
+          "dissolving": "Inafuta...",
+          "about_to_found": "Uko karibu kuanzisha chama kipya.",
+          "about_to_dissolve": "Uko karibu kufuta {partyName}. Kitendo hiki hakiwezi kufutwa.",
+          "leader_warning_found": "Kwa sasa wewe ni kiongozi wa {partyName}. Kuanzisha chama kipya kutafuta chama chako cha sasa."
+        },
+        "detail": {
+          "failed_to_load": "Imeshindwa kupakia data ya chama",
+          "party_not_found": "Chama hakijapatikana",
+          "error_loading": "Hitilafu wakati wa kupakia chama",
+          "back_to_parties": "Rudi kwenye vyama",
+          "description": "Maelezo",
+          "party_info": "Taarifa za chama",
+          "leader": "Kiongozi",
+          "website": "Tovuti",
+          "not_found_description": "Chama unachokitafuta hakipo au kimefutwa."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "Uchaguzi wa majaribio unakuja hivi karibuni. Thibitisha utambulisho wako sasa ili uwe tayari wakati kura zinafunguliwa.",
+          "verify_button": "Thibitisha mapema"
+        },
+        "coming_soon": {
+          "description": "Uchaguzi wa majaribio utaanza hivi karibuni. Tayari umethibitishwa na uko tayari kupiga kura pindi uchaguzi utakapoanza."
+        },
+        "no_active_election": "Hakuna uchaguzi unaoendelea"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "AKAUNTI",
+          "account_info": "Taarifa za akaunti",
+          "language": "Lugha"
+        },
+        "help": {
+          "title": "MSAADA",
+          "faq": "Maswali ya Mara kwa Mara",
+          "support": "Msaada"
+        },
+        "source_code": {
+          "title": "MSIMBO CHANZO"
+        },
+        "legal": {
+          "title": "KISHERIA",
+          "terms": "Masharti ya Matumizi",
+          "privacy": "Sera ya Faragha"
+        }
+      }
+    },
+    "faq": {
+      "title": "Maswali ya Mara kwa Mara",
+      "items": {
+        "app-purpose": {
+          "question": "Jamhuri ya Ulimwengu ni nini?",
+          "answer": "Jamhuri ya Dunia ni jukwaa la utawala la chanzo wazi lenye sarafu yake ya dijiti inayolenga kuanzisha mfumo wa kidemokrasia wa amani na usalama wa kimataifa."
+        },
+        "what-is-wdd": {
+          "question": "WDD ni nini?",
+          "answer": "WDD (drachma ya dunia) ni sarafu rasmi ya blockchain-native ya Jamhuri ya Dunia, iliyotolewa kama token ya kawaida ya ERC-20 katika mitandao mingi."
+        },
+        "drachma-value": {
+          "question": "Drachma inapata thamani yake wapi?",
+          "answer": "Drachma hupata thamani yake kutokana na kuwa ni sarafu rasmi ya Jamhuri ya Dunia. Kadiri uhalali wa jukwaa letu la utawala la kimataifa linavyoongezeka, WDD inaweza kuwa chombo cha ugawaji upya wa kimataifa na chombo kuu cha kubadilishana katika uchumi wa dunia."
+        },
+        "identity-verification": {
+          "question": "Uthibitishaji wa utambulisho unafanyaje kazi?",
+          "answer": "Jamhuri ya Dunia hutumia Self kwa uthibitishaji wa utambulisho wako kupitia paspoti yako au kitambulisho cha kitaifa. Faragha yako imelindwa—Self inathibitisha tu kuwa wewe ni mtu halisi bila kufichua data yako ya kibinafsi."
+        },
+        "test-elections": {
+          "question": "Ni nini uchaguzi wa majaribio?",
+          "answer": "Uchaguzi wa majaribio ni majaribio ambapo raia wa Jamhuri ya Dunia hupigia kura vyama vya siasa. Kila chama kinajumuishwa kiotomatiki kwenye karatasi ya kura, kuhakikisha fursa sawa kwa viongozi wote wanaotarajia."
+        },
+        "party-subsidies": {
+          "question": "Ruzuku za vyama hufanya kazi vipi?",
+          "answer": "Jamhuri ya Dunia hufadhili vyama vya siasa kulingana na uungwaji mkono wa kidemokrasia. Tunasambaza ruzuku za WDD kulingana na matokeo ya uchaguzi, kuhakikisha kwamba kila kura inaongeza rasilimali za kifedha za chama moja kwa moja."
+        },
+        "verification-required": {
+          "question": "Je, uthibitishaji unahitajika ili kushiriki?",
+          "answer": "Uthibitishaji wa utambulisho unahitajika tu kwa kupiga kura. Unaweza kuanzisha vyama na kuhamisha WDD iliyopatikana kutoka kwa ruzuku za vyama bila uthibitishaji."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "Mkoba"
+      },
+      "balance": "Salio",
+      "modals": {
+        "sign_out": {
+          "confirm": "Je, una uhakika unataka kuondoka?"
+        },
+        "send": {
+          "button": "Tuma",
+          "title": "Tuma WDD",
+          "choice_description": "Chagua jinsi unavyotaka kutuma drachma yako.",
+          "transfer_to_citizen": {
+            "title": "Hamisha",
+            "description": "Hamisha WDD kwa raia mwingine",
+            "username_label": "Jina la mtumiaji wa mpokeaji"
+          },
+          "withdraw_to_crypto": {
+            "title": "Toa",
+            "description": "Toa WDD kwenye akaunti ya crypto",
+            "amount_label": "Kiasi",
+            "address_label": "Anwani ya mkoba",
+            "network_label": "Mtandao"
+          }
+        },
+        "trade": {
+          "base": "Base WDD kwenye Uniswap",
+          "monad": "Monad WDD kwenye Uniswap",
+          "world": "World Chain WDD kwenye Uniswap",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "Hii itafuta kabisa akaunti yako na kuondoa data yako yote kutoka kwa seva zetu. Kitendo hiki hakiwezi kubatilishwa — tafadhali endelea kwa uangalifu.",
+          "deleting": "Inafutwa..."
+        },
+        "receive": {
+          "button": "Pokewa",
+          "title": "Pokewa WDD",
+          "description": "Shiriki jina lako la mtumiaji ili kupokea WDD kutoka kwa marafiki zako."
+        }
+      },
+      "sections": {
+        "identification": "UTAMBULISHO",
+        "account": "AKAUNTI",
+        "danger_zone": "ENEO LA HATARI",
+        "delete_account": {
+          "description": "Ondoa data zako zote kwa kudumu"
+        }
+      },
+      "username": {
+        "label": "Jina la mtumiaji",
+        "edit_title": "Hariri jina la mtumiaji",
+        "description": "Herufi 3-30, alfanumeriki, chini na mstari"
+      },
+      "history": {
+        "title": "Historia"
+      },
+      "transactions": {
+        "failed_to_load": "Imeshindwa kupakia",
+        "no_transactions": "Bado hakuna maambukizi",
+        "just_now": "Hivi sasa",
+        "minutes_ago": "dakika {minutes} zilizopita",
+        "hours_ago": "masaa {hours} yaliyopita",
+        "days_ago": "siku {days} zilizopita",
+        "filter": {
+          "all_types": "Aina zote",
+          "select_type": "Chagua aina"
+        },
+        "types": {
+          "withdrawal": "Kutoa",
+          "received": "Imepokelewa",
+          "sent": "Imetumwa"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "Changanua msimbo huu wa QR ili kuthibitisha kwa Self.",
+        "status_completed": "Imethibitishwa",
+        "status_not_completed": "Haijathibitishwa",
+        "mobile_dialog_description": "Utaelekezwa kwenye app ya Self kukamilisha uthibitishaji.",
+        "supported_countries": "Nchi zinazoungwa mkono",
+        "support_telegram": "Msaada wa Self"
+      },
+      "verification_warning": {
+        "title": "Pata uthibitisho"
+      },
+      "verification_explainer": {
+        "title": "Uthibitisho unahitajika",
+        "description": "Tafadhali maliza uthibitisho ili kuondoa tokens."
+      },
+      "re_verification_explainer": {
+        "title": "Uthibitisho wa tena unahitajika",
+        "description": "Kwa usalama wako, tunahitaji uthibitisho mpya kabla ya vitendo vya nyeti kama uondoaji. Hii inasaidia kulinda akaunti yako kutokana na ufikiaji usioidhinishwa."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "Pochi nyingi zinaonyesha WDD tu baada ya kuileta kwa mikono kwenye mnyororo uliochaguliwa kwa ",
+      "contract_address": "anwani ya kandarasi"
+    }
+  },
+  "toasts": {
+    "generic_error": "Hitilafu imetokea",
+    "copied": "Imenakiliwa",
+    "wallet": {
+      "no_wallet": "Hakuna anwani ya mkoba",
+      "min_amount": "Kiwango cha chini cha 10 WDD",
+      "sent": "Imetumwa",
+      "failed": "Sumsub ID inahitajika",
+      "account_deleted": "Akaunti imefutwa",
+      "delete_failed": "Kufuta akaunti hakukufaulu",
+      "contract_address_error": "Haiwezi kutolewa kwenye anwani ya mkataba",
+      "sign_out_failed": "Kuondoka hakukufaulu"
+    },
+    "parties": {
+      "founded": "Chama kimeanzishwa",
+      "found_failed": "Kuanzisha chama kumeshindwa",
+      "found_error": "Hitilafu wakati wa kuanzisha chama",
+      "updated": "Imehakikiwa",
+      "update_failed": "Kuhakiki kumeshindwa",
+      "update_error": "Hitilafu wakati wa kuhakiki chama",
+      "transferred": "Imehamishwa",
+      "transfer_failed": "Kuhamisha uongozi kumeshindwa",
+      "transfer_error": "Hitilafu wakati wa kuhamisha uongozi",
+      "dissolved": "Imevunjwa",
+      "dissolve_failed": "Kuvunja kumeshindwa",
+      "dissolve_error": "Hitilafu wakati wa kuvunja chama"
+    }
+  },
+  "common": {
+    "confirm": "Thibitisha",
+    "sign_in": "Ingia",
+    "max": "Kiwango cha juu",
+    "loading": "Inapakia...",
+    "processing": "Inachakata...",
+    "insufficient_balance": "Hakuna WDD ya kutosha",
+    "delete_account": "Futa akaunti",
+    "sign_out": "Toka nje",
+    "invalid_address": "Anwani batili",
+    "coming_soon": "Hivi karibuni",
+    "withdraw": "Toa",
+    "trade": "Biashara",
+    "continue": "Endelea",
+    "updating": "Inasasisha...",
+    "save": "Hifadhi",
+    "vote": "Piga kura",
+    "close": "Funga"
+  },
+  "auth": {
+    "choose_method": "Chagua njia unayopenda.",
+    "sign_in_with_google": "Endelea na Google",
+    "sign_in_with_passkey": "Tumia biometrics",
+    "sign_in_or_create": "Fikia akaunti yako kwa kutumia passkey, kwa kutumia alama ya kidole, skenio la uso au kufunga skrini.",
+    "create_account": "Unda akaunti",
+    "create_passkey_name": "Unda jina la passkey",
+    "passkey_name_description": "Taja passkey yako ili kuibainisha katika msimamizi wa nywila.",
+    "passkey_name": "Jina la passkey"
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "Menu",
+    "world_republic": "Ripùblica Mundiale"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "Elezioni",
+        "referendums": "Referendum"
+      },
+      "sections": {
+        "parties": {
+          "title": "Partiti pulitichi",
+          "subtitle": "Unisciti globalmente intornu à valori cundivisi"
+        },
+        "elections": {
+          "title": "Elezioni di prova",
+          "subtitle": "Sperimenta cù a dimucrazia glubale"
+        },
+        "referendums": {
+          "title": "Referendum Custituziunale Mundiale",
+          "subtitle": "Vota nantu à i nostri principii fundamentali"
+        }
+      },
+      "parties": {
+        "discover": "Scopre",
+        "search_placeholder": "Ricerca partiti...",
+        "tabs": {
+          "new": "Nuvelli",
+          "trending": "Tendenze",
+          "top": "Top"
+        },
+        "no_parties_found": "Nisun partitu truvatu",
+        "loading_more": "Caricamentu di più partiti...",
+        "party_details": "Dettagli di u partitu",
+        "share_party": "Cundivide u partitu",
+        "my_party": "U mo partitu",
+        "found_party_and_earn": "Fundate un partitu è ottene sovvenzioni",
+        "learn_more": "Imparate di più",
+        "party_management": "Gestione di u partitu",
+        "edit_party_info": "Modificà l'infurmazioni di u partitu",
+        "dissolve_party": "Scioglie u partitu",
+        "dialogs": {
+          "found_party": "Fonda u partitu",
+          "party_name": "Nome di u partitu",
+          "description_optional": "Descrizzione (opzionale)",
+          "official_link_optional": "Link ufficiale (opzionale)",
+          "founding": "Fundazione...",
+          "updating": "Aghjurnamentu...",
+          "found": "Fonda",
+          "save": "Salvà",
+          "dissolving": "Scioglimentu...",
+          "about_to_found": "Sete per fundà un partitu novu.",
+          "about_to_dissolve": "Sì à puntu di dissolvè {partyName}. St'azzione ùn pò micca esse annullata.",
+          "leader_warning_found": "Sì attualmente u capu di {partyName}. Fundà un partitu novu dissolverà u vostru partitu attuale."
+        },
+        "detail": {
+          "failed_to_load": "Impossibile à carricà i dati di u partitu",
+          "party_not_found": "Partitu micca truvatu",
+          "error_loading": "Errore durante u caricamentu di u partitu",
+          "back_to_parties": "Torna à i partiti",
+          "description": "Descrizzione",
+          "party_info": "Infurmazioni di u partitu",
+          "leader": "Capu",
+          "website": "Situ web",
+          "not_found_description": "U partitu chì cercate ùn esiste micca o hè statu scioltu."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "E elezzioni di testu arrivanu prestu. Verificate a vostra identità avà per esse prontu quandu u votu si apre.",
+          "verify_button": "Verificà in anticipu"
+        },
+        "coming_soon": {
+          "description": "L’elezzione di prova principieranu prestu. Site dighjà verificatu è prontu à vutà appena principia l’elezzione."
+        },
+        "no_active_election": "Nisuna elezzione attiva"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "CUNTU",
+          "account_info": "Infurmazioni di u cuntu",
+          "language": "Lingua"
+        },
+        "help": {
+          "title": "AIUTU",
+          "faq": "FAQ",
+          "support": "Supportu"
+        },
+        "legal": {
+          "title": "LEGALE",
+          "terms": "Termini d'usu",
+          "privacy": "Pulitica di privacy"
+        },
+        "source_code": {
+          "title": "CODICE SORGENTE"
+        }
+      }
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "app-purpose": {
+          "question": "Chì hè a Ripubblica Mundiale?",
+          "answer": "A Republica Mundiale hè una piattaforma di guvernu open source cù a so muneta digitale chì mira à stabilisce un quatru demucraticu per a pace è a sicurezza glubale."
+        },
+        "what-is-wdd": {
+          "question": "Chì hè WDD?",
+          "answer": "U WDD (dracma mundiale) hè a muneta ufficiale blockchain-native di a Republica Mundiale, emessa cum'è un token ERC-20 standardu attraversu parechje reti."
+        },
+        "drachma-value": {
+          "question": "Da induve a drachma ottene u so valore?",
+          "answer": "A drachma riceve u so valore da u fattu chì hè a muneta ufficiale di a Republica Mundiale. Mentre a legitimità di a nostra piattaforma di guvernu globale cresce, WDD pò diventà u veiculu di ridistribuzione globale è u mezu principale di scambiu in l'economia mondiale."
+        },
+        "identity-verification": {
+          "question": "Cumu funziona a verificazione di identità?",
+          "answer": "A Republica Mundiale usa Self per verificà a vostra identità attraversu u vostru passaportu o carta d'identità naziunale. A vostra privacy hè prutetta—Self cunfirma solu chì site una persona vera senza espone i vostri dati persunali."
+        },
+        "test-elections": {
+          "question": "Cosa sò e elezzioni di prova?",
+          "answer": "L'elezzioni di prova sò esperimenti induve i citadini di a Ripùblica Mundiale votanu per i partiti pulitichi. Ogni partitu hè automaticamente inclusu in u scrutiniu, assicurendu opportunità uguali per tutti i capi aspiranti."
+        },
+        "party-subsidies": {
+          "question": "Cumu funzionanu e suvvenzioni à i partiti?",
+          "answer": "A Ripùblica Mundiale finanzieghja i partiti pulitichi basatu annantu à u sustegnu demucraticu. Distribuemu cuncessioni WDD proporzionale à i risultati di l'elezzioni, assicurendu chì ogni votu aumenta direttamente e risorse finanziarie di un partitu."
+        },
+        "verification-required": {
+          "question": "Hè necessaria a verificazione per participà?",
+          "answer": "A verificazione di l'identità hè necessaria solu per vutà. Pudete creà partiti è trasferisce WDD ottenuti da i sussidi di partitu senza verificazione."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "Portafogliu"
+      },
+      "balance": "Saldo",
+      "modals": {
+        "sign_out": {
+          "confirm": "Sei sicuru chì vogli esce?"
+        },
+        "send": {
+          "button": "Manda",
+          "title": "Manda WDD",
+          "choice_description": "Scegliete cumu vulete mandà a vostra drachma.",
+          "transfer_to_citizen": {
+            "title": "Trasferisce",
+            "description": "Trasferisce WDD à un altru citadinu",
+            "username_label": "Nome d'utilizatore di u destinatariu"
+          },
+          "withdraw_to_crypto": {
+            "title": "Ritira",
+            "description": "Ritira WDD à un contu crypto",
+            "amount_label": "Ammontu",
+            "address_label": "Indirizzu portafogliu",
+            "network_label": "Rete"
+          }
+        },
+        "trade": {
+          "base": "Base WDD nantu à Uniswap",
+          "monad": "Monad WDD nantu à Uniswap",
+          "world": "World Chain WDD nantu à Uniswap",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "Questu sguasserà permanentemente u to cuntu è rimuverà tutti i to dati da i nostri serveri. Questa azione ùn pò esse annullata — per piacè cuntinue cù cura.",
+          "deleting": "Sguassendu..."
+        },
+        "receive": {
+          "button": "Ricevi",
+          "title": "Ricevi WDD",
+          "description": "Cundividite u vostru nome d'utilizatore per riceve WDD da i vostri amichi."
+        }
+      },
+      "sections": {
+        "identification": "IDENTIFICAZIONE",
+        "account": "CUNTU",
+        "danger_zone": "ZONA DI PERICULU",
+        "delete_account": {
+          "description": "Rimuove permanentemente tutti i vostri dati"
+        }
+      },
+      "username": {
+        "label": "Nome d'utilizatore",
+        "edit_title": "Modificà u nome d'utilizatore",
+        "description": "3-30 caratteri, alfanumerici, sottoline è trattini"
+      },
+      "history": {
+        "title": "Storia"
+      },
+      "transactions": {
+        "failed_to_load": "Impossibile à carricà",
+        "no_transactions": "Nisuna transazzione ancora",
+        "just_now": "Avà",
+        "minutes_ago": "{minutes}m fà",
+        "hours_ago": "{hours}h fà",
+        "days_ago": "{days}g fà",
+        "filter": {
+          "all_types": "Tutti i tipi",
+          "select_type": "Selezziunate u tipu"
+        },
+        "types": {
+          "withdrawal": "Ritira",
+          "received": "Ricevutu",
+          "sent": "Mandatu"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "Scansate stu codice QR per verificà cù Self.",
+        "status_completed": "Verificatu",
+        "status_not_completed": "Micca verificatu",
+        "mobile_dialog_description": "Sarete reindirizzatu à l’app Self per compie a verificazione.",
+        "supported_countries": "Paesi supportati",
+        "support_telegram": "Supportu Self"
+      },
+      "verification_warning": {
+        "title": "Obtener verificación"
+      },
+      "verification_explainer": {
+        "title": "Verificazione necessaria",
+        "description": "Per piacè cumpletate a verificazione per ritirà i token."
+      },
+      "re_verification_explainer": {
+        "title": "Ri-verificazione necessaria",
+        "description": "Per a vostra sicurezza, richiedemu una verificazione fresca prima di azzioni sensibili cum'è i ritiri. Questu aiuta à pruteghje u vostru contu da l'accessu non autorizatu."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "A maiò parte di i portafogli mostra solu WDD dopu chì hè statu importatu manualmente nantu à a catena scelta cù u so ",
+      "contract_address": "indirizzu di cuntrattu"
+    }
+  },
+  "toasts": {
+    "generic_error": "Hè accadutu un errore",
+    "copied": "Copiatu",
+    "wallet": {
+      "no_wallet": "Nisun indirizzu portafogliu",
+      "min_amount": "Minimu 10 WDD",
+      "sent": "Mandatu",
+      "failed": "Sumsub ID richiestu",
+      "account_deleted": "Cuntu sguassatu",
+      "delete_failed": "A sguassatura di u cuntu hà fallitu",
+      "contract_address_error": "Ùn si pò micca ritirà à un indirizzu di cuntrattu",
+      "sign_out_failed": "A disconnessione hà fallitu"
+    },
+    "parties": {
+      "founded": "Partitu fundatu",
+      "found_failed": "Fundazione hà fallitu",
+      "found_error": "Errore in a fundazione di u partitu",
+      "updated": "Aghjurnatu",
+      "update_failed": "Aghjurnamentu hà fallitu",
+      "update_error": "Errore in l'aghjurnamentu di u partitu",
+      "transferred": "Trasferitu",
+      "transfer_failed": "Trasferimentu di a direzzione hà fallitu",
+      "transfer_error": "Errore in u trasferimentu di a direzzione",
+      "dissolved": "Scioltu",
+      "dissolve_failed": "Scioglimentu hà fallitu",
+      "dissolve_error": "Errore in u scioglimentu di u partitu"
+    }
+  },
+  "common": {
+    "confirm": "Cunfirma",
+    "sign_in": "Accedi",
+    "max": "Max",
+    "loading": "Caricamentu...",
+    "processing": "Trattamentu...",
+    "insufficient_balance": "WDD insufficiente",
+    "delete_account": "Sguassà u contu",
+    "sign_out": "Esce",
+    "invalid_address": "Indirizzu invalidu",
+    "coming_soon": "Prossimamente",
+    "withdraw": "Ritira",
+    "trade": "Scambià",
+    "continue": "Continua",
+    "updating": "Aghjurnamentu...",
+    "save": "Salvà",
+    "vote": "Votà",
+    "close": "Chjude"
+  },
+  "auth": {
+    "choose_method": "Scegli u metudu preferitu.",
+    "sign_in_with_google": "Cuntinuà cù Google",
+    "sign_in_with_passkey": "Usà a biometria",
+    "sign_in_or_create": "Accedi al tuo account con una passkey, utilizzando l'impronta digitale, la scansione del volto o il blocco dello schermo.",
+    "create_account": "Crea un account",
+    "create_passkey_name": "Crea un nome passkey",
+    "passkey_name_description": "Nomina la tua passkey per identificarla nel gestore di password.",
+    "passkey_name": "Nome passkey"
+  }
+}

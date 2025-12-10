@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "Meniu",
+    "world_republic": "Republica Mondială"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "Alegeri",
+        "referendums": "Referendumuri"
+      },
+      "sections": {
+        "parties": {
+          "title": "Partide politice",
+          "subtitle": "Unește-te global în jurul valorilor comune"
+        },
+        "elections": {
+          "title": "Alegeri de test",
+          "subtitle": "Experimentează cu democrația globală"
+        },
+        "referendums": {
+          "title": "Referendum Constituțional Mondial",
+          "subtitle": "Votează pentru principiile noastre fundamentale"
+        }
+      },
+      "parties": {
+        "discover": "Descoperă",
+        "search_placeholder": "Caută partide...",
+        "tabs": {
+          "new": "Noi",
+          "trending": "Tendințe",
+          "top": "Top"
+        },
+        "no_parties_found": "Nu s-au găsit partide",
+        "loading_more": "Se încarcă mai multe partide...",
+        "party_details": "Detalii partid",
+        "share_party": "Distribuie partidul",
+        "my_party": "Partidul meu",
+        "found_party_and_earn": "Înființează un partid și primește subvenții",
+        "learn_more": "Află mai multe",
+        "party_management": "Gestionarea partidului",
+        "edit_party_info": "Editează informațiile partidului",
+        "dissolve_party": "Desființează partidul",
+        "dialogs": {
+          "found_party": "Fondează un partid",
+          "party_name": "Numele partidului",
+          "description_optional": "Descriere (opțional)",
+          "official_link_optional": "Link oficial (opțional)",
+          "founding": "Fondare...",
+          "updating": "Actualizare...",
+          "found": "Fondează",
+          "save": "Salvează",
+          "dissolving": "Desființare...",
+          "about_to_found": "Ești pe punctul de a fonda un partid nou.",
+          "about_to_dissolve": "Ești pe cale să dizolvi {partyName}. Această acțiune nu poate fi anulată.",
+          "leader_warning_found": "Ești în prezent liderul {partyName}. Înființarea unui partid nou va dizolva partidul tău actual."
+        },
+        "detail": {
+          "failed_to_load": "Eșec la încărcarea datelor partidului",
+          "party_not_found": "Partid negăsit",
+          "error_loading": "Eroare la încărcarea partidului",
+          "back_to_parties": "Înapoi la partide",
+          "description": "Descriere",
+          "party_info": "Informații partid",
+          "leader": "Lider",
+          "website": "Site web",
+          "not_found_description": "Partidul pe care îl cauți nu există sau a fost desființat."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "Alegerile de test vor veni în curând. Verifică-ți identitatea acum pentru a fi gata când se deschide votul.",
+          "verify_button": "Pre-verificare"
+        },
+        "coming_soon": {
+          "description": "Alegerile de test vor începe în curând. Ești deja verificat și gata să votezi de îndată ce încep alegerile."
+        },
+        "no_active_election": "Nicio alegere activă"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "CONT",
+          "account_info": "Informații cont",
+          "language": "Limbă"
+        },
+        "help": {
+          "title": "AJUTOR",
+          "faq": "Întrebări frecvente",
+          "support": "Suport"
+        },
+        "legal": {
+          "title": "LEGAL",
+          "terms": "Termeni și condiții",
+          "privacy": "Politica de confidențialitate"
+        },
+        "source_code": {
+          "title": "COD SURSĂ"
+        }
+      }
+    },
+    "faq": {
+      "title": "Întrebări frecvente",
+      "items": {
+        "app-purpose": {
+          "question": "Ce este Republica Mondială?",
+          "answer": "Republica Mondială este o platformă de guvernare open source cu propria monedă digitală care își propune să stabilească un cadru democratic pentru pacea și securitatea globală."
+        },
+        "what-is-wdd": {
+          "question": "Ce este WDD?",
+          "answer": "WDD (drachma mondială) este moneda oficială nativă blockchain a Republicii Mondiale, emisă ca token ERC-20 standard pe mai multe rețele."
+        },
+        "drachma-value": {
+          "question": "De unde își obține drahma valoarea?",
+          "answer": "Drachma își obține valoarea din faptul că este moneda oficială a Republicii Mondiale. Pe măsură ce legitimitatea platformei noastre globale de guvernare crește, WDD poate deveni vehiculul redistribuției globale și principalul mijloc de schimb în economia mondială."
+        },
+        "identity-verification": {
+          "question": "Cum funcționează verificarea identității?",
+          "answer": "Republica Mondială folosește Self pentru a verifica identitatea ta prin pașaportul sau buletinul tău. Confidențialitatea ta este protejată—Self confirmă doar că ești o persoană reală fără să-ți expună datele personale."
+        },
+        "test-elections": {
+          "question": "Ce sunt alegerile de test?",
+          "answer": "Alegerile de testare sunt experimente în care cetățenii Republica Mondială votează pentru partide politice. Fiecare partid este inclus automat pe buletinul de vot, asigurând șanse egale pentru toți liderii aspiranți."
+        },
+        "party-subsidies": {
+          "question": "Cum funcționează subvențiile pentru partide?",
+          "answer": "Republica Mondială finanțează partidele politice pe baza sprijinului democratic. Distribuim granturi WDD proporțional cu rezultatele alegerilor, asigurând că fiecare vot crește direct resursele financiare ale unui partid."
+        },
+        "verification-required": {
+          "question": "Este necesară verificarea pentru a participa?",
+          "answer": "Verificarea identității este necesară doar pentru vot. Puteți înființa partide și transfera WDD obținuți din subvențiile pentru partide fără verificare."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "Portofel"
+      },
+      "balance": "Sold",
+      "modals": {
+        "sign_out": {
+          "confirm": "Ești sigur că vrei să te deconectezi?"
+        },
+        "send": {
+          "button": "Trimite",
+          "title": "Trimite WDD",
+          "choice_description": "Alegeți cum doriți să trimiteți drahma dvs.",
+          "transfer_to_citizen": {
+            "title": "Transferați",
+            "description": "Transferați WDD către alt cetățean",
+            "username_label": "Numele de utilizator al destinatarului"
+          },
+          "withdraw_to_crypto": {
+            "title": "Retrageți",
+            "description": "Retrageți WDD pe un cont crypto",
+            "amount_label": "Suma",
+            "address_label": "Adresa portofel",
+            "network_label": "Rețea"
+          }
+        },
+        "trade": {
+          "base": "Base WDD pe Uniswap",
+          "monad": "Monad WDD pe Uniswap",
+          "world": "World Chain WDD pe Uniswap",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "Aceasta va șterge definitiv contul tău și va elimina toate datele tale de pe serverele noastre. Această acțiune nu poate fi anulată — te rugăm să continui cu precauție.",
+          "deleting": "Se șterge..."
+        },
+        "receive": {
+          "button": "Primește",
+          "title": "Primește WDD",
+          "description": "Distribuie numele tău de utilizator pentru a primi WDD de la prietenii tăi."
+        }
+      },
+      "sections": {
+        "identification": "IDENTIFICARE",
+        "account": "CONT",
+        "danger_zone": "ZONĂ DE PERICOL",
+        "delete_account": {
+          "description": "Eliminați permanent toate datele dvs."
+        }
+      },
+      "username": {
+        "label": "Nume de utilizator",
+        "edit_title": "Editează numele de utilizator",
+        "description": "3-30 caractere, alfanumerice, subliniere și cratime"
+      },
+      "history": {
+        "title": "Istoric"
+      },
+      "transactions": {
+        "failed_to_load": "Încărcare eșuată",
+        "no_transactions": "Încă nu există tranzacții",
+        "just_now": "Chiar acum",
+        "minutes_ago": "acum {minutes}min",
+        "hours_ago": "acum {hours}ore",
+        "days_ago": "acum {days}zile",
+        "filter": {
+          "all_types": "Toate tipurile",
+          "select_type": "Selectați tipul"
+        },
+        "types": {
+          "withdrawal": "Retragere",
+          "received": "Primit",
+          "sent": "Trimis"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "Scanează acest cod QR pentru a te verifica cu Self.",
+        "status_completed": "Verificat",
+        "status_not_completed": "Neverificat",
+        "mobile_dialog_description": "Vei fi redirecționat către aplicația Self pentru a finaliza verificarea.",
+        "supported_countries": "Țări acceptate",
+        "support_telegram": "Suport Self"
+      },
+      "verification_warning": {
+        "title": "Obțineți verificarea"
+      },
+      "verification_explainer": {
+        "title": "Verificare necesară",
+        "description": "Vă rugăm să finalizați verificarea pentru a retrage token-uri."
+      },
+      "re_verification_explainer": {
+        "title": "Re-verificare necesară",
+        "description": "Pentru securitatea dvs., solicităm o verificare recentă înainte de acțiuni sensibile precum retragerile. Acest lucru ajută la protejarea contului dvs. împotriva accesului neautorizat."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "Majoritatea portofelelor afișează WDD doar după ce este importat manual pe lanțul selectat prin ",
+      "contract_address": "adresa contractului"
+    }
+  },
+  "toasts": {
+    "generic_error": "A apărut o eroare",
+    "copied": "Copiat",
+    "wallet": {
+      "no_wallet": "Fără adresă de portofel",
+      "min_amount": "Minimum 10 WDD",
+      "sent": "Trimis",
+      "failed": "Sumsub ID necesar",
+      "account_deleted": "Cont șters",
+      "delete_failed": "Ștergerea contului a eșuat",
+      "contract_address_error": "Nu se poate retrage către adresa de contract",
+      "sign_out_failed": "Deconectarea a eșuat"
+    },
+    "parties": {
+      "founded": "Partid fondat",
+      "found_failed": "Fondarea partidului a eșuat",
+      "found_error": "Eroare la fondarea partidului",
+      "updated": "Actualizat",
+      "update_failed": "Actualizarea a eșuat",
+      "update_error": "Eroare la actualizarea partidului",
+      "transferred": "Transferat",
+      "transfer_failed": "Transferul conducerii a eșuat",
+      "transfer_error": "Eroare la transferul conducerii",
+      "dissolved": "Desființat",
+      "dissolve_failed": "Desființarea a eșuat",
+      "dissolve_error": "Eroare la desființarea partidului"
+    }
+  },
+  "common": {
+    "confirm": "Confirmă",
+    "sign_in": "Conectare",
+    "max": "Max",
+    "loading": "Se încarcă...",
+    "processing": "Se procesează...",
+    "insufficient_balance": "WDD insuficient",
+    "delete_account": "Șterge contul",
+    "sign_out": "Deconectare",
+    "invalid_address": "Adresă invalidă",
+    "coming_soon": "În curând",
+    "withdraw": "Retragere",
+    "trade": "Tranzacționare",
+    "continue": "Continuă",
+    "updating": "Actualizare...",
+    "save": "Salvează",
+    "vote": "Votează",
+    "close": "Închide"
+  },
+  "auth": {
+    "choose_method": "Alegeți metoda preferată.",
+    "sign_in_with_google": "Continuați cu Google",
+    "sign_in_with_passkey": "Folosiți biometria",
+    "sign_in_or_create": "Accesați contul dvs. cu o passkey, folosind amprenta, scanarea feței sau blocarea ecranului.",
+    "create_account": "Creează cont",
+    "create_passkey_name": "Creează un nume de passkey",
+    "passkey_name_description": "Denumiți-vă passkey-ul pentru a-l identifica în managerul de parole.",
+    "passkey_name": "Nume passkey"
+  }
+}

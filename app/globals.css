@@ -1,0 +1,146 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "TWK Lausanne";
+  src: url("https://mini-apps-ui-kit.world.org/fonts/TWKLausanne-350.woff2")
+    format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "TWK Lausanne";
+  src: url("https://mini-apps-ui-kit.world.org/fonts/TWKLausanne-500.woff2")
+    format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "TWK Lausanne";
+  src: url("https://mini-apps-ui-kit.world.org/fonts/TWKLausanne-600.woff2")
+    format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #181818;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans:
+    "TWK Lausanne", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  --font-mono: var(--font-rubik);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+}
+
+.pb-safe {
+  padding-bottom: 56px; /* Default padding */
+}
+
+.mb-safe {
+  margin-bottom: 56px; /* Default margin */
+}
+
+@media only screen and (device-width: 375px) and (device-height: 812px) and (
+    -webkit-device-pixel-ratio: 3
+  ),
+  /* iPhone X/XS/11 Pro */ only screen and (device-width: 414px) and (
+    device-height: 896px
+  ) and (-webkit-device-pixel-ratio: 2),
+  /* iPhone XR/11 */ only screen and (device-width: 390px) and (
+    device-height: 844px
+  ) and (-webkit-device-pixel-ratio: 3),
+  /* iPhone 12/13 Pro,
+  iPhone 14/15 */ only screen and (device-width: 428px) and (
+    device-height: 926px
+  ) and (-webkit-device-pixel-ratio: 3),
+  /* iPhone 12/13 Pro Max,
+  iPhone 14 Plus/15 Plus */ only screen and (device-width: 393px) and (
+    device-height: 852px
+  ) and (-webkit-device-pixel-ratio: 3),
+  /* iPhone 14 Pro/15 Pro,
+  iPhone 16 */ only screen and (device-width: 430px) and (
+    device-height: 932px
+  ) and (-webkit-device-pixel-ratio: 3),
+  /* iPhone 14 Pro Max/15 Plus/15 Pro Max,
+  iPhone 16 Plus */ only screen and (device-width: 402px) and (
+    device-height: 874px
+  ) and (-webkit-device-pixel-ratio: 3),
+  /* iPhone 16 Pro */ only screen and (device-width: 440px) and (
+    device-height: 956px
+  ) and (-webkit-device-pixel-ratio: 3) /* iPhone 16 Pro Max */ {
+  .safe-area-spacer {
+    padding-bottom: 20px;
+  }
+
+  .pb-safe {
+    padding-bottom: 76px; /* 56px (default) + 20px (safe area) = 76px */
+  }
+
+  .mb-safe {
+    margin-bottom: 76px; /* 56px (default) + 20px (safe area) = 76px */
+  }
+
+  .scroll-to-top-bottom {
+    bottom: 92px; /* 56px (nav) + 20px (safe area) + 16px (gap) = 92px */
+  }
+}
+
+.scroll-to-top-bottom {
+  bottom: 72px; /* 56px (nav) + 16px (gap) = 72px */
+}
+
+/* Custom Select styling - 15px text size */
+.custom-select-wrapper select,
+.custom-select-wrapper button,
+.custom-select-wrapper span {
+  font-size: 15px !important;
+}
+
+/* Hide browser's native progress indicator (backup if navigation preload fix doesn't work) */
+html::-webkit-progress-bar,
+html::-webkit-progress-value {
+  display: none !important;
+}
+
+/* Ripple animation for bottom nav - expands outward and fades */
+@keyframes ripple {
+  0% {
+    transform: translate(-50%, -50%) scale(0);
+    opacity: 0.6;
+  }
+  40% {
+    opacity: 0;
+  }
+  100% {
+    transform: translate(-50%, -50%) scale(2.5);
+    opacity: 0;
+  }
+}
+
+/* Match AlertDialog width to content width and center on desktop */
+@media (min-width: 768px) {
+  /* Target AlertDialogContent from Worldcoin UI Kit (Radix UI Dialog) */
+  [data-radix-dialog-content],
+  [role="dialog"] {
+    width: 36rem !important; /* Fixed width: max-w-xl = 576px, matches main content */
+    max-width: 36rem;
+    left: 50% !important;
+    right: auto !important;
+    margin-left: -18rem; /* Center: negative half of fixed width (36rem / 2 = 18rem) */
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "Ibikubiye",
+    "world_republic": "Repubulika y'Isi"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "Amatora",
+        "referendums": "Amatora y'igihugu"
+      },
+      "sections": {
+        "parties": {
+          "title": "Amashyirahamwe y'amategeko",
+          "subtitle": "Mugire hamwe ku isi hose mu byerekeye imigambi yumvikanye"
+        },
+        "elections": {
+          "title": "Amatora y'igerageza",
+          "subtitle": "Gerageza demokarasi y'isi"
+        },
+        "referendums": {
+          "title": "Amatora y'igihugu y'itegeko",
+          "subtitle": "Vota ku migambi yacu y'ibanze"
+        }
+      },
+      "parties": {
+        "discover": "Gushakisha",
+        "search_placeholder": "Shakisha amashyirahamwe...",
+        "tabs": {
+          "new": "Gushya",
+          "trending": "Bikomeye",
+          "top": "Hejuru"
+        },
+        "no_parties_found": "Ntacyo amashyirahamwe babonewe",
+        "loading_more": "Kuzana amashyirahamwe menshi...",
+        "party_details": "Incamake y'amashyirahamwe",
+        "share_party": "Gusangira amashyirahamwe",
+        "my_party": "Amashyirahamwe yanjye",
+        "found_party_and_earn": "Tubaka ishyirahamwe no guhabwa imisanzure",
+        "learn_more": "Menya byinshi",
+        "party_management": "Gucunga amashyirahamwe",
+        "edit_party_info": "Guhindura amakuru y'amashyirahamwe",
+        "dissolve_party": "Kurimbura amashyirahamwe",
+        "dialogs": {
+          "found_party": "Kubaka amashyirahamwe",
+          "party_name": "Izina ry'amashyirahamwe",
+          "description_optional": "Insobanuro (bihari)",
+          "official_link_optional": "Ihuza rya leta (bihari)",
+          "founding": "Kubaka...",
+          "updating": "Gusubiramo...",
+          "found": "Kubaka",
+          "save": "Bika",
+          "dissolving": "Kurimbura...",
+          "about_to_found": "Ugiye kubaka amashyirahamwe mashya.",
+          "about_to_dissolve": "Uri gutangira gusesa {partyName}. Iki gikorwa ntacyo gisubizwa.",
+          "leader_warning_found": "Ubu uri umuyobozi wa {partyName}. Gukomeza ishyirahamwe gushya kuzongera ishyirahamwe wawe ubu."
+        },
+        "detail": {
+          "failed_to_load": "Kuzana amakuru y'amashyirahamwe byanze",
+          "party_not_found": "Ntacyo amashyirahamwe babonewe",
+          "error_loading": "Ikosa mu kuzana amashyirahamwe",
+          "back_to_parties": "Subira mu mashyirahamwe",
+          "description": "Insobanuro",
+          "party_info": "Amakuru y'amashyirahamwe",
+          "leader": "Umuobozi",
+          "website": "Urubuga",
+          "not_found_description": "Amashyirahamwe ushakisha ntayabaho cyangwa yarimbuwe."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "Amatora y'igerageza azaza vuba. Emeza ubwoba bwawe ubu kugira ngo witegure igihe amatora azafungurwa.",
+          "verify_button": "Menya mbere"
+        },
+        "coming_soon": {
+          "description": "Amatora yo kugerageza azatangira vuba. Wamaze kwemezwa kandi witeguye gutora ako kanya amatora atangiye."
+        },
+        "no_active_election": "Nta matora ari kuba"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "KONTI",
+          "account_info": "Amakuru ya konti",
+          "language": "Ururimi"
+        },
+        "help": {
+          "title": "UBUFA",
+          "faq": "Ibibazo byinshi",
+          "support": "Ubufasha"
+        },
+        "source_code": {
+          "title": "KODE Y'INSHINGANO"
+        },
+        "legal": {
+          "title": "UBUTEKEREZA",
+          "terms": "Amabwiriza yo gukoresha",
+          "privacy": "Politiki y'ubwigenge"
+        }
+      }
+    },
+    "faq": {
+      "title": "Ibibazo byinshi",
+      "items": {
+        "app-purpose": {
+          "question": "Repubulika y'isi ni iki?",
+          "answer": "Repubulika y'Isi ni pɛpɛ y'ubuyobozi y'ubwoba bufunguye ifite ifaranga rya dijitali ryayo ryawe rigamije gushyiraho gahunda ya demokarasi y'umutekano n'amahoro ku isi hose."
+        },
+        "what-is-wdd": {
+          "question": "WDD ni iki?",
+          "answer": "WDD (drachma y'isi) ni ifaranga ryemewe rya blockchain-native rya Repubulika y'Isi, ryasohowe nk'amashini ya ERC-20 y'ibanze mu mirongo myinshi."
+        },
+        "drachma-value": {
+          "question": "Drachma ibona agaciro ki?",
+          "answer": "Drachma ikura amafaranga yayo kubera ko ari ifaranga ryemewe rya Repubulika y'Isi. Nk'uko uburenganzira bw'urubuga rwacu rw'ubuyobozi bw'isi rukagira, WDD irashobora kuba ikinyabiziga cyo gusubiramo mu isi yose no gucunga ibintu by'ibanze mu bukungu bw'isi."
+        },
+        "identity-verification": {
+          "question": "Uko kwemeza aho wavuka gukora gute?",
+          "answer": "Repubulika y'Isi ikoresha Self kugira ngo yemeze ubwoba bwawe ukoresheje pasiporo cyangwa indangamuntu y'igihugu. Ubwigenge bwawe bukabuzwa—Self gusa ikemeza ko uri umuntu w'ukuri nta makuru y'ubwoba wayerekana."
+        },
+        "test-elections": {
+          "question": "Ni iki amatora y'igerageza?",
+          "answer": "Amatora y'igerageza ni ubushakashatsi aho abaturage ba Repubulika y'Isi batora amashyaka ya politiki. Buri shyaka rishyirwa ku rupapuro rw'itora mu buryo bwikora, bigaha amahirwe angana abayobozi bose babyifuza."
+        },
+        "party-subsidies": {
+          "question": "Inkunga z'amashyaka zikora gute?",
+          "answer": "Repubulika y'Isi itera inkunga amashyaka ya politiki hashingiwe ku nkunga ya demokarasi. Dutanga inkunga za WDD zikwiriye hagendewe ku byavuye mu matora, tukizeza ko buri jwi ryongera umutungo w'ishyaka."
+        },
+        "verification-required": {
+          "question": "Ese birakenewe kwemeza umwirondoro kugira ngo witabire?",
+          "answer": "Kwemeza umwirondoro bisabwa gusa mu gutora. Ushobora gushinga amashyaka no koherereza WDD wavanye mu nkunga z'amashyaka utabanje kwemeza umwirondoro."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "Ifunguro"
+      },
+      "balance": "Amafaranga",
+      "modals": {
+        "sign_out": {
+          "confirm": "Uzi neza ko ushaka gusohoka?"
+        },
+        "send": {
+          "button": "Ohereza",
+          "title": "Ohereza WDD",
+          "choice_description": "Hitamo uko ushaka kohereza drachma yawe.",
+          "transfer_to_citizen": {
+            "title": "Kwimura",
+            "description": "Kwimura WDD kuri umuturage wundi",
+            "username_label": "Izina ry'ukoresha rw'uwakira"
+          },
+          "withdraw_to_crypto": {
+            "title": "Kuramo",
+            "description": "Kuramo WDD kuri konte ya crypto",
+            "amount_label": "Umubare",
+            "address_label": "Aderesi y'ifunguro",
+            "network_label": "Urubugu"
+          }
+        },
+        "trade": {
+          "base": "Base WDD kuri Uniswap",
+          "monad": "Monad WDD kuri Uniswap",
+          "world": "World Chain WDD kuri Uniswap",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "Ibi bizasiba konti yawe byuzuye kandi bizakuramo amakuru yawe yose ku maseriveri yacu. Iki gikorwa ntikishobora guhindurwa — komeza ufatanya.",
+          "deleting": "Gusiba..."
+        },
+        "receive": {
+          "button": "Kwemera",
+          "title": "Kwemera WDD",
+          "description": "Ganira izina ryawe ry'ukoresha kugira ngo wakire WDD kuvuye kuri inshuti zawe."
+        }
+      },
+      "sections": {
+        "identification": "KWEMEZA",
+        "account": "KONTI",
+        "danger_zone": "AHANTU H'INGOZA",
+        "delete_account": {
+          "description": "Kuraho byose byawe byose ubudahoraho"
+        }
+      },
+      "username": {
+        "label": "Izina ry'ukoresha",
+        "edit_title": "Guhindura izina ry'ukoresha",
+        "description": "Inyuguti 3-30, alfanumerike, imirongo yo munsi na hyphen"
+      },
+      "history": {
+        "title": "Amateka"
+      },
+      "transactions": {
+        "failed_to_load": "Kuzana byanze",
+        "no_transactions": "Nta gahunda zigeze",
+        "just_now": "Ubu",
+        "minutes_ago": "iminota {minutes} ishize",
+        "hours_ago": "amasaha {hours} asize",
+        "days_ago": "iminsi {days} ishize",
+        "filter": {
+          "all_types": "Ubwoko bwose",
+          "select_type": "Hitamo ubwoko"
+        },
+        "types": {
+          "withdrawal": "Gukuramo",
+          "received": "Byakiriwe",
+          "sent": "Byoherejwe"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "Scan uyu kode ya QR kugira ngo wemezwe ukoresheje Self.",
+        "status_completed": "Byemejwe",
+        "status_not_completed": "Ntibyemejwe",
+        "mobile_dialog_description": "Uzasubizwa kuri porogaramu ya Self kugira ngo urangize kwemezwa.",
+        "supported_countries": "Ibihugu bishyigikiwe",
+        "support_telegram": "Ubafasha bwa Self"
+      },
+      "verification_warning": {
+        "title": "Bona kwemeza"
+      },
+      "verification_explainer": {
+        "title": "Kwemeza byakenewe",
+        "description": "Nyamuneka wuzuze kwemeza kugira ngo ukure tokens."
+      },
+      "re_verification_explainer": {
+        "title": "Kwongera kwemeza byakenewe",
+        "description": "Kubera umutekano wawe, dukeneye kwemeza gushya mbere y'ibikorwa byangiza nk'ukure. Ibi bifasha kurinda konti yawe kuri kwinjira bitemewe."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "Porfolio nyinshi zerekana WDD gusa nyuma y'uko byinjizwa n'abantu ku rutonde rwatoranyijwe ku ",
+      "contract_address": "aderesi y'ibanze"
+    }
+  },
+  "toasts": {
+    "generic_error": "Hari ikosa",
+    "copied": "Byakopiwe",
+    "wallet": {
+      "no_wallet": "Nta deresi y'ifunguro",
+      "min_amount": "Buke 10 WDD",
+      "sent": "Byoherejwe",
+      "failed": "Sumsub ID iba ngombwa",
+      "account_deleted": "Konti yasibwe",
+      "delete_failed": "Gusiba konti byanze",
+      "contract_address_error": "Ntishobora gukuramo ku deresi y'umukono",
+      "sign_out_failed": "Gusohoka byanze"
+    },
+    "parties": {
+      "founded": "Amashyirahamwe yubatswe",
+      "found_failed": "Kubaka amashyirahamwe byanze",
+      "found_error": "Ikosa mu kubaka amashyirahamwe",
+      "updated": "Yasubiramo",
+      "update_failed": "Gusubiramo byanze",
+      "update_error": "Ikosa mu gusubiramo amashyirahamwe",
+      "transferred": "Yimuriwe",
+      "transfer_failed": "Kwimura ubuyobozi byanze",
+      "transfer_error": "Ikosa mu kwimura ubuyobozi",
+      "dissolved": "Yarimbuwe",
+      "dissolve_failed": "Kurimbura byanze",
+      "dissolve_error": "Ikosa mu kurimbura amashyirahamwe"
+    }
+  },
+  "common": {
+    "confirm": "Emeza",
+    "sign_in": "Injira",
+    "max": "Menshi",
+    "loading": "Birakura...",
+    "processing": "Gukora...",
+    "insufficient_balance": "Nta WDD yihagije",
+    "delete_account": "Siba konti",
+    "sign_out": "Sohoka",
+    "invalid_address": "Aderesi itari ukuri",
+    "coming_soon": "Vuba",
+    "withdraw": "Kuramo",
+    "trade": "Gucuruzana",
+    "continue": "Komeza",
+    "updating": "Gusubiramo...",
+    "save": "Bika",
+    "vote": "Vota",
+    "close": "Funga"
+  },
+  "auth": {
+    "choose_method": "Hitamo uburyo wifuza.",
+    "sign_in_with_google": "Komeza na Google",
+    "sign_in_with_passkey": "Koresha biometrics",
+    "sign_in_or_create": "Injira konti yawe ukoresheje passkey, ukoresheje urutoki, gusuzuma ubwoba cyangwa gukinga ecran.",
+    "create_account": "Kora konti",
+    "create_passkey_name": "Kora izina rya passkey",
+    "passkey_name_description": "Tanga izina rya passkey yawe kugirango uyimenye mu muyobozi w'ibanga.",
+    "passkey_name": "Izina rya passkey"
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "メニュー",
+    "world_republic": "世界共和国"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "選挙",
+        "referendums": "国民投票"
+      },
+      "sections": {
+        "parties": {
+          "title": "政治政党",
+          "subtitle": "共有する価値観で世界的に団結"
+        },
+        "elections": {
+          "title": "テスト選挙",
+          "subtitle": "グローバル民主主義を実験"
+        },
+        "referendums": {
+          "title": "世界憲法国民投票",
+          "subtitle": "私たちの基本原則に投票"
+        }
+      },
+      "parties": {
+        "discover": "発見",
+        "search_placeholder": "政党を検索...",
+        "tabs": {
+          "new": "新規",
+          "trending": "トレンド",
+          "top": "トップ"
+        },
+        "no_parties_found": "政党が見つかりません",
+        "loading_more": "さらに政党を読み込み中...",
+        "party_details": "政党の詳細",
+        "share_party": "政党を共有",
+        "my_party": "私の政党",
+        "found_party_and_earn": "政党を設立して補助金を受け取る",
+        "learn_more": "詳細を見る",
+        "party_management": "政党管理",
+        "edit_party_info": "政党情報を編集",
+        "dissolve_party": "政党を解散",
+        "dialogs": {
+          "found_party": "政党を設立",
+          "party_name": "政党名",
+          "description_optional": "説明（オプション）",
+          "official_link_optional": "公式リンク（オプション）",
+          "founding": "設立中...",
+          "updating": "更新中...",
+          "found": "設立",
+          "save": "保存",
+          "dissolving": "解散中...",
+          "about_to_found": "新しい政党を設立しようとしています。",
+          "about_to_dissolve": "あなたは {partyName} を解散しようとしています。この操作は元に戻せません。",
+          "leader_warning_found": "あなたは現在 {partyName} のリーダーです。新しい政党を設立すると、現在の政党が解散されます。"
+        },
+        "detail": {
+          "failed_to_load": "政党データの読み込みに失敗しました",
+          "party_not_found": "政党が見つかりません",
+          "error_loading": "政党の読み込みエラー",
+          "back_to_parties": "政党に戻る",
+          "description": "説明",
+          "party_info": "政党情報",
+          "leader": "リーダー",
+          "website": "ウェブサイト",
+          "not_found_description": "お探しの政党は存在しないか、解散されました。"
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "テスト選挙が間もなく始まります。投票が開始されたときに準備ができるよう、今すぐ身元を確認してください。",
+          "verify_button": "事前確認"
+        },
+        "coming_soon": {
+          "description": "テスト選挙がまもなく開始されます。あなたはすでに認証済みで、選挙が始まり次第投票する準備ができています。"
+        },
+        "no_active_election": "実施中の選挙はありません"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "アカウント",
+          "account_info": "アカウント情報",
+          "language": "言語"
+        },
+        "help": {
+          "title": "ヘルプ",
+          "faq": "よくある質問",
+          "support": "サポート"
+        },
+        "legal": {
+          "title": "リーガル",
+          "terms": "利用規約",
+          "privacy": "プライバシーポリシー"
+        },
+        "source_code": {
+          "title": "ソースコード"
+        }
+      }
+    },
+    "faq": {
+      "title": "よくある質問",
+      "items": {
+        "app-purpose": {
+          "question": "ワールド・リパブリック（世界共和国）とは？",
+          "answer": "世界共和国は、独自のデジタル通貨を持つオープンソースのガバナンスプラットフォームで、世界的な平和と安全保障のための民主的な枠組みを確立することを目指しています。"
+        },
+        "what-is-wdd": {
+          "question": "WDDとは何ですか？",
+          "answer": "WDD（世界ドラクマ）は世界共和国のブロックチェーン・ネイティブな公式通貨であり、複数のネットワークで標準ERC-20トークンとして発行されています。"
+        },
+        "drachma-value": {
+          "question": "ドラクマの価値はどこから生まれますか？",
+          "answer": "ドラクマは世界共和国の公式通貨であることから価値を得ています。私たちのグローバルガバナンスプラットフォームの正当性が高まるにつれて、WDDは世界的な再分配の手段となり、世界経済における主要な交換媒体になる可能性があります。"
+        },
+        "identity-verification": {
+          "question": "本人確認はどのように機能しますか？",
+          "answer": "世界共和国は、パスポートまたは国民IDを通じてあなたの身元を確認するためにSelfを使用しています。あなたのプライバシーは保護されています—Selfは、個人情報を公開することなく、あなたが実在の人物であることのみを確認します。"
+        },
+        "test-elections": {
+          "question": "テスト選挙とは何ですか？",
+          "answer": "テスト選挙は、世界共和国の市民が政党に投票する実験です。すべての政党が自動的に投票用紙に含まれ、志を持つすべてのリーダーに平等な機会が保証されます。"
+        },
+        "party-subsidies": {
+          "question": "政党助成金はどのように機能しますか？",
+          "answer": "世界共和国は、民主的な支持に基づいて政党に資金を提供します。選挙結果に比例してWDD助成金を分配し、すべての票が政党の財源を直接増やすことを保証します。"
+        },
+        "verification-required": {
+          "question": "参加するには本人確認が必要ですか？",
+          "answer": "本人確認は投票する場合にのみ必要です。本人確認なしでも、政党を設立したり、政党助成金として得たWDDを送金することは可能です。"
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "ウォレット"
+      },
+      "balance": "残高",
+      "modals": {
+        "sign_out": {
+          "confirm": "サインアウトしてもよろしいですか？"
+        },
+        "send": {
+          "button": "送信",
+          "title": "WDD を送る",
+          "choice_description": "ドラクマの送信方法を選択してください。",
+          "transfer_to_citizen": {
+            "title": "転送",
+            "description": "WDD を別の市民に転送",
+            "username_label": "受信者のユーザー名"
+          },
+          "withdraw_to_crypto": {
+            "title": "出金",
+            "description": "WDD を暗号アカウントに出金",
+            "amount_label": "金額",
+            "address_label": "ウォレットアドレス",
+            "network_label": "ネットワーク"
+          }
+        },
+        "trade": {
+          "base": "Base WDD を Uniswap で",
+          "monad": "Monad WDD を Uniswap で",
+          "world": "World Chain WDD を Uniswap で",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "これにより、アカウントが永続的に削除され、すべてのデータがサーバーから削除されます。この操作は元に戻せません — 慎重に続行してください。",
+          "deleting": "削除中..."
+        },
+        "receive": {
+          "button": "受信",
+          "title": "WDD を受信",
+          "description": "ユーザー名を共有して、友達から WDD を受け取ります。"
+        }
+      },
+      "sections": {
+        "identification": "本人確認",
+        "account": "アカウント",
+        "danger_zone": "危険区域",
+        "delete_account": {
+          "description": "すべてのデータを永続的に削除"
+        }
+      },
+      "username": {
+        "label": "ユーザー名",
+        "edit_title": "ユーザー名を編集",
+        "description": "3-30文字、英数字、アンダースコア、ハイフン"
+      },
+      "history": {
+        "title": "履歴"
+      },
+      "transactions": {
+        "failed_to_load": "読み込みに失敗しました",
+        "no_transactions": "まだ取引がありません",
+        "just_now": "たった今",
+        "minutes_ago": "{minutes}分前",
+        "hours_ago": "{hours}時間前",
+        "days_ago": "{days}日前",
+        "filter": {
+          "all_types": "すべてのタイプ",
+          "select_type": "タイプを選択"
+        },
+        "types": {
+          "withdrawal": "引き出し",
+          "received": "受信済み",
+          "sent": "送信済み"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "このQRコードをスキャンしてSelfで本人確認を行ってください。",
+        "status_completed": "認証済み",
+        "status_not_completed": "未認証",
+        "mobile_dialog_description": "確認を完了するためにSelfアプリへリダイレクトされます。",
+        "supported_countries": "対応国",
+        "support_telegram": "Selfサポート"
+      },
+      "verification_warning": {
+        "title": "認証を取得"
+      },
+      "verification_explainer": {
+        "title": "認証が必要です",
+        "description": "トークンを引き出すには、認証を完了してください。"
+      },
+      "re_verification_explainer": {
+        "title": "再認証が必要です",
+        "description": "セキュリティのため、引き出しなどの機密性の高い操作の前に最新の認証が必要です。これにより、不正アクセスからアカウントを保護できます。"
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "ほとんどのウォレットは、選択したチェーンに手動でインポートされた後にのみWDDを表示します。その ",
+      "contract_address": "コントラクトアドレス"
+    }
+  },
+  "toasts": {
+    "generic_error": "エラーが発生しました",
+    "copied": "コピーしました",
+    "wallet": {
+      "no_wallet": "ウォレットアドレスがありません",
+      "min_amount": "最低 10 WDD",
+      "sent": "送信しました",
+      "failed": "Sumsub IDが必要です",
+      "account_deleted": "アカウントを削除しました",
+      "delete_failed": "アカウントの削除に失敗しました",
+      "contract_address_error": "コントラクトアドレスへの出金はできません",
+      "sign_out_failed": "サインアウトに失敗しました"
+    },
+    "parties": {
+      "founded": "政党を設立しました",
+      "found_failed": "政党の設立に失敗しました",
+      "found_error": "政党の設立中にエラーが発生しました",
+      "updated": "更新しました",
+      "update_failed": "更新に失敗しました",
+      "update_error": "政党の更新中にエラーが発生しました",
+      "transferred": "移譲しました",
+      "transfer_failed": "リーダーシップの移譲に失敗しました",
+      "transfer_error": "リーダーシップの移譲中にエラーが発生しました",
+      "dissolved": "解散しました",
+      "dissolve_failed": "解散に失敗しました",
+      "dissolve_error": "政党の解散中にエラーが発生しました"
+    }
+  },
+  "common": {
+    "confirm": "確認",
+    "sign_in": "サインイン",
+    "max": "最大",
+    "loading": "読み込み中...",
+    "processing": "処理中...",
+    "insufficient_balance": "WDDが不足",
+    "delete_account": "アカウントを削除",
+    "sign_out": "サインアウト",
+    "invalid_address": "無効なアドレス",
+    "coming_soon": "近日公開",
+    "withdraw": "引き出す",
+    "trade": "取引",
+    "continue": "続ける",
+    "updating": "更新中...",
+    "save": "保存",
+    "vote": "投票",
+    "close": "閉じる"
+  },
+  "auth": {
+    "choose_method": "希望する方法を選択してください.",
+    "sign_in_with_google": "Googleで続ける",
+    "sign_in_with_passkey": "生体認証を使用",
+    "sign_in_or_create": "パスキーを使用してアカウントにアクセスします。指紋、顔スキャン、または画面ロックを使用します。",
+    "create_account": "アカウントを作成",
+    "create_passkey_name": "パスキー名を作成",
+    "passkey_name_description": "パスワードマネージャーで識別できるように、パスキーに名前を付けます。",
+    "passkey_name": "パスキー名"
+  }
+}

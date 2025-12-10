@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "Liiska",
+    "world_republic": "Jamhuuriyadda Adduunka"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "Doorashooyin",
+        "referendums": "Talooyin"
+      },
+      "sections": {
+        "parties": {
+          "title": "Xisbiyada siyaasadda",
+          "subtitle": "Isku xidha adduunka oo dhan qiyamka la wadaago"
+        },
+        "elections": {
+          "title": "Doorashooyin tijaabo",
+          "subtitle": "Tijaabi dimuqraadiyadda adduunka"
+        },
+        "referendums": {
+          "title": "Talooyin Dastuurka Adduunka",
+          "subtitle": "Codee qaabihii aasaasiga ah"
+        }
+      },
+      "parties": {
+        "discover": "Hel",
+        "search_placeholder": "Raadi xisbiyada...",
+        "tabs": {
+          "new": "Cusub",
+          "trending": "Caanka ah",
+          "top": "Sare"
+        },
+        "no_parties_found": "Ma laha xisbiyo",
+        "loading_more": "Soo dejinaya xisbiyo dheeraad ah...",
+        "party_details": "Faahfaahinta xisbiga",
+        "share_party": "Wadaag xisbiga",
+        "my_party": "Xisbigayga",
+        "found_party_and_earn": "Aasaad xisbi oo hel maalgelin",
+        "learn_more": "Wax badan baro",
+        "party_management": "Maamulka xisbiga",
+        "edit_party_info": "Wax ka beddel macluumaadka xisbiga",
+        "dissolve_party": "Burbur xisbiga",
+        "dialogs": {
+          "found_party": "Aasaas xisbi",
+          "party_name": "Magaca xisbiga",
+          "description_optional": "Sharaxaad (ikhtiyaari ah)",
+          "official_link_optional": "Xiriirka rasmiga ah (ikhtiyaari ah)",
+          "founding": "Aasaasaya...",
+          "updating": "Cusbooneysiina...",
+          "found": "Aasaas",
+          "save": "Keydso",
+          "dissolving": "Burburaya...",
+          "about_to_found": "Waxaad aasaasaysaa xisbi cusub.",
+          "about_to_dissolve": "Waxaad doonaysaa inaad buriso {partyName}. Tani ma noqon karto.",
+          "leader_warning_found": "Hadda waxaad tahay hogaamiyaha {partyName}. Abuurida xisbi cusub ayaa burin doonta xisbigaaga hadda."
+        },
+        "detail": {
+          "failed_to_load": "Waxaa la guuldareystay in la soo dejiyo xogta xisbiga",
+          "party_not_found": "Ma laha xisbi",
+          "error_loading": "Qalad soo dejinta xisbiga",
+          "back_to_parties": "Ku noqo xisbiyada",
+          "description": "Sharaxaad",
+          "party_info": "Macluumaadka xisbiga",
+          "leader": "Hogaanka",
+          "website": "Website",
+          "not_found_description": "Xisbiga aad raadinayso ma jiro ama waa la burburiyey."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "Doorashada tijaanada ayaa dhawaan imaanaysa. Xaqiiji aqoonsigaaga hadda si aad u diyaar u noqoto marka codbixinta la furo.",
+          "verify_button": "Hore u xaqiiji"
+        },
+        "coming_soon": {
+          "description": "Doorashooyinka tijaabada ah waxay bilaaban doonaan dhawaan. Waxaa horey loo xaqiijiyay, waxaadna diyaar u tahay inaad cod bixiso marka doorashadu bilaabato."
+        },
+        "no_active_election": "Doorasho firfircoon ma jirto"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "AKOONKA",
+          "account_info": "Macluumaadka akoonka",
+          "language": "Luuqadda"
+        },
+        "help": {
+          "title": "CAWIMADA",
+          "faq": "Su'aalaha la isticmaalo",
+          "support": "Taageero"
+        },
+        "source_code": {
+          "title": "KODKA ILADA"
+        },
+        "legal": {
+          "title": "SHARCI",
+          "terms": "Shuruudaha isticmaalka",
+          "privacy": "Siyaasadda sirta"
+        }
+      }
+    },
+    "faq": {
+      "title": "Su'aalaha la isticmaalo",
+      "items": {
+        "app-purpose": {
+          "question": "Maxay tahay Jamhuuriyadda Adduunka?",
+          "answer": "Jamhuuriyadda Adduunka waa madal maamul oo furan oo leh lacagta dijitaalka ah ee ay leedahay oo ujeeddeedu tahay inay dhiso qaab dimuqraadiga ah ee nabadda iyo amniga adduunka."
+        },
+        "what-is-wdd": {
+          "question": "WDD waa maxay?",
+          "answer": "WDD (drachma adduunka) waa lacagta rasmiga ah ee blockchain-native ee Jamhuuriyadda Adduunka, oo la soo saaray sida token caadiga ah ee ERC-20 ee shabakadaha badan."
+        },
+        "drachma-value": {
+          "question": "Xaggee ka timaadaa qiimaha drachma?",
+          "answer": "Drachma waxay helaysaa qiimaha ay ka soo baxday inay tahay lacagta rasmiga ah ee Jamhuuriyadda Adduunka. Marka shuruudaha platform-ka maamulka adduunka ee aanu leenahay ay koraan, WDD waa noqon karaa gaadhiyaha qaybinta adduunka iyo wakhtiga ugu muhiimsan ee wadaagga dhaqaalaha adduunka."
+        },
+        "identity-verification": {
+          "question": "Sidee xaqiijinta aqoonsiga ay u shaqeysaa?",
+          "answer": "Jamhuuriyadda Adduunka waxay isticmaashaa Self si loo xaqiijiyo aqoonsigaaga adigoo adeegsanaya baasabooradaaga ama aqoonsiga qaranka. Sirtaada waa la ilaaliyay—Self kaliya wuxuu xaqiijiyaa inaad qof run ah tahay iyadoo aan waxba ka muujin macluumaadkaaga shaqsiyeed."
+        },
+        "test-elections": {
+          "question": "Maxa ay tahay doorashada tijaabada?",
+          "answer": "Doorashooyinka tijaabada ah waa tijaabooyin ay muwaadiniinta Jamhuuriyadda Adduunka u codeeyaan xisbiyada siyaasadeed. Xisbi kastaa si toos ah ayaa loogu daraa warqadda codbixinta, iyadoo la hubinayo fursad loo siman yahay dhammaan hoggaamiyeyaasha hamiga leh."
+        },
+        "party-subsidies": {
+          "question": "Sidee u shaqeeyaan kaalmooyinka xisbiyadu?",
+          "answer": "Jamhuuriyadda Adduunka waxay maalgelisaa xisbiyada siyaasadeed iyadoo ku saleysan taageerada dimuqraadiga. Waxaan u qeybinaa deeqaha WDD si waafaqsan natiijooyinka doorashada, taasoo xaqiijineysa in cod kasta uu si toos ah u kordhiyo dhaqaalaha xisbiga."
+        },
+        "verification-required": {
+          "question": "Ma loo baahan yahay xaqiijin si looga qayb qaato?",
+          "answer": "Xaqiijinta aqoonsiga waxaa loo baahan yahay oo kaliya codaynta. Waad asaasikartaa xisbiyo waana wareejin kartaa WDD-ga laga helo kaalmada xisbiyada adoon lahayn xaqiijin."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "Kisaska"
+      },
+      "balance": "Dhammaan",
+      "modals": {
+        "sign_out": {
+          "confirm": "Ma hubtaa inaad rabto inaad ka bixito?"
+        },
+        "send": {
+          "button": "Dir",
+          "title": "Dir WDD",
+          "choice_description": "Dooro sida aad u doonayso inaad u dirto drachma-gaaga.",
+          "transfer_to_citizen": {
+            "title": "Wareeji",
+            "description": "Wareeji WDD muwaadin kale",
+            "username_label": "Magaca isticmaalka qaataha"
+          },
+          "withdraw_to_crypto": {
+            "title": "Bixi",
+            "description": "Bixi WDD koonto crypto ah",
+            "amount_label": "Lacagta",
+            "address_label": "Cinwaanka kisaska",
+            "network_label": "Shabakada"
+          }
+        },
+        "trade": {
+          "base": "Base WDD Uniswap",
+          "monad": "Monad WDD Uniswap",
+          "world": "World Chain WDD Uniswap",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "Tani waxay tirtiri doontaa akoonkaaga si joogto ah waxayna ka saari doontaa dhammaan xogtaaga serverkeena. Tallaaboobadan ma la soo celin karo — fadlan sii wad si taxadar leh.",
+          "deleting": "Tirtiraya..."
+        },
+        "receive": {
+          "button": "Heli",
+          "title": "Heli WDD",
+          "description": "Wadaag magacaaga isticmaalka si aad u hesho WDD asxaabtaada ka."
+        }
+      },
+      "sections": {
+        "identification": "AASAS",
+        "account": "AKOONKA",
+        "danger_zone": "GOOBTA KHATARADA",
+        "delete_account": {
+          "description": "Si toos ah ka saar dhammaan xogtaada"
+        }
+      },
+      "username": {
+        "label": "Magaca isticmaalaha",
+        "edit_title": "Wax ka beddel magaca isticmaalaha",
+        "description": "3-30 xaraf, alfanumerik, hooska iyo xariiqyada"
+      },
+      "history": {
+        "title": "Taariikhda"
+      },
+      "transactions": {
+        "failed_to_load": "Waxaa la guuldareystay in la soo dejiyo",
+        "no_transactions": "Wali ma jiraan wax ganacsi ah",
+        "just_now": "Hadda",
+        "minutes_ago": "{minutes}daqiiqo kahor",
+        "hours_ago": "{hours}saac kahor",
+        "days_ago": "{days}maalin kahor",
+        "filter": {
+          "all_types": "Dhammaan noocyada",
+          "select_type": "Dooro nooca"
+        },
+        "types": {
+          "withdrawal": "Bixinta",
+          "received": "La helay",
+          "sent": "La diray"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "Sawir QR-kan si aad isaga xaqiijiso adigoo adeegsanaya Self.",
+        "status_completed": "La xaqiijiyay",
+        "status_not_completed": "Lama xaqiijin",
+        "mobile_dialog_description": "Waxaa lagu geyn doonaa app-ka Self si aad u dhammaystirto xaqiijinta.",
+        "supported_countries": "Dalalka la taageeray",
+        "support_telegram": "Taageerada Self"
+      },
+      "verification_warning": {
+        "title": "Heli xaqiijinta"
+      },
+      "verification_explainer": {
+        "title": "Xaqiijinta ayaa loo baahan yahay",
+        "description": "Fadlan dhameeyso xaqiijinta si aad u soo saarto tokens."
+      },
+      "re_verification_explainer": {
+        "title": "Xaqiijinta dib ayaa loo baahan yahay",
+        "description": "Si aad u ilaaliso ammaankaaga, waxaan u baahanahay xaqiijin cusub ka hor hawlaha khatarta ah sida soo saarista. Tani waxay kaaga caawinaysaa inaad ilaaliso akoonkaaga ka dib gelitaanka aan loo ogolayn."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "Badhyada badan waxay muujiyaan WDD marka la isticmaalo gacanta ah ee la soo geliyay silsiladda la dooray adigoo adeegsanaya ",
+      "contract_address": "ciwaanka heerka"
+    }
+  },
+  "toasts": {
+    "generic_error": "Khalad ayaa dhacay",
+    "copied": "La koobiyey",
+    "wallet": {
+      "no_wallet": "Cinwaanka kisaska ma jiro",
+      "min_amount": "Ugu yaraan 10 WDD",
+      "sent": "La diriyay",
+      "failed": "Sumsub ID ayaa loo baahan yahay",
+      "account_deleted": "Akoonka waa la tirtiray",
+      "delete_failed": "Tirtirida akoonka way fashilantay",
+      "contract_address_error": "Lama soo qaadi karo cinwaanka heshiiska",
+      "sign_out_failed": "Ka baxid ku guuldareystay"
+    },
+    "parties": {
+      "founded": "Xisbiga waa la aasaasay",
+      "found_failed": "Aasaasida xisbiga way fashilantay",
+      "found_error": "Qalad aasaasida xisbiga",
+      "updated": "Waa la cusbooneysiiyay",
+      "update_failed": "Cusbooneysiinta way fashilantay",
+      "update_error": "Qalad cusbooneysiinta xisbiga",
+      "transferred": "Waa la wareejiyay",
+      "transfer_failed": "Wareejinta hogaanka way fashilantay",
+      "transfer_error": "Qalad wareejinta hogaanka",
+      "dissolved": "Waa la burburiyey",
+      "dissolve_failed": "Burburinta way fashilantay",
+      "dissolve_error": "Qalad burburinta xisbiga"
+    }
+  },
+  "common": {
+    "confirm": "Xaqiiji",
+    "sign_in": "Gal",
+    "max": "Guud",
+    "loading": "Soo dejinaya...",
+    "processing": "Waxaa la shaqeynayaa...",
+    "insufficient_balance": "WDD ma filna",
+    "delete_account": "Tirtir akoonka",
+    "sign_out": "Ka bax",
+    "invalid_address": "Cinwaan aan sax ahayn",
+    "coming_soon": "Dhawaan",
+    "withdraw": "Ka soo bixi",
+    "trade": "Ganacsiga",
+    "continue": "Sii wad",
+    "updating": "Cusbooneysiinta...",
+    "save": "Keydin",
+    "vote": "Codsi",
+    "close": "Xidh"
+  },
+  "auth": {
+    "choose_method": "Dooro habka aad doorbidayso.",
+    "sign_in_with_google": "Sii wad Google",
+    "sign_in_with_passkey": "Isticmaal biometrics",
+    "sign_in_or_create": "Ka heli akoonkaaga passkey adeegsiga, farahaanka farahaankaaga, duubista wajiga ama qufulka shaashadda adeegsiga.",
+    "create_account": "Abuur akoon",
+    "create_passkey_name": "Abuur magaca passkey",
+    "passkey_name_description": "Magacaabi passkey-kaaga si aad u aqoonsato maamulaha erayga sirta ah.",
+    "passkey_name": "Magaca passkey"
+  }
+}

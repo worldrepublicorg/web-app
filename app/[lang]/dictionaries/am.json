@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "ሜኑ",
+    "world_republic": "የዓለም ሪፓብሊክ"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "ምርጫዎች",
+        "referendums": "የህዝብ ድምጽ"
+      },
+      "sections": {
+        "parties": {
+          "title": "የፖለቲካ ፓርቲዎች",
+          "subtitle": "በጋራ እሴቶች ዙሪያ በዓለም አቀፍ ደረጃ ይተባበሩ"
+        },
+        "elections": {
+          "title": "የሙከራ ምርጫዎች",
+          "subtitle": "በዓለም አቀፍ ዴሞክራሲ ይሙከሩ"
+        },
+        "referendums": {
+          "title": "የዓለም ሕገ መንግሥታዊ የህዝብ ድምጽ",
+          "subtitle": "በመሰረታዊ መርሆቻችን ድምጽ ይስጡ"
+        }
+      },
+      "parties": {
+        "discover": "አግኝ",
+        "search_placeholder": "ፓርቲዎችን ፈልግ...",
+        "tabs": {
+          "new": "አዲስ",
+          "trending": "ታዋቂ",
+          "top": "ከፍተኛ"
+        },
+        "no_parties_found": "ፓርቲ አልተገኘም",
+        "loading_more": "ተጨማሪ ፓርቲዎች በመጫን ላይ...",
+        "party_details": "የፓርቲ ዝርዝሮች",
+        "share_party": "ፓርቲ ያጋሩ",
+        "my_party": "የእኔ ፓርቲ",
+        "found_party_and_earn": "ፓርቲ ይፈጥሩ እና ድጎማዎች ያግኙ",
+        "learn_more": "ተጨማሪ ይማሩ",
+        "party_management": "የፓርቲ አስተዳደር",
+        "edit_party_info": "የፓርቲ መረጃ ያርትዑ",
+        "dissolve_party": "ፓርቲ ፍታ",
+        "dialogs": {
+          "found_party": "ፓርቲ ይፍጠሩ",
+          "party_name": "የፓርቲ ስም",
+          "description_optional": "መግለጫ (አማራጭ)",
+          "official_link_optional": "ይፋዊ አገናኝ (አማራጭ)",
+          "founding": "በመፍጠር ላይ...",
+          "updating": "በማዘመን ላይ...",
+          "found": "ፍጠር",
+          "save": "አስቀምጥ",
+          "dissolving": "በመፍታት ላይ...",
+          "about_to_found": "አዲስ ፓርቲ ለመፍጠር ነዎታል።",
+          "about_to_dissolve": "እርስዎ {partyName}ን ለመፍረስ ነዎት። ይህ ተግባር ሊመለስ አይችልም።",
+          "leader_warning_found": "አሁን {partyName} አመራር ነዎት። አዲስ ፓርቲ መመስረት የአሁኑን ፓርቲዎን ያበቃል።"
+        },
+        "detail": {
+          "failed_to_load": "የፓርቲ ውሂብ መጫን አልተሳካም",
+          "party_not_found": "ፓርቲ አልተገኘም",
+          "error_loading": "ፓርቲ በመጫን ላይ ስህተት",
+          "back_to_parties": "ወደ ፓርቲዎች ተመለስ",
+          "description": "መግለጫ",
+          "party_info": "የፓርቲ መረጃ",
+          "leader": "አመራር",
+          "website": "ድህረ ገጽ",
+          "not_found_description": "የሚፈልጉት ፓርቲ የለም ወይም ተፈትቷል።"
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "የፈተና ምርጫዎች በቅርብ ጊዜ ይመጣሉ። የማስመዝገቢያ ሂደቱ ሲከፈት ዝግጁ ለመሆን አሁን ማንነትዎን ያረጋግጡ።",
+          "verify_button": "ቀደም ሲል ያረጋግጡ"
+        },
+        "coming_soon": {
+          "description": "የፈተና ምርጫዎች በቅርቡ ይጀምራሉ። እርስዎ አስረጋግጠዋል እና ምርጫው ሲጀምር ለመድረግ ዝግጁ ነዎት።"
+        },
+        "no_active_election": "ምንም ንቁ ምርጫ የለም"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "መለያ",
+          "account_info": "የመለያ መረጃ",
+          "language": "ቋንቋ"
+        },
+        "help": {
+          "title": "እርዳታ",
+          "faq": "ተደጋጋሚ ጥያቄዎች",
+          "support": "ድጋፍ"
+        },
+        "legal": {
+          "title": "ሕጋዊ",
+          "terms": "የአጠቃቀም ውሎች",
+          "privacy": "የግላዊነት መመሪያዎች"
+        },
+        "source_code": {
+          "title": "ሶርስ ኮድ"
+        }
+      }
+    },
+    "faq": {
+      "title": "ተደጋጋሚ ጥያቄዎች",
+      "items": {
+        "app-purpose": {
+          "question": "የዓለም ሪፐብሊክ ምንድን ነው?",
+          "answer": "የዓለም ሪፐብሊክ የራሱ የሆነ ዲጂታል ገንዘብ ያለው ክፍት ምንጭ የመንግስት መድረክ ነው፣ ዓለም አቀፍ ሰላም እና ደህንነት ለመፍጠር ዲሞክራሲያዊ ማዕቀፍ ለመመስረት የሚተጋ ነው።"
+        },
+        "what-is-wdd": {
+          "question": "WDD ምንድን ነው?",
+          "answer": "WDD (የዓለም ድራክማ) የዓለም ሪፐብሊክ blockchain-native ኦፊሴላዊ ገንዘብ ነው፣ በበርካታ አውታረ መረቦች ውስጥ እንደ መደበኛ ERC-20 ቶከን ተሰርቷል።"
+        },
+        "drachma-value": {
+          "question": "የድራክማ ዋጋ ከየት ይመጣል?",
+          "answer": "ድራክማው ዋጋውን ከዓለም ሪፐብሊክ ኦፊሴላዊ ምንዛሪ ሆኖ ያገኘዋል። የእኛ ዓለም አቀፍ አስተዳደር መድረክ ቅድሚያ ሲያገኝ፣ WDD የዓለም አቀፍ እንደገና ስርጭት መኪና እና በዓለም ኢኮኖሚ ውስጥ ዋናው የመለዋወጫ መካከለኛ ሊሆን ይችላል።"
+        },
+        "identity-verification": {
+          "question": "የማንነት ማረጋገጥ እንዴት ይሰራል?",
+          "answer": "የዓለም ሪፐብሊክ ለማንነት ማረጋገጫ Selfን ይጠቀማል። የግላዊነትዎ ጥበቃ የተጠበቀ ነው—Self የግል መረጃዎን ሳያጋልብ እውነተኛ ሰው መሆንዎን ብቻ ያረጋግጣል።"
+        },
+        "test-elections": {
+          "question": "የሙከራ ምርጫዎች ምንድን ናቸው?",
+          "answer": "የሙከራ ምርጫዎች የዓለም ሪፓብሊክ ዜጎች ለፖለቲካ ፓርቲዎች ድምጽ የሚሰጡበት ሙከራዎች ናቸው። እያንዳንዱ ፓርቲ በራስ-ሰር በምርጫ ካርዱ ላይ ይካተታል፣ ይህም ለሁሉም ፈላጊ መሪዎች እኩል እድል ያረጋግጣል።"
+        },
+        "party-subsidies": {
+          "question": "የፓርቲ ድጎማዎች እንዴት ይሰራሉ?",
+          "answer": "የዓለም ሪፓብሊክ በዲሞክራሲያዊ ድጋፍ ላይ በመመስረት ለፖለቲካ ፓርቲዎች ገንዘብ ይሰጣል። ከምርጫ ውጤቶች ጋር ተመጣጣኝ የሆነ የWDD እርዳታዎችን እናሰራጫለን።"
+        },
+        "verification-required": {
+          "question": "ለመሳተፍ ማረጋገጫ ያስፈልገኛል?",
+          "answer": "የማንነት ማረጋገጫ ለምርጫ ብቻ ያስፈልጋል። ማረጋገጫ ሳያስፈልግ ፓርቲዎችን መመስረት እና ከፓርቲ ድጋፍ የተገኘውን WDD ማስተላለፍ ይችላሉ።"
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "የባህር ዳር"
+      },
+      "balance": "ሂሳብ",
+      "modals": {
+        "sign_out": {
+          "confirm": "እርግጠኛ ነዎት መውጣት ይፈልጋሉ?"
+        },
+        "send": {
+          "button": "ላክ",
+          "title": "WDD ላክ",
+          "choice_description": "የእርስዎን drachma እንዴት ማስተላለፍ እንደሚፈልጉ ይምረጡ።",
+          "transfer_to_citizen": {
+            "title": "ማስተላለፍ",
+            "description": "WDDን ለሌላ ዜጋ ማስተላለፍ",
+            "username_label": "የተቀባዩ የተጠቃሚ ስም"
+          },
+          "withdraw_to_crypto": {
+            "title": "ውጣ",
+            "description": "WDDን ወደ ክሪፕቶ ሂሳብ ውጣ",
+            "amount_label": "መጠን",
+            "address_label": "የባህር ዳር አድራሻ",
+            "network_label": "አውታረ መረብ"
+          }
+        },
+        "trade": {
+          "base": "Base WDD በUniswap ላይ",
+          "monad": "Monad WDD በUniswap ላይ",
+          "world": "World Chain WDD በUniswap ላይ",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "ይህ የእርስዎን መለያ ለዘለዓለም ያጠፋል እና ሁሉንም ውሂቦችዎን ከሰርቨሮቻችን ያስወግዳል። ይህ እርምጃ ሊመለስ አይችልም — እባክዎ በጥንቃቄ ይሂዱ።",
+          "deleting": "እየተጠፋ ነው..."
+        },
+        "receive": {
+          "button": "ተቀበል",
+          "title": "WDD ተቀበል",
+          "description": "ከጓደኞችዎ የWDD ለመቀበል የተጠቃሚ ስምዎን ያጋሩ።"
+        }
+      },
+      "sections": {
+        "identification": "ማንነት ማረጋገጥ",
+        "account": "መለያ",
+        "danger_zone": "አደጋ ዞን",
+        "delete_account": {
+          "description": "ሁሉንም የእርስዎን ውሂብ ለዘለዓለም ያስወግዱ"
+        }
+      },
+      "username": {
+        "label": "የተጠቃሚ ስም",
+        "edit_title": "የተጠቃሚ ስም አርም",
+        "description": "3-30 ቁምፊዎች፣ አልፋ-አሃዝ፣ የታች መስመሮች እና ሰረዝ"
+      },
+      "history": {
+        "title": "ታሪክ"
+      },
+      "transactions": {
+        "failed_to_load": "መጫን አልተሳካም",
+        "no_transactions": "እስካሁን ምንም ግብይቶች የሉም",
+        "just_now": "አሁን",
+        "minutes_ago": "ከ{minutes}ደቂቃ በፊት",
+        "hours_ago": "ከ{hours}ሰዓት በፊት",
+        "days_ago": "ከ{days}ቀን በፊት",
+        "filter": {
+          "all_types": "ሁሉም አይነቶች",
+          "select_type": "አይነት ይምረጡ"
+        },
+        "types": {
+          "withdrawal": "መውጣት",
+          "received": "ተቀብሏል",
+          "sent": "ተልኳል"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "ይህን ኪዩአር ኮድ ይስካኑ በ Self ለማረጋገጥ።",
+        "status_completed": "ተረጋግጧል",
+        "status_not_completed": "አልተረጋገጠም",
+        "mobile_dialog_description": "በራስ መተግበሪያ ማረጋገጫን ለማጠናቀቅ ተዘልቆ ይሄዳል።",
+        "supported_countries": "የሚደገፉ አገሮች",
+        "support_telegram": "Self ድጋፍ"
+      },
+      "verification_warning": {
+        "title": "ማረጋገጫ ያግኙ"
+      },
+      "verification_explainer": {
+        "title": "ማረጋገጫ ያስፈልጋል",
+        "description": "እባክዎ ቶከኖችን ለመሳል ማረጋገጫውን ያጠናቅቁ።"
+      },
+      "re_verification_explainer": {
+        "title": "እንደገና ማረጋገጫ ያስፈልጋል",
+        "description": "ለደህንነትዎ፣ እንደ ማውጣት ያሉ ሚሳዮች እርምጃዎች ከመውሰድዎ በፊት አዲስ ማረጋገጫ እንፈልጋለን። ይህ ሂሳብዎን ከመግባት ማግኘት ለመከላከል ይረዳል።"
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "አብዛኛዎቹ የገንዘብ ቦርሳዎች WDDን ከመረጡት ሰንሰለት ላይ በእጁ ከገቡ በኋላ ብቻ ያሳያሉ። በእሱ ",
+      "contract_address": "የኮንትራት አድራሻ"
+    }
+  },
+  "toasts": {
+    "generic_error": "ስህተት ተከስቷል",
+    "copied": "ተገልብጧል",
+    "wallet": {
+      "no_wallet": "የባህር ዳር አድራሻ የለም",
+      "min_amount": "ዝቅተኛ 10 WDD",
+      "sent": "ተላከ",
+      "failed": "Sumsub ID ያስፈልጋል",
+      "account_deleted": "መለያ ተጠፍቷል",
+      "delete_failed": "መለያ ማጥፋት አልተሳካም",
+      "contract_address_error": "ወደ የስምምነት አድራሻ ማውጣት አይቻልም",
+      "sign_out_failed": "ውጣ አልተሳካም"
+    },
+    "parties": {
+      "founded": "ፓርቲ ተመሠረተ",
+      "found_failed": "ፓርቲ መመሠረት አልተሳካም",
+      "found_error": "ፓርቲ ሲመሠረት ስህተት",
+      "updated": "ተዘምኗል",
+      "update_failed": "ማዘመን አልተሳካም",
+      "update_error": "ፓርቲ ሲዘምን ስህተት",
+      "transferred": "ተላልፏል",
+      "transfer_failed": "አመራር ማስተላለፍ አልተሳካም",
+      "transfer_error": "አመራር ሲተላለፍ ስህተት",
+      "dissolved": "ተፈትቷል",
+      "dissolve_failed": "መፍታት አልተሳካም",
+      "dissolve_error": "ፓርቲ ሲፈታ ስህተት"
+    }
+  },
+  "common": {
+    "confirm": "ማረጋገጥ",
+    "sign_in": "መግባት",
+    "max": "ከፍተኛ",
+    "loading": "እየተጫነ ነው...",
+    "processing": "በማስተካከል ላይ...",
+    "insufficient_balance": "በቂ ያልሆነ WDD",
+    "delete_account": "መለያ ሰርዝ",
+    "sign_out": "ውጣ",
+    "invalid_address": "ልክ ያልሆነ አድራሻ",
+    "coming_soon": "በቅርብ ይመጣል",
+    "withdraw": "ማውጣት",
+    "trade": "ንግድ",
+    "continue": "ቀጥል",
+    "updating": "በመቅረጽ ላይ...",
+    "save": "አስቀምጥ",
+    "vote": "መጥየት",
+    "close": "ዝጋ"
+  },
+  "auth": {
+    "choose_method": "የሚመርጡትን ዘዴ ይምረጡ.",
+    "sign_in_with_google": "በGoogle ይቀጥሉ",
+    "sign_in_with_passkey": "ባዮሜትሪክ ይጠቀሙ",
+    "sign_in_or_create": "የይለፍ ቁልፍዎን፣ የጣት አሻሻድ፣ የፊት ስካን ወይም የስክሪን ማገድ በመጠቀም አካውንትዎን ይድረሱ።",
+    "create_account": "መለያ ፍጠር",
+    "create_passkey_name": "የይለፍ ቁልፍ ስም ፍጠር",
+    "passkey_name_description": "የይለፍ ቁልፍዎን በይለፍ ቃል አስተዳዳሪዎ ውስጥ ለመለየት ይሰይሙ።",
+    "passkey_name": "የይለፍ ቁልፍ ስም"
+  }
+}

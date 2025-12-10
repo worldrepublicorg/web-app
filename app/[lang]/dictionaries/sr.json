@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "Мени",
+    "world_republic": "Светска Република"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "Избори",
+        "referendums": "Референдуми"
+      },
+      "sections": {
+        "parties": {
+          "title": "Политичке партије",
+          "subtitle": "Уједините се глобално око заједничких вредности"
+        },
+        "elections": {
+          "title": "Тест избори",
+          "subtitle": "Експериментишите са глобалном демократијом"
+        },
+        "referendums": {
+          "title": "Светски уставни референдум",
+          "subtitle": "Гласајте о нашим основним принципима"
+        }
+      },
+      "parties": {
+        "discover": "Откријте",
+        "search_placeholder": "Претрага странака...",
+        "tabs": {
+          "new": "Нове",
+          "trending": "Трендови",
+          "top": "Топ"
+        },
+        "no_parties_found": "Странке нису пронађене",
+        "loading_more": "Учитавање више странака...",
+        "party_details": "Детаљи странке",
+        "share_party": "Подели странку",
+        "my_party": "Моја странка",
+        "found_party_and_earn": "Оснујте странку и добијте субвенције",
+        "learn_more": "Сазнајте више",
+        "party_management": "Управљање странком",
+        "edit_party_info": "Уреди информације о странци",
+        "dissolve_party": "Распусти странку",
+        "dialogs": {
+          "found_party": "Оснуј странку",
+          "party_name": "Име странке",
+          "description_optional": "Опис (опционално)",
+          "official_link_optional": "Званична веза (опционално)",
+          "founding": "Оснивање...",
+          "updating": "Ажурирање...",
+          "found": "Оснуј",
+          "save": "Сачувај",
+          "dissolving": "Распуштање...",
+          "about_to_found": "Ускоро ћете основати нову странку.",
+          "about_to_dissolve": "Управо ћете распустити {partyName}. Ова радња се не може поништити.",
+          "leader_warning_found": "Тренутно сте вођа {partyName}. Оснивање нове странке ће распустити вашу тренутну странку."
+        },
+        "detail": {
+          "failed_to_load": "Неуспешно учитавање података странке",
+          "party_not_found": "Странка није пронађена",
+          "error_loading": "Грешка при учитавању странке",
+          "back_to_parties": "Назад на странке",
+          "description": "Опис",
+          "party_info": "Информације о странци",
+          "leader": "Вођа",
+          "website": "Веб сајт",
+          "not_found_description": "Странка коју тражите не постоји или је распуштена."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "Тест избори стижу ускоро. Потврдите свој идентитет сада да будете спремни када се гласање отвори.",
+          "verify_button": "Претходна верификација"
+        },
+        "coming_soon": {
+          "description": "Тест избори ће ускоро почети. Већ сте верификовани и спремни да гласате чим избори почну."
+        },
+        "no_active_election": "Нема активних избора"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "РАЧУН",
+          "account_info": "Информације о рачуну",
+          "language": "Језик"
+        },
+        "help": {
+          "title": "ПОМОЋ",
+          "faq": "ЧПП",
+          "support": "Подршка"
+        },
+        "legal": {
+          "title": "ПРАВНО",
+          "terms": "Услови коришћења",
+          "privacy": "Политика приватности"
+        },
+        "source_code": {
+          "title": "ИЗВОРНИ КОД"
+        }
+      }
+    },
+    "faq": {
+      "title": "ЧПП",
+      "items": {
+        "app-purpose": {
+          "question": "Шта је Светска Република?",
+          "answer": "Светска република је платформа за управљање отвореног кода са сопственом дигиталном валутом која има за циљ успостављање демократског оквира за глобални мир и безбедност."
+        },
+        "what-is-wdd": {
+          "question": "Шта је WDD?",
+          "answer": "ВДД (светска драма) је званична валута Светске републике која је blockchain-native, издата као стандардни ERC-20 токен на више мрежа."
+        },
+        "drachma-value": {
+          "question": "Одакле драхма добија своју вредност?",
+          "answer": "Драхма добија своју вредност од тога што је званична валута Светске републике. Како легитимитет наше глобалне платформе за управљање расте, ВДД може постати средство глобалне прерасподеле и главно средство размене у светској економији."
+        },
+        "identity-verification": {
+          "question": "Како функционише верификација идентитета?",
+          "answer": "Светска република користи Self за верификацију вашег идентитета путем вашег пасоша или националне личне карте. Ваша приватност је заштићена—Self само потврђује да сте права особа без откривања ваших личних података."
+        },
+        "test-elections": {
+          "question": "Шта су тест избори?",
+          "answer": "Тест избори су експерименти у којима грађани Светска Република гласају за политичке странке. Свака странка је аутоматски укључена на гласачки листић, осигуравајући једнаке могућности за све амбициозне лидере."
+        },
+        "party-subsidies": {
+          "question": "Како функционишу страначке субвенције?",
+          "answer": "Светска Република финансира политичке странке на основу демократске подршке. Делимо WDD грантове пропорционално изборним резултатима, осигуравајући да сваки глас директно повећава финансијске ресурсе странке."
+        },
+        "verification-required": {
+          "question": "Da li je potrebna verifikacija za učešće?",
+          "answer": "Verifikacija identiteta je potrebna samo za glasanje. Možete osnivati stranke i prenositi WDD stečen od stranačkih subvencija bez verifikacije."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "Новчаник"
+      },
+      "balance": "Стање",
+      "modals": {
+        "sign_out": {
+          "confirm": "Да ли сте сигурни да желите да се одјавите?"
+        },
+        "send": {
+          "button": "Пошаљи",
+          "title": "Пошаљи WDD",
+          "choice_description": "Изаберите како желите да пошаљете своју драхму.",
+          "transfer_to_citizen": {
+            "title": "Пренети",
+            "description": "Пренети WDD другом грађанину",
+            "username_label": "Корисничко име примаоца"
+          },
+          "withdraw_to_crypto": {
+            "title": "Повуци",
+            "description": "Повуците WDD на крипто налог",
+            "amount_label": "Износ",
+            "address_label": "Адреса новчаника",
+            "network_label": "Мрежа"
+          }
+        },
+        "trade": {
+          "base": "Base WDD на Uniswap",
+          "monad": "Monad WDD на Uniswap",
+          "world": "World Chain WDD на Uniswap",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "Ово ће трајно обрисати ваш рачун и уклонити све ваше податке са наших сервера. Ова акција се не може поништити — молимо наставите опрезно.",
+          "deleting": "Брише се..."
+        },
+        "receive": {
+          "button": "Прими",
+          "title": "Прими WDD",
+          "description": "Поделите своје корисничко име да бисте примали WDD од пријатеља."
+        }
+      },
+      "sections": {
+        "identification": "ИДЕНТИФИКАЦИЈА",
+        "account": "РАЧУН",
+        "danger_zone": "ОПАСНА ЗОНА",
+        "delete_account": {
+          "description": "Трајно уклоните све своје податке"
+        }
+      },
+      "username": {
+        "label": "Корисничко име",
+        "edit_title": "Уреди корисничко име",
+        "description": "3-30 знакова, алфанумерички, подвлаке и цртице"
+      },
+      "history": {
+        "title": "Историја"
+      },
+      "transactions": {
+        "failed_to_load": "Неуспешно учитавање",
+        "no_transactions": "Још нема трансакција",
+        "just_now": "Управо сада",
+        "minutes_ago": "пре {minutes}м",
+        "hours_ago": "пре {hours}ч",
+        "days_ago": "пре {days}д",
+        "filter": {
+          "all_types": "Сви типови",
+          "select_type": "Изаберите тип"
+        },
+        "types": {
+          "withdrawal": "Повлачење",
+          "received": "Примљено",
+          "sent": "Послато"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "Скенирајте овај QR код да бисте се верификовали преко Self.",
+        "status_completed": "Проверено",
+        "status_not_completed": "Није проверено",
+        "mobile_dialog_description": "Бићете преусмерени у Self апликацију да довршите верификацију.",
+        "supported_countries": "Подржане земље",
+        "support_telegram": "Подршка Self"
+      },
+      "verification_warning": {
+        "title": "Добијте верификацију"
+      },
+      "verification_explainer": {
+        "title": "Потребна је верификација",
+        "description": "Молимо завршите верификацију за повлачење токена."
+      },
+      "re_verification_explainer": {
+        "title": "Поновна верификација је потребна",
+        "description": "За вашу безбедност, тражимо свежу верификацију пре осетљивих радњи као што су повлачења. Ово помаже заштитити ваш рачун од неовлашћеног приступа."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "Већина новчаника приказује WDD тек након што се ручно увезе на одабраном ланцу помоћу његове ",
+      "contract_address": "адресе уговора"
+    }
+  },
+  "toasts": {
+    "generic_error": "Дошло је до грешке",
+    "copied": "Копирано",
+    "wallet": {
+      "no_wallet": "Нема адресе новчаника",
+      "min_amount": "Минимум 10 WDD",
+      "sent": "Послато",
+      "failed": "Потребан је Sumsub ID",
+      "account_deleted": "Рачун обрисан",
+      "delete_failed": "Брисање рачуна није успело",
+      "contract_address_error": "Не може се подићи на адресу уговора",
+      "sign_out_failed": "Одјава није успела"
+    },
+    "parties": {
+      "founded": "Странка основана",
+      "found_failed": "Оснивање странке није успело",
+      "found_error": "Грешка приликом оснивања странке",
+      "updated": "Ажурирано",
+      "update_failed": "Ажурирање није успело",
+      "update_error": "Грешка приликом ажурирања странке",
+      "transferred": "Пренето",
+      "transfer_failed": "Пренос вођства није успео",
+      "transfer_error": "Грешка приликом преноса вођства",
+      "dissolved": "Распуштена",
+      "dissolve_failed": "Распуштање није успело",
+      "dissolve_error": "Грешка приликом распуштања странке"
+    }
+  },
+  "common": {
+    "confirm": "Потврди",
+    "sign_in": "Пријави се",
+    "max": "Макс",
+    "loading": "Учитава се...",
+    "processing": "Обрада...",
+    "insufficient_balance": "Нема довољно WDD",
+    "delete_account": "Обриши налог",
+    "sign_out": "Одјави се",
+    "invalid_address": "Неважећа адреса",
+    "coming_soon": "Ускоро",
+    "withdraw": "Повуци",
+    "trade": "Трговина",
+    "continue": "Настави",
+    "updating": "Ажурирање...",
+    "save": "Сачувај",
+    "vote": "Гласај",
+    "close": "Затвори"
+  },
+  "auth": {
+    "choose_method": "Изаберите жељени начин.",
+    "sign_in_with_google": "Наставите са Google-ом",
+    "sign_in_with_passkey": "Користите биометрију",
+    "sign_in_or_create": "Приступите свом налогу помоћу passkey-а, користећи отисак прста, скенирање лица или закључавање екрана.",
+    "create_account": "Креирај налог",
+    "create_passkey_name": "Креирај име passkey-а",
+    "passkey_name_description": "Именујте свој passkey да бисте га идентификовали у управљачу лозинки.",
+    "passkey_name": "Име passkey-а"
+  }
+}

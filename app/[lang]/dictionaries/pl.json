@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "Menu",
+    "world_republic": "Republika Światowa"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "Wybory",
+        "referendums": "Referenda"
+      },
+      "sections": {
+        "parties": {
+          "title": "Partie polityczne",
+          "subtitle": "Łącz się globalnie wokół wspólnych wartości"
+        },
+        "elections": {
+          "title": "Wybory testowe",
+          "subtitle": "Eksperymentuj z globalną demokracją"
+        },
+        "referendums": {
+          "title": "Światowe referendum konstytucyjne",
+          "subtitle": "Głosuj nad naszymi podstawowymi zasadami"
+        }
+      },
+      "parties": {
+        "discover": "Odkryj",
+        "search_placeholder": "Szukaj partii...",
+        "tabs": {
+          "new": "Nowe",
+          "trending": "Popularne",
+          "top": "Najlepsze"
+        },
+        "no_parties_found": "Nie znaleziono partii",
+        "loading_more": "Ładowanie więcej partii...",
+        "party_details": "Szczegóły partii",
+        "share_party": "Udostępnij partię",
+        "my_party": "Moja partia",
+        "found_party_and_earn": "Załóż partię i otrzymaj dotacje",
+        "learn_more": "Dowiedz się więcej",
+        "party_management": "Zarządzanie partią",
+        "edit_party_info": "Edytuj informacje o partii",
+        "dissolve_party": "Rozwiąż partię",
+        "dialogs": {
+          "found_party": "Założ partię",
+          "party_name": "Nazwa partii",
+          "description_optional": "Opis (opcjonalny)",
+          "official_link_optional": "Link oficjalny (opcjonalny)",
+          "founding": "Zakładanie...",
+          "updating": "Aktualizowanie...",
+          "found": "Założ",
+          "save": "Zapisz",
+          "dissolving": "Rozwiązywanie...",
+          "about_to_found": "Zamierzasz założyć nową partię.",
+          "about_to_dissolve": "Zamierzasz rozwiązać {partyName}. Tej akcji nie można cofnąć.",
+          "leader_warning_found": "Jesteś obecnie przywódcą {partyName}. Założenie nowej partii rozwiąże twoją obecną partię."
+        },
+        "detail": {
+          "failed_to_load": "Nie udało się załadować danych partii",
+          "party_not_found": "Nie znaleziono partii",
+          "error_loading": "Błąd podczas ładowania partii",
+          "back_to_parties": "Powrót do partii",
+          "description": "Opis",
+          "party_info": "Informacje o partii",
+          "leader": "Przywódca",
+          "website": "Strona internetowa",
+          "not_found_description": "Partia, której szukasz, nie istnieje lub została rozwiązana."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "Testowe wybory nadchodzą wkrótce. Zweryfikuj teraz swoją tożsamość, aby być gotowym, gdy głosowanie się rozpocznie.",
+          "verify_button": "Weryfikuj wcześniej"
+        },
+        "coming_soon": {
+          "description": "Wybory testowe wkrótce się rozpoczną. Jesteś już zweryfikowany i gotowy do głosowania, gdy tylko wybory się zaczną."
+        },
+        "no_active_election": "Brak aktywnych wyborów"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "KONTO",
+          "account_info": "Informacje o koncie",
+          "language": "Język"
+        },
+        "help": {
+          "title": "POMOC",
+          "faq": "FAQ",
+          "support": "Wsparcie"
+        },
+        "legal": {
+          "title": "PRAWNE",
+          "terms": "Regulamin",
+          "privacy": "Polityka prywatności"
+        },
+        "source_code": {
+          "title": "KOD ŹRÓDŁOWY"
+        }
+      }
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "app-purpose": {
+          "question": "Czym jest Światowa Republika?",
+          "answer": "Republika Świata to platforma zarządzania open source z własną walutą cyfrową, która ma na celu ustanowienie demokratycznych ram dla globalnego pokoju i bezpieczeństwa."
+        },
+        "what-is-wdd": {
+          "question": "Czym jest WDD?",
+          "answer": "WDD (drachma światowa) jest oficjalną walutą natywną blockchain Republiki Świata, emitowaną jako standardowy token ERC-20 w wielu sieciach."
+        },
+        "drachma-value": {
+          "question": "Skąd bierze się wartość drachmy?",
+          "answer": "Drachma czerpie swoją wartość z bycia oficjalną walutą Republiki Świata. W miarę jak rośnie legitymizacja naszej globalnej platformy zarządzania, WDD może stać się narzędziem globalnej redystrybucji i głównym środkiem wymiany w gospodarce światowej."
+        },
+        "identity-verification": {
+          "question": "Jak działa weryfikacja tożsamości?",
+          "answer": "Republika Świata używa Self do weryfikacji Twojej tożsamości poprzez Twój paszport lub dowód osobisty. Twoja prywatność jest chroniona—Self tylko potwierdza, że jesteś prawdziwą osobą bez ujawniania Twoich danych osobowych."
+        },
+        "test-elections": {
+          "question": "Czym są wybory testowe?",
+          "answer": "Wybory testowe to eksperymenty, w których obywatele Republika Światowa głosują na partie polityczne. Każda partia jest automatycznie uwzględniana na karcie do głosowania, zapewniając równe szanse wszystkim aspirującym liderom."
+        },
+        "party-subsidies": {
+          "question": "Jak działają dotacje dla partii?",
+          "answer": "Republika Światowa finansuje partie polityczne w oparciu o poparcie demokratyczne. Rozdzielamy granty WDD proporcjonalnie do wyników wyborów, zapewniając, że każdy głos bezpośrednio zwiększa zasoby finansowe partii."
+        },
+        "verification-required": {
+          "question": "Czy do uczestnictwa wymagana jest weryfikacja?",
+          "answer": "Weryfikacja tożsamości jest wymagana tylko do głosowania. Możesz zakładać partie i przesyłać WDD uzyskane z dotacji partyjnych bez weryfikacji."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "Portfel"
+      },
+      "balance": "Saldo",
+      "modals": {
+        "sign_out": {
+          "confirm": "Na pewno się wylogować?"
+        },
+        "send": {
+          "button": "Wyślij",
+          "title": "Wyślij WDD",
+          "choice_description": "Wybierz, jak chcesz wysłać swoją drachmę.",
+          "transfer_to_citizen": {
+            "title": "Przelej",
+            "description": "Przelej WDD do innego obywatela",
+            "username_label": "Nazwa użytkownika odbiorcy"
+          },
+          "withdraw_to_crypto": {
+            "title": "Wypłać",
+            "description": "Wypłać WDD na konto krypto",
+            "amount_label": "Kwota",
+            "address_label": "Adres portfela",
+            "network_label": "Sieć"
+          }
+        },
+        "trade": {
+          "base": "Base WDD na Uniswap",
+          "monad": "Monad WDD na Uniswap",
+          "world": "World Chain WDD na Uniswap",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "To na zawsze usunie Twoje konto i wszystkie dane z naszych serwerów. Tej akcji nie można cofnąć — kontynuuj ostrożnie.",
+          "deleting": "Usuwanie..."
+        },
+        "receive": {
+          "button": "Odbierz",
+          "title": "Odbierz WDD",
+          "description": "Udostępnij swoją nazwę użytkownika, aby otrzymywać WDD od przyjaciół."
+        }
+      },
+      "sections": {
+        "identification": "IDENTYFIKACJA",
+        "account": "KONTO",
+        "danger_zone": "STREFA NIEBEZPIECZEŃSTWA",
+        "delete_account": {
+          "description": "Trwale usuń wszystkie swoje dane"
+        }
+      },
+      "username": {
+        "label": "Nazwa użytkownika",
+        "edit_title": "Edytuj nazwę użytkownika",
+        "description": "3-30 znaków, alfanumeryczne, podkreślenia i myślniki"
+      },
+      "history": {
+        "title": "Historia"
+      },
+      "transactions": {
+        "failed_to_load": "Nie udało się załadować",
+        "no_transactions": "Brak transakcji",
+        "just_now": "Właśnie teraz",
+        "minutes_ago": "{minutes}min temu",
+        "hours_ago": "{hours}g temu",
+        "days_ago": "{days}dn temu",
+        "filter": {
+          "all_types": "Wszystkie typy",
+          "select_type": "Wybierz typ"
+        },
+        "types": {
+          "withdrawal": "Wypłata",
+          "received": "Otrzymano",
+          "sent": "Wysłano"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "Zeskanuj ten kod QR, aby zweryfikować się w Self.",
+        "status_completed": "Zweryfikowano",
+        "status_not_completed": "Nie zweryfikowano",
+        "mobile_dialog_description": "Zostaniesz przekierowany do aplikacji Self, aby dokończyć weryfikację.",
+        "supported_countries": "Obsługiwane kraje",
+        "support_telegram": "Wsparcie Self"
+      },
+      "verification_warning": {
+        "title": "Uzyskaj weryfikację"
+      },
+      "verification_explainer": {
+        "title": "Wymagana weryfikacja",
+        "description": "Proszę ukończyć weryfikację, aby wypłacić tokeny."
+      },
+      "re_verification_explainer": {
+        "title": "Wymagana ponowna weryfikacja",
+        "description": "Dla Twojego bezpieczeństwa wymagamy świeżej weryfikacji przed wrażliwymi działaniami, takimi jak wypłaty. Pomaga to chronić Twoje konto przed nieautoryzowanym dostępem."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "Większość portfeli wyświetla WDD dopiero po ręcznym zaimportowaniu na wybranym łańcuchu za pomocą jego ",
+      "contract_address": "adresu kontraktu"
+    }
+  },
+  "toasts": {
+    "generic_error": "Wystąpił błąd",
+    "copied": "Skopiowano",
+    "wallet": {
+      "no_wallet": "Brak adresu portfela",
+      "min_amount": "Minimum 10 WDD",
+      "sent": "Wysłano",
+      "failed": "Sumsub ID wymagane",
+      "account_deleted": "Konto usunięte",
+      "delete_failed": "Nie udało się usunąć konta",
+      "contract_address_error": "Nie można wypłacić na adres kontraktu",
+      "sign_out_failed": "Wylogowanie nie powiodło się"
+    },
+    "parties": {
+      "founded": "Partia założona",
+      "found_failed": "Nie udało się założyć partii",
+      "found_error": "Błąd podczas zakładania partii",
+      "updated": "Zaktualizowano",
+      "update_failed": "Nie udało się zaktualizować",
+      "update_error": "Błąd podczas aktualizacji partii",
+      "transferred": "Przeniesiono",
+      "transfer_failed": "Nie udało się przenieść przywództwa",
+      "transfer_error": "Błąd podczas przenoszenia przywództwa",
+      "dissolved": "Rozwiązana",
+      "dissolve_failed": "Nie udało się rozwiązać",
+      "dissolve_error": "Błąd podczas rozwiązywania partii"
+    }
+  },
+  "common": {
+    "confirm": "Potwierdź",
+    "sign_in": "Zaloguj się",
+    "max": "Maks",
+    "loading": "Ładowanie...",
+    "processing": "Przetwarzanie...",
+    "insufficient_balance": "Za mało WDD",
+    "delete_account": "Usuń konto",
+    "sign_out": "Wyloguj się",
+    "invalid_address": "Nieprawidłowy adres",
+    "coming_soon": "Wkrótce",
+    "withdraw": "Wypłać",
+    "trade": "Handluj",
+    "continue": "Kontynuuj",
+    "updating": "Aktualizowanie...",
+    "save": "Zapisz",
+    "vote": "Głosuj",
+    "close": "Zamknij"
+  },
+  "auth": {
+    "choose_method": "Wybierz preferowaną metodę.",
+    "sign_in_with_google": "Kontynuuj z Google",
+    "sign_in_with_passkey": "Użyj biometrii",
+    "sign_in_or_create": "Uzyskaj dostęp do swojego konta za pomocą passkey, używając odcisku palca, skanowania twarzy lub blokady ekranu.",
+    "create_account": "Utwórz konto",
+    "create_passkey_name": "Utwórz nazwę passkey",
+    "passkey_name_description": "Nadaj nazwę swojemu passkey, aby zidentyfikować go w menedżerze haseł.",
+    "passkey_name": "Nazwa passkey"
+  }
+}

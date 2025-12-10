@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "Spyskaart",
+    "world_republic": "Wêreldrepubliek"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "Verkiesings",
+        "referendums": "Volksraadplegings"
+      },
+      "sections": {
+        "parties": {
+          "title": "Politieke partye",
+          "subtitle": "Verenig wêreldwyd rondom gedeelde waardes"
+        },
+        "elections": {
+          "title": "Toetsverkiesings",
+          "subtitle": "Eksperimenteer met wêreldwye demokrasie"
+        },
+        "referendums": {
+          "title": "Wêreld Grondwetlike Volksraadpleging",
+          "subtitle": "Stem oor ons grondliggende beginsels"
+        }
+      },
+      "parties": {
+        "discover": "Ontdek",
+        "search_placeholder": "Soek partye...",
+        "tabs": {
+          "new": "Nuut",
+          "trending": "Tending",
+          "top": "Top"
+        },
+        "no_parties_found": "Geen partye gevind nie",
+        "loading_more": "Laai meer partye...",
+        "party_details": "Party besonderhede",
+        "share_party": "Deel party",
+        "my_party": "My party",
+        "found_party_and_earn": "Stig 'n party en kry subsidies",
+        "learn_more": "Leer meer",
+        "party_management": "Party bestuur",
+        "edit_party_info": "Wysig party inligting",
+        "dissolve_party": "Ontbind party",
+        "dialogs": {
+          "found_party": "Stig 'n party",
+          "party_name": "Party naam",
+          "description_optional": "Beskrywing (opsies)",
+          "official_link_optional": "Amptelike skakel (opsies)",
+          "founding": "Stig...",
+          "updating": "Opdateer...",
+          "found": "Stig",
+          "save": "Stoor",
+          "dissolving": "Ontbind...",
+          "about_to_found": "Jy is op die punt om 'n nuwe party te stig.",
+          "about_to_dissolve": "Jy is op die punt om {partyName} te ontbind. Hierdie aksie kan nie ongedaan gemaak word nie.",
+          "leader_warning_found": "Jy is tans die leier van {partyName}. Om 'n nuwe party te stig sal jou huidige party ontbind."
+        },
+        "detail": {
+          "failed_to_load": "Kon nie party data laai nie",
+          "party_not_found": "Party nie gevind nie",
+          "error_loading": "Fout met laai van party",
+          "back_to_parties": "Terug na partye",
+          "description": "Beskrywing",
+          "party_info": "Party inligting",
+          "leader": "Leier",
+          "website": "Webwerf",
+          "not_found_description": "Die party wat jy soek bestaan nie of is ontbind."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "Toetselections kom binnekort. Verifieer jou identiteit nou om gereed te wees wanneer stemme oopmaak.",
+          "verify_button": "Vooraf verifieer"
+        },
+        "coming_soon": {
+          "description": "Toetsverkiesings begin binnekort. Jy is reeds geverifieer en gereed om te stem sodra die verkiesing begin."
+        },
+        "no_active_election": "Geen aktiewe verkiesing nie"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "REKENING",
+          "account_info": "Rekeninginligting",
+          "language": "Taal"
+        },
+        "help": {
+          "title": "HULP",
+          "faq": "Gereelde vrae",
+          "support": "Ondersteuning"
+        },
+        "source_code": {
+          "title": "BRONKODE"
+        },
+        "legal": {
+          "title": "WETLIK",
+          "terms": "Gebruiksvoorwaardes",
+          "privacy": "Privaatheidsbeleid"
+        }
+      }
+    },
+    "faq": {
+      "title": "Gereelde vrae",
+      "items": {
+        "app-purpose": {
+          "question": "Wat is die Wêreld Republiek?",
+          "answer": "Die Wêreldrepubliek is 'n oopbron-bestuursplatform met sy eie digitale geldeenheid wat daarop gemik is om 'n demokratiese raamwerk vir wêreldwye vrede en veiligheid te vestig."
+        },
+        "what-is-wdd": {
+          "question": "Wat is WDD?",
+          "answer": "WDD (wêrelddrachma) is die blockchain-native amptelike geldeenheid van die Wêreldrepubliek, uitgereik as 'n standaard ERC-20 token oor verskeie netwerke."
+        },
+        "drachma-value": {
+          "question": "Waar kry die drachma sy waarde vandaan?",
+          "answer": "Die drachma verkry sy waarde deur die amptelike geldeenheid van die Wêreld Republiek te wees. Soos die legitimiteit van ons globale bestuursplatform groei, kan WDD die voertuig van globale herverdeling en die hoof ruilmiddel in die wêreldekonomie word."
+        },
+        "identity-verification": {
+          "question": "Hoe werk identiteitsverifikasie?",
+          "answer": "Die Wêreld Republiek gebruik Self om jou identiteit deur jou paspoort of nasionale ID te verifieer. Jou privaatheid word beskerm—Self bevestig net dat jy 'n regte persoon is sonder om enige van jou persoonlike data bloot te stel."
+        },
+        "test-elections": {
+          "question": "Wat is toetsverkiesings?",
+          "answer": "Toetsverkiesings is eksperimente waar burgers van die Wêreldrepubliek vir politieke partye stem. Elke party word outomaties op die stembrief ingesluit, wat gelyke geleenthede vir alle aspirant-leiers verseker."
+        },
+        "party-subsidies": {
+          "question": "Hoe werk partysubsidies?",
+          "answer": "Die Wêreldrepubliek befonds politieke partye op grond van demokratiese steun. Ons versprei WDD-toelaes in verhouding tot verkiesingsuitslae, wat verseker dat elke stem 'n party se finansiële hulpbronne direk verhoog."
+        },
+        "verification-required": {
+          "question": "Is verifikasie nodig om deel te neem?",
+          "answer": "Identiteitsverifikasie is slegs nodig om te stem. Jy kan partye stig en WDD wat uit partysubsidies verdien is, oorplaas sonder verifikasie."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "Beursie"
+      },
+      "balance": "Balans",
+      "modals": {
+        "sign_out": {
+          "confirm": "Is jy seker jy wil uitteken?"
+        },
+        "send": {
+          "button": "Stuur",
+          "title": "Stuur WDD",
+          "choice_description": "Kies hoe u u drachme wil stuur.",
+          "transfer_to_citizen": {
+            "title": "Oordra",
+            "description": "Dra WDD oor na 'n ander burger",
+            "username_label": "Ontvanger gebruikersnaam"
+          },
+          "withdraw_to_crypto": {
+            "title": "Onttrek",
+            "description": "Trek WDD na 'n kripto-rekening",
+            "amount_label": "Bedrag",
+            "address_label": "Beursieadres",
+            "network_label": "Netwerk"
+          }
+        },
+        "trade": {
+          "base": "Base WDD op Uniswap",
+          "monad": "Monad WDD op Uniswap",
+          "world": "World Chain WDD op Uniswap",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "Dit sal jou rekening permanent skrap en al jou data van ons bedieners verwyder. Hierdie aksie kan nie ongedaan gemaak word nie — gaan voort met omsigtigheid.",
+          "deleting": "Skrap..."
+        },
+        "receive": {
+          "button": "Ontvang",
+          "title": "Ontvang WDD",
+          "description": "Deel jou gebruikersnaam om WDD van jou vriende te ontvang."
+        }
+      },
+      "sections": {
+        "identification": "IDENTIFIKASIE",
+        "account": "REKENING",
+        "danger_zone": "GEVAARSONE",
+        "delete_account": {
+          "description": "Verwyder permanent al jou data"
+        }
+      },
+      "username": {
+        "label": "Gebruikersnaam",
+        "edit_title": "Wysig gebruikersnaam",
+        "description": "3-30 karakters, alfanumeries, onderstrepe en koppeltekens"
+      },
+      "history": {
+        "title": "Geskiedenis"
+      },
+      "transactions": {
+        "failed_to_load": "Kon nie laai nie",
+        "no_transactions": "Nog geen transaksies nie",
+        "just_now": "Net nou",
+        "minutes_ago": "{minutes}m gelede",
+        "hours_ago": "{hours}u gelede",
+        "days_ago": "{days}d gelede",
+        "filter": {
+          "all_types": "Alle tipes",
+          "select_type": "Kies tipe"
+        },
+        "types": {
+          "withdrawal": "Onttrekking",
+          "received": "Ontvang",
+          "sent": "Gestuur"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "Skandeer hierdie QR-kode om met Self te verifieer.",
+        "status_completed": "Geverifieer",
+        "status_not_completed": "Nie geverifieer nie",
+        "mobile_dialog_description": "Jy sal na die Self-app herlei word om verifikasie te voltooi.",
+        "supported_countries": "Ondersteunde lande",
+        "support_telegram": "Self Ondersteuning"
+      },
+      "verification_warning": {
+        "title": "Kry verifikasie"
+      },
+      "verification_explainer": {
+        "title": "Verifikasie word vereis",
+        "description": "Voltooi asseblief verifikasie om tokens te onttrek."
+      },
+      "re_verification_explainer": {
+        "title": "Herverifikasie word vereis",
+        "description": "Vir jou veiligheid vereis ons vars verifikasie voor sensitiewe aksies soos onttrekkings. Dit help om jou rekening teen ongemagtigde toegang te beskerm."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "Die meeste beursies vertoon WDD slegs nadat dit handmatig op die gekose ketting ingevoer is deur sy ",
+      "contract_address": "kontrakadres"
+    }
+  },
+  "toasts": {
+    "generic_error": "'n Fout het voorgekom",
+    "copied": "Gekopieer",
+    "wallet": {
+      "no_wallet": "Geen beursieadres nie",
+      "min_amount": "Minimum 10 WDD",
+      "sent": "Gestuur",
+      "failed": "Sumsub ID benodig",
+      "account_deleted": "Rekening geskrap",
+      "delete_failed": "Kon nie rekening skrap nie",
+      "contract_address_error": "Kan nie onttrek na kontrakadres nie",
+      "sign_out_failed": "Uitteken het misluk"
+    },
+    "parties": {
+      "founded": "Party gestig",
+      "found_failed": "Stigting van party het misluk",
+      "found_error": "Fout by stigting van party",
+      "updated": "Opgedateer",
+      "update_failed": "Opdatering het misluk",
+      "update_error": "Fout by opdatering van party",
+      "transferred": "Oorgedra",
+      "transfer_failed": "Oordrag van leierskap het misluk",
+      "transfer_error": "Fout by oordrag van leierskap",
+      "dissolved": "Ontbind",
+      "dissolve_failed": "Ontbinding het misluk",
+      "dissolve_error": "Fout by ontbinding van party"
+    }
+  },
+  "common": {
+    "confirm": "Bevestig",
+    "sign_in": "Teken in",
+    "max": "Maks",
+    "loading": "Laai...",
+    "processing": "Verwerk...",
+    "insufficient_balance": "Nie genoeg WDD nie",
+    "delete_account": "Verwyder rekening",
+    "sign_out": "Teken uit",
+    "invalid_address": "Ongeldige adres",
+    "coming_soon": "Binnekort beskikbaar",
+    "withdraw": "Onttrek",
+    "trade": "Handel",
+    "continue": "Gaan voort",
+    "updating": "Besig om op te dateer...",
+    "save": "Stoor",
+    "vote": "Stem",
+    "close": "Sluit"
+  },
+  "auth": {
+    "choose_method": "Kies jou voorkeurmetode.",
+    "sign_in_with_google": "Gaan voort met Google",
+    "sign_in_with_passkey": "Gebruik biometrie",
+    "sign_in_or_create": "Gebruik jou rekening met 'n passkey, met jou vingerafdruk, gesigskandeer of skermslot.",
+    "create_account": "Skep rekening",
+    "create_passkey_name": "Skep 'n passkey naam",
+    "passkey_name_description": "Noem jou passkey om dit in jou wagwoordbestuurder te identifiseer.",
+    "passkey_name": "Passkey naam"
+  }
+}

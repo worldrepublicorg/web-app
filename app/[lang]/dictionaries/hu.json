@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "Menü",
+    "world_republic": "Világköztársaság"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "Választások",
+        "referendums": "Népszavazások"
+      },
+      "sections": {
+        "parties": {
+          "title": "Politikai pártok",
+          "subtitle": "Egyesüljön globálisan közös értékek körül"
+        },
+        "elections": {
+          "title": "Tesztválasztások",
+          "subtitle": "Kísérletezzen a globális demokráciával"
+        },
+        "referendums": {
+          "title": "Alkotmányos Világnépszavazás",
+          "subtitle": "Szavazzon alapelveinkről"
+        }
+      },
+      "parties": {
+        "discover": "Felfedezés",
+        "search_placeholder": "Pártok keresése...",
+        "tabs": {
+          "new": "Új",
+          "trending": "Népszerű",
+          "top": "Legjobb"
+        },
+        "no_parties_found": "Nem található párt",
+        "loading_more": "Több párt betöltése...",
+        "party_details": "Párt részletei",
+        "share_party": "Párt megosztása",
+        "my_party": "Pártom",
+        "found_party_and_earn": "Alapíts pártot és kapj támogatásokat",
+        "learn_more": "További információ",
+        "party_management": "Pártkezelés",
+        "edit_party_info": "Párt információk szerkesztése",
+        "dissolve_party": "Párt feloszlatása",
+        "dialogs": {
+          "found_party": "Párt alapítása",
+          "party_name": "Párt neve",
+          "description_optional": "Leírás (opcionális)",
+          "official_link_optional": "Hivatalos link (opcionális)",
+          "founding": "Alapítás...",
+          "updating": "Frissítés...",
+          "found": "Alapít",
+          "save": "Mentés",
+          "dissolving": "Feloszlatás...",
+          "about_to_found": "Új pártot fogsz alapítani.",
+          "about_to_dissolve": "Éppen feloszlatni készülsz a {partyName}-t. Ez a művelet nem vonható vissza.",
+          "leader_warning_found": "Jelenleg a {partyName} vezetője vagy. Új párt alapítása feloszlatja a jelenlegi pártodat."
+        },
+        "detail": {
+          "failed_to_load": "A párt adatok betöltése sikertelen",
+          "party_not_found": "Párt nem található",
+          "error_loading": "Hiba a párt betöltésekor",
+          "back_to_parties": "Vissza a pártokhoz",
+          "description": "Leírás",
+          "party_info": "Párt információk",
+          "leader": "Vezető",
+          "website": "Weboldal",
+          "not_found_description": "A keresett párt nem létezik vagy feloszlott."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "A tesztválasztások hamarosan érkeznek. Igazolja az identitását most, hogy készen álljon, amikor a szavazás megnyílik.",
+          "verify_button": "Előzetes igazolás"
+        },
+        "coming_soon": {
+          "description": "A tesztválasztások hamarosan kezdődnek. Már ellenőrzött vagy, és készen állsz szavazni, amint a választás elindul."
+        },
+        "no_active_election": "Nincs aktív választás"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "FIÓK",
+          "account_info": "Fiók információk",
+          "language": "Nyelv"
+        },
+        "help": {
+          "title": "SEGÍTSÉG",
+          "faq": "GYIK",
+          "support": "Ügyfélszolgálat"
+        },
+        "legal": {
+          "title": "JOGI",
+          "terms": "Használati feltételek",
+          "privacy": "Adatvédelmi irányelvek"
+        },
+        "source_code": {
+          "title": "FORRÁSKÓD"
+        }
+      }
+    },
+    "faq": {
+      "title": "GYIK",
+      "items": {
+        "app-purpose": {
+          "question": "Mi a Világköztársaság?",
+          "answer": "A Világköztársaság egy nyílt forráskódú kormányzási platform saját digitális valutával, amely célja egy demokratikus keretrendszer létrehozása a globális béke és biztonság számára."
+        },
+        "what-is-wdd": {
+          "question": "Mi a WDD?",
+          "answer": "A WDD (világdrachma) a Világköztársaság blokklánc-alapú hivatalos fizetőeszköze, amelyet több hálózaton szabványos ERC-20 tokenként bocsátanak ki."
+        },
+        "drachma-value": {
+          "question": "Honnan származik a drachma értéke?",
+          "answer": "A drachma értékét abból nyeri, hogy a Világköztársaság hivatalos fizetőeszköze. Ahogy globális kormányzási platformunk legitimitása növekszik, a WDD válhat a globális újraelosztás eszközévé és a világgazdaság fő csereeszközévé."
+        },
+        "identity-verification": {
+          "question": "Hogyan működik a személyazonosság-ellenőrzés?",
+          "answer": "A Világköztársaság a Self rendszert használja a személyazonosság igazolására az útlevél vagy személyi igazolvány segítségével. Az Ön személyes adatai védve vannak – a Self csupán azt igazolja, hogy Ön valós személy, anélkül, hogy adatait felfedné."
+        },
+        "test-elections": {
+          "question": "Mik a tesztválasztások?",
+          "answer": "A tesztválasztások olyan kísérletek, ahol a Világköztársaság polgárai politikai pártokra szavaznak. Minden párt automatikusan felkerül a szavazólapra, egyenlő esélyeket biztosítva minden törekvő vezető számára."
+        },
+        "party-subsidies": {
+          "question": "Hogyan működnek a párttámogatások?",
+          "answer": "A Világköztársaság demokratikus támogatottság alapján finanszírozza a politikai pártokat. A választási eredményekkel arányosan osztunk szét WDD támogatásokat, biztosítva, hogy minden szavazat közvetlenül növelje egy párt pénzügyi forrásait."
+        },
+        "verification-required": {
+          "question": "Szükséges a hitelesítés a részvételhez?",
+          "answer": "Személyazonosság-ellenőrzés csak a szavazáshoz szükséges. Pártot alapítani és a párttámogatásokból szerzett WDD-t mozgatni hitelesítés nélkül is lehet."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "Tárca"
+      },
+      "balance": "Egyenleg",
+      "modals": {
+        "sign_out": {
+          "confirm": "Biztosan ki akar jelentkezni?"
+        },
+        "send": {
+          "button": "Küldés",
+          "title": "WDD küldése",
+          "choice_description": "Válassza ki, hogyan szeretné elküldeni a drachmáját.",
+          "transfer_to_citizen": {
+            "title": "Átutalás",
+            "description": "WDD átutalása másik állampolgárnak",
+            "username_label": "Címzett felhasználóneve"
+          },
+          "withdraw_to_crypto": {
+            "title": "Kivétel",
+            "description": "WDD kivétele kripto számlára",
+            "amount_label": "Összeg",
+            "address_label": "Számlacím",
+            "network_label": "Hálózat"
+          }
+        },
+        "trade": {
+          "base": "Base WDD Uniswap-on",
+          "monad": "Monad WDD Uniswap-on",
+          "world": "World Chain WDD Uniswap-on",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "Ez véglegesen törölni fogja a fiókját és eltávolítja az összes adatát szervereinkről. Ez a művelet nem vonható vissza — kérjük, óvatosan járjon el.",
+          "deleting": "Törlés..."
+        },
+        "receive": {
+          "button": "Fogadás",
+          "title": "WDD fogadása",
+          "description": "Ossza meg felhasználónevét, hogy barátaitól kapjon WDD-t."
+        }
+      },
+      "sections": {
+        "identification": "AZONOSÍTÁS",
+        "account": "FIÓK",
+        "danger_zone": "VESZÉLYES ZÓNA",
+        "delete_account": {
+          "description": "Véglegesen távolítsa el az összes adatát"
+        }
+      },
+      "username": {
+        "label": "Felhasználónév",
+        "edit_title": "Felhasználónév szerkesztése",
+        "description": "3-30 karakter, alfanumerikus, aláhúzás és kötőjelek"
+      },
+      "history": {
+        "title": "Előzmények"
+      },
+      "transactions": {
+        "failed_to_load": "Betöltés sikertelen",
+        "no_transactions": "Még nincsenek tranzakciók",
+        "just_now": "Épp most",
+        "minutes_ago": "{minutes} perce",
+        "hours_ago": "{hours} órája",
+        "days_ago": "{days} napja",
+        "filter": {
+          "all_types": "Összes típus",
+          "select_type": "Típus kiválasztása"
+        },
+        "types": {
+          "withdrawal": "Kivétel",
+          "received": "Fogadva",
+          "sent": "Küldve"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "Olvasd be ezt a QR‑kódot a Selfes ellenőrzéshez.",
+        "status_completed": "Ellenőrizve",
+        "status_not_completed": "Nincs ellenőrizve",
+        "mobile_dialog_description": "Átirányítunk a Self appba a hitelesítés befejezéséhez.",
+        "supported_countries": "Támogatott országok",
+        "support_telegram": "Self ügyfélszolgálat"
+      },
+      "verification_warning": {
+        "title": "Igazolás kérése"
+      },
+      "verification_explainer": {
+        "title": "Igazolás szükséges",
+        "description": "Kérjük, fejezze be az igazolást a tokenek kivonásához."
+      },
+      "re_verification_explainer": {
+        "title": "Újraigazolás szükséges",
+        "description": "Biztonsága érdekében friss igazolást igényelünk érzékeny műveletek, például kivonások előtt. Ez segít megvédeni fiókját a jogosulatlan hozzáféréstől."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "A legtöbb pénztárca csak akkor jeleníti meg a WDD-t, miután azt manuálisan importálták a kiválasztott láncra a ",
+      "contract_address": "szerződési címével"
+    }
+  },
+  "toasts": {
+    "generic_error": "Hiba történt",
+    "copied": "Másolva",
+    "wallet": {
+      "no_wallet": "Nincs számlacím",
+      "min_amount": "Minimum 10 WDD",
+      "sent": "Elküldve",
+      "failed": "Sumsub ID szükséges",
+      "account_deleted": "Fiók törölve",
+      "delete_failed": "Fiók törlése sikertelen",
+      "contract_address_error": "Nem vonható ki szerződés címre",
+      "sign_out_failed": "A kijelentkezés sikertelen"
+    },
+    "parties": {
+      "founded": "Párt alapítva",
+      "found_failed": "Párt alapítása sikertelen",
+      "found_error": "Hiba a párt alapításakor",
+      "updated": "Frissítve",
+      "update_failed": "Frissítés sikertelen",
+      "update_error": "Hiba a párt frissítésekor",
+      "transferred": "Átadva",
+      "transfer_failed": "Vezetés átadása sikertelen",
+      "transfer_error": "Hiba a vezetés átadásakor",
+      "dissolved": "Feloszlatva",
+      "dissolve_failed": "Feloszlatás sikertelen",
+      "dissolve_error": "Hiba a párt feloszlatásakor"
+    }
+  },
+  "common": {
+    "confirm": "Megerősítés",
+    "sign_in": "Bejelentkezés",
+    "max": "Max",
+    "loading": "Betöltés...",
+    "processing": "Feldolgozás...",
+    "insufficient_balance": "Elégtelen WDD",
+    "delete_account": "Fiók törlése",
+    "sign_out": "Kijelentkezés",
+    "invalid_address": "Érvénytelen cím",
+    "coming_soon": "Hamarosan",
+    "withdraw": "Kivonás",
+    "trade": "Kereskedés",
+    "continue": "Folytatás",
+    "updating": "Frissítés...",
+    "save": "Mentés",
+    "vote": "Szavazás",
+    "close": "Bezárás"
+  },
+  "auth": {
+    "choose_method": "Válassza ki az előnyben részesített módszert.",
+    "sign_in_with_google": "Folytatás Google-lal",
+    "sign_in_with_passkey": "Biometria használata",
+    "sign_in_or_create": "Hozzáférés a fiókjához passkey-vel, ujjlenyomat, arckép-szkennelés vagy képernyőzár használatával.",
+    "create_account": "Fiók létrehozása",
+    "create_passkey_name": "Passkey név létrehozása",
+    "passkey_name_description": "Nevezze el a passkey-t, hogy azonosítsa a jelszókezelőben.",
+    "passkey_name": "Passkey név"
+  }
+}

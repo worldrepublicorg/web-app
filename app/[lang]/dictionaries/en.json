@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "Menu",
+    "world_republic": "World Republic"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "Elections",
+        "referendums": "Referendums"
+      },
+      "sections": {
+        "parties": {
+          "title": "Political parties",
+          "subtitle": "Unite globally around shared values"
+        },
+        "elections": {
+          "title": "Test elections",
+          "subtitle": "Experiment with global democracy"
+        },
+        "referendums": {
+          "title": "World Constitutional Referendum",
+          "subtitle": "Vote on our foundational principles"
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "Test elections are coming soon. Verify your identity now to be ready when voting opens.",
+          "verify_button": "Pre-verify"
+        },
+        "coming_soon": {
+          "description": "Test elections are coming soon. You're already verified and ready to vote when the election begins."
+        },
+        "no_active_election": "No active election"
+      },
+      "parties": {
+        "discover": "Discover",
+        "search_placeholder": "Search parties...",
+        "tabs": {
+          "new": "New",
+          "trending": "Trending",
+          "top": "Top"
+        },
+        "no_parties_found": "No parties found",
+        "loading_more": "Loading more parties...",
+        "party_details": "Party details",
+        "share_party": "Share party",
+        "my_party": "My party",
+        "found_party_and_earn": "Found a party and get subsidies",
+        "learn_more": "Learn more",
+        "party_management": "Party management",
+        "edit_party_info": "Edit party info",
+        "dissolve_party": "Dissolve party",
+        "dialogs": {
+          "found_party": "Found a party",
+          "party_name": "Party name",
+          "description_optional": "Description (optional)",
+          "official_link_optional": "Official link (optional)",
+          "founding": "Founding...",
+          "updating": "Updating...",
+          "found": "Found",
+          "save": "Save",
+          "dissolving": "Dissolving...",
+          "about_to_found": "You are about to found a new party.",
+          "about_to_dissolve": "You are about to dissolve {partyName}. This action cannot be undone.",
+          "leader_warning_found": "You're currently the leader of {partyName}. Founding a new party will dissolve your current party."
+        },
+        "detail": {
+          "failed_to_load": "Failed to load party data",
+          "party_not_found": "Party not found",
+          "error_loading": "Error loading party",
+          "back_to_parties": "Back to parties",
+          "description": "Description",
+          "party_info": "Party info",
+          "leader": "Leader",
+          "website": "Website",
+          "not_found_description": "The party you're looking for doesn't exist or has been dissolved."
+        }
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "ACCOUNT",
+          "account_info": "Account info",
+          "language": "Language"
+        },
+        "help": {
+          "title": "HELP",
+          "faq": "FAQ",
+          "support": "Support"
+        },
+        "source_code": {
+          "title": "SOURCE CODE"
+        },
+        "legal": {
+          "title": "LEGAL",
+          "terms": "Terms of Use",
+          "privacy": "Privacy Policy"
+        }
+      }
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "app-purpose": {
+          "question": "What is the World Republic?",
+          "answer": "The World Republic is an open source governance platform with its own digital currency that aims to establish a democratic framework for global peace and security."
+        },
+        "what-is-wdd": {
+          "question": "What is WDD?",
+          "answer": "WDD (world drachma) is the blockchain-native official currency of the World Republic, issued as a standard ERC-20 token across multiple networks."
+        },
+        "drachma-value": {
+          "question": "What gives WDD its value?",
+          "answer": "The drachma derives its value from being the official currency of the World Republic. As the legitimacy of our global governance platform grows, WDD can become the vehicle of global redistribution and the main medium of exchange in the world economy."
+        },
+        "identity-verification": {
+          "question": "How does identity verification work?",
+          "answer": "The World Republic uses Self to verify your identity through your passport or national ID. Your privacy is protected—Self only confirms you're a real person without exposing any of your personal data."
+        },
+        "test-elections": {
+          "question": "What are test elections?",
+          "answer": "Test elections are experiments where World Republic citizens vote for political parties. Every party is automatically included on the ballot, ensuring equal opportunity for all aspiring leaders."
+        },
+        "party-subsidies": {
+          "question": "How do party subsidies work?",
+          "answer": "The World Republic funds political parties based on democratic support. We distribute WDD grants proportional to election results, ensuring that every vote directly increases a party's financial resources."
+        },
+        "verification-required": {
+          "question": "Do I need verification to participate?",
+          "answer": "Identity verification is required only for voting. You can found parties and transfer WDD earned from party subsidies without verification."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "Wallet"
+      },
+      "balance": "Balance",
+      "modals": {
+        "sign_out": {
+          "confirm": "Are you sure you want to sign out?"
+        },
+        "send": {
+          "button": "Send",
+          "title": "Send WDD",
+          "choice_description": "Choose how you want to send your drachma.",
+          "transfer_to_citizen": {
+            "title": "Transfer",
+            "description": "Transfer WDD to another citizen",
+            "username_label": "Recipient username"
+          },
+          "withdraw_to_crypto": {
+            "title": "Withdraw",
+            "description": "Withdraw WDD to a crypto account",
+            "amount_label": "Amount",
+            "address_label": "Wallet address",
+            "network_label": "Network"
+          }
+        },
+        "trade": {
+          "base": "Base WDD on Uniswap",
+          "monad": "Monad WDD on Uniswap",
+          "world": "World Chain WDD on Uniswap",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "This will permanently delete your account and remove all your data from our servers. This action cannot be undone — please continue with caution.",
+          "deleting": "Deleting..."
+        },
+        "receive": {
+          "button": "Receive",
+          "title": "Receive WDD",
+          "description": "Share your username to receive WDD from your friends."
+        }
+      },
+      "sections": {
+        "identification": "IDENTIFICATION",
+        "account": "ACCOUNT",
+        "danger_zone": "DANGER ZONE",
+        "delete_account": {
+          "description": "Permanently remove all your data"
+        }
+      },
+      "username": {
+        "label": "Username",
+        "edit_title": "Edit username",
+        "description": "3-30 characters, alphanumeric, underscores, and hyphens"
+      },
+      "history": {
+        "title": "History"
+      },
+      "transactions": {
+        "failed_to_load": "Failed to load",
+        "no_transactions": "No transactions yet",
+        "just_now": "Just now",
+        "minutes_ago": "{minutes}m ago",
+        "hours_ago": "{hours}h ago",
+        "days_ago": "{days}d ago",
+        "filter": {
+          "all_types": "All types",
+          "select_type": "Select type"
+        },
+        "types": {
+          "withdrawal": "Withdrawal",
+          "received": "Received",
+          "sent": "Sent"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "Scan this QR code to verify with Self.",
+        "mobile_dialog_description": "You will be redirected to the Self app to complete verification.",
+        "supported_countries": "Supported countries",
+        "support_telegram": "Self Support",
+        "status_completed": "Verified",
+        "status_not_completed": "Not verified"
+      },
+      "verification_warning": {
+        "title": "Get verified"
+      },
+      "verification_explainer": {
+        "title": "Verification required",
+        "description": "Please complete verification to withdraw tokens."
+      },
+      "re_verification_explainer": {
+        "title": "Re-verification required",
+        "description": "For your security, we require fresh verification before sensitive actions like withdrawals. This helps protect your account from unauthorized access."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "Most wallets only display WDD after it's manually imported on the selected chain by its ",
+      "contract_address": "contract address"
+    }
+  },
+  "toasts": {
+    "generic_error": "An error occurred",
+    "copied": "Copied",
+    "wallet": {
+      "no_wallet": "No wallet address",
+      "min_amount": "Minimum 10 WDD",
+      "sent": "Sent",
+      "failed": "Sumsub ID required",
+      "account_deleted": "Account deleted",
+      "delete_failed": "Failed to delete account",
+      "contract_address_error": "Cannot withdraw to contract address",
+      "sign_out_failed": "Failed to sign out"
+    },
+    "parties": {
+      "founded": "Party founded",
+      "found_failed": "Failed to found party",
+      "found_error": "Error founding party",
+      "updated": "Updated",
+      "update_failed": "Failed to update",
+      "update_error": "Error updating party",
+      "transferred": "Transferred",
+      "transfer_failed": "Failed to transfer leadership",
+      "transfer_error": "Error transferring leadership",
+      "dissolved": "Dissolved",
+      "dissolve_failed": "Failed to dissolve",
+      "dissolve_error": "Error dissolving party"
+    }
+  },
+  "common": {
+    "confirm": "Confirm",
+    "sign_in": "Sign in",
+    "max": "Max",
+    "loading": "Loading...",
+    "processing": "Processing...",
+    "insufficient_balance": "Not enough WDD",
+    "delete_account": "Delete account",
+    "sign_out": "Sign out",
+    "invalid_address": "Invalid address",
+    "coming_soon": "Coming soon",
+    "withdraw": "Withdraw",
+    "trade": "Trade",
+    "continue": "Continue",
+    "close": "Close",
+    "updating": "Updating...",
+    "save": "Save",
+    "vote": "Vote"
+  },
+  "auth": {
+    "choose_method": "Choose your preferred method.",
+    "sign_in_with_google": "Continue with Google",
+    "sign_in_with_passkey": "Use biometrics",
+    "sign_in_or_create": "Access your account with a passkey, using your fingerprint, face scan or screen lock.",
+    "create_account": "Create account",
+    "create_passkey_name": "Create a passkey name",
+    "passkey_name_description": "Name your passkey to identify it in your password manager.",
+    "passkey_name": "Passkey name"
+  }
+}

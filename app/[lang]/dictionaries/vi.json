@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "Menu",
+    "world_republic": "Cộng hòa Thế giới"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "Bầu cử",
+        "referendums": "Trưng cầu dân ý"
+      },
+      "sections": {
+        "parties": {
+          "title": "Đảng phái chính trị",
+          "subtitle": "Đoàn kết toàn cầu xung quanh các giá trị chung"
+        },
+        "elections": {
+          "title": "Bầu cử thử nghiệm",
+          "subtitle": "Thử nghiệm dân chủ toàn cầu"
+        },
+        "referendums": {
+          "title": "Trưng cầu dân ý Hiến pháp Thế giới",
+          "subtitle": "Bỏ phiếu về các nguyên tắc nền tảng"
+        }
+      },
+      "parties": {
+        "discover": "Khám phá",
+        "search_placeholder": "Tìm kiếm đảng phái...",
+        "tabs": {
+          "new": "Mới",
+          "trending": "Xu hướng",
+          "top": "Hàng đầu"
+        },
+        "no_parties_found": "Không tìm thấy đảng phái",
+        "loading_more": "Đang tải thêm đảng phái...",
+        "party_details": "Chi tiết đảng phái",
+        "share_party": "Chia sẻ đảng phái",
+        "my_party": "Đảng phái của tôi",
+        "found_party_and_earn": "Thành lập đảng và nhận trợ cấp",
+        "learn_more": "Tìm hiểu thêm",
+        "party_management": "Quản lý đảng phái",
+        "edit_party_info": "Chỉnh sửa thông tin đảng phái",
+        "dissolve_party": "Giải tán đảng phái",
+        "dialogs": {
+          "found_party": "Thành lập đảng phái",
+          "party_name": "Tên đảng phái",
+          "description_optional": "Mô tả (tùy chọn)",
+          "official_link_optional": "Liên kết chính thức (tùy chọn)",
+          "founding": "Đang thành lập...",
+          "updating": "Đang cập nhật...",
+          "found": "Thành lập",
+          "save": "Lưu",
+          "dissolving": "Đang giải tán...",
+          "about_to_found": "Bạn sắp thành lập một đảng phái mới.",
+          "about_to_dissolve": "Bạn sắp giải thể {partyName}. Hành động này không thể hoàn tác.",
+          "leader_warning_found": "Bạn hiện là lãnh đạo của {partyName}. Thành lập đảng mới sẽ giải thể đảng hiện tại của bạn."
+        },
+        "detail": {
+          "failed_to_load": "Không thể tải dữ liệu đảng phái",
+          "party_not_found": "Không tìm thấy đảng phái",
+          "error_loading": "Lỗi khi tải đảng phái",
+          "back_to_parties": "Quay lại đảng phái",
+          "description": "Mô tả",
+          "party_info": "Thông tin đảng phái",
+          "leader": "Lãnh đạo",
+          "website": "Trang web",
+          "not_found_description": "Đảng phái bạn đang tìm không tồn tại hoặc đã bị giải tán."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "Cuộc bầu cử thử nghiệm sắp diễn ra. Xác minh danh tính của bạn ngay bây giờ để sẵn sàng khi bỏ phiếu mở.",
+          "verify_button": "Xác minh trước"
+        },
+        "coming_soon": {
+          "description": "Các cuộc bầu cử thử nghiệm sẽ sớm bắt đầu. Bạn đã được xác minh và sẵn sàng bỏ phiếu ngay khi cuộc bầu cử bắt đầu."
+        },
+        "no_active_election": "Không có cuộc bầu cử đang diễn ra"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "TÀI KHOẢN",
+          "account_info": "Thông tin tài khoản",
+          "language": "Ngôn ngữ"
+        },
+        "help": {
+          "title": "TRỢ GIÚP",
+          "faq": "Câu hỏi thường gặp",
+          "support": "Hỗ trợ"
+        },
+        "legal": {
+          "title": "PHÁP LÝ",
+          "terms": "Điều khoản sử dụng",
+          "privacy": "Chính sách bảo mật"
+        },
+        "source_code": {
+          "title": "MÃ NGUỒN"
+        }
+      }
+    },
+    "faq": {
+      "title": "Câu hỏi thường gặp",
+      "items": {
+        "app-purpose": {
+          "question": "Cộng hòa Thế giới là gì?",
+          "answer": "Cộng hòa Thế giới là một nền tảng quản trị mã nguồn mở với đồng tiền kỹ thuật số riêng nhằm thiết lập một khuôn khổ dân chủ cho hòa bình và an ninh toàn cầu."
+        },
+        "what-is-wdd": {
+          "question": "WDD là gì?",
+          "answer": "WDD (drachma thế giới) là tiền tệ chính thức blockchain-native của Cộng hòa Thế giới, được phát hành dưới dạng token ERC-20 tiêu chuẩn trên nhiều mạng."
+        },
+        "drachma-value": {
+          "question": "Drachma lấy giá trị từ đâu?",
+          "answer": "Drachma có được giá trị của nó từ việc là đồng tiền chính thức của Cộng hòa Thế giới. Khi tính hợp pháp của nền tảng quản trị toàn cầu của chúng tôi phát triển, WDD có thể trở thành phương tiện phân phối lại toàn cầu và phương tiện trao đổi chính trong nền kinh tế thế giới."
+        },
+        "identity-verification": {
+          "question": "Xác minh danh tính hoạt động như thế nào?",
+          "answer": "Cộng hòa Thế giới sử dụng Self để xác minh danh tính của bạn thông qua hộ chiếu hoặc chứng minh nhân dân của bạn. Quyền riêng tư của bạn được bảo vệ—Self chỉ xác nhận rằng bạn là người thật mà không tiết lộ bất kỳ dữ liệu cá nhân nào của bạn."
+        },
+        "test-elections": {
+          "question": "Bầu cử thử nghiệm là gì?",
+          "answer": "Bầu cử thử nghiệm là những cuộc thử nghiệm nơi công dân Cộng hòa Thế giới bỏ phiếu cho các đảng chính trị. Mọi đảng phái đều tự động được đưa vào lá phiếu, đảm bảo cơ hội bình đẳng cho tất cả các nhà lãnh đạo đầy tham vọng."
+        },
+        "party-subsidies": {
+          "question": "Trợ cấp cho đảng hoạt động như thế nào?",
+          "answer": "Cộng hòa Thế giới tài trợ cho các đảng chính trị dựa trên sự ủng hộ dân chủ. Chúng tôi phân phối các khoản tài trợ WDD tỷ lệ thuận với kết quả bầu cử, đảm bảo rằng mỗi lá phiếu trực tiếp làm tăng nguồn lực tài chính của đảng."
+        },
+        "verification-required": {
+          "question": "Có cần xác minh để tham gia không?",
+          "answer": "Xác minh danh tính chỉ bắt buộc khi bỏ phiếu. Bạn có thể thành lập đảng và chuyển WDD nhận được từ trợ cấp đảng mà không cần xác minh."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "Ví"
+      },
+      "balance": "Số dư",
+      "modals": {
+        "sign_out": {
+          "confirm": "Bạn có chắc chắn muốn đăng xuất?"
+        },
+        "send": {
+          "button": "Gửi",
+          "title": "Gửi WDD",
+          "choice_description": "Chọn cách bạn muốn gửi drachma của mình.",
+          "transfer_to_citizen": {
+            "title": "Chuyển",
+            "description": "Chuyển WDD cho công dân khác",
+            "username_label": "Tên người dùng người nhận"
+          },
+          "withdraw_to_crypto": {
+            "title": "Rút",
+            "description": "Rút WDD vào tài khoản crypto",
+            "amount_label": "Số tiền",
+            "address_label": "Địa chỉ ví",
+            "network_label": "Mạng"
+          }
+        },
+        "trade": {
+          "base": "Base WDD trên Uniswap",
+          "monad": "Monad WDD trên Uniswap",
+          "world": "World Chain WDD trên Uniswap",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "Điều này sẽ xóa vĩnh viễn tài khoản của bạn và xóa tất cả dữ liệu khỏi máy chủ của chúng tôi. Hành động này không thể hoàn tác — vui lòng tiếp tục một cách thận trọng.",
+          "deleting": "Đang xóa..."
+        },
+        "receive": {
+          "button": "Nhận",
+          "title": "Nhận WDD",
+          "description": "Chia sẻ tên người dùng của bạn để nhận WDD từ bạn bè."
+        }
+      },
+      "sections": {
+        "identification": "ĐỊNH DANH",
+        "account": "TÀI KHOẢN",
+        "danger_zone": "KHU VỰC NGUY HIỂM",
+        "delete_account": {
+          "description": "Xóa vĩnh viễn tất cả dữ liệu của bạn"
+        }
+      },
+      "username": {
+        "label": "Tên người dùng",
+        "edit_title": "Chỉnh sửa tên người dùng",
+        "description": "3-30 ký tự, chữ số, gạch dưới và dấu gạch ngang"
+      },
+      "history": {
+        "title": "Lịch sử"
+      },
+      "transactions": {
+        "failed_to_load": "Không thể tải",
+        "no_transactions": "Chưa có giao dịch",
+        "just_now": "Vừa xong",
+        "minutes_ago": "{minutes}phút trước",
+        "hours_ago": "{hours}giờ trước",
+        "days_ago": "{days}ngày trước",
+        "filter": {
+          "all_types": "Tất cả các loại",
+          "select_type": "Chọn loại"
+        },
+        "types": {
+          "withdrawal": "Rút tiền",
+          "received": "Đã nhận",
+          "sent": "Đã gửi"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "Quét mã QR này để xác minh với Self.",
+        "status_completed": "Đã xác minh",
+        "status_not_completed": "Chưa xác minh",
+        "mobile_dialog_description": "Bạn sẽ được chuyển đến ứng dụng Self để hoàn tất xác minh.",
+        "supported_countries": "Các quốc gia được hỗ trợ",
+        "support_telegram": "Hỗ trợ Self"
+      },
+      "verification_warning": {
+        "title": "Nhận xác minh"
+      },
+      "verification_explainer": {
+        "title": "Yêu cầu xác minh",
+        "description": "Vui lòng hoàn tất xác minh để rút token."
+      },
+      "re_verification_explainer": {
+        "title": "Yêu cầu xác minh lại",
+        "description": "Để bảo mật tài khoản của bạn, chúng tôi yêu cầu xác minh mới trước các hành động nhạy cảm như rút tiền. Điều này giúp bảo vệ tài khoản của bạn khỏi truy cập trái phép."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "Hầu hết các ví chỉ hiển thị WDD sau khi được nhập thủ công vào chuỗi đã chọn bằng ",
+      "contract_address": "địa chỉ hợp đồng"
+    }
+  },
+  "toasts": {
+    "generic_error": "Đã xảy ra lỗi",
+    "copied": "Đã sao chép",
+    "wallet": {
+      "no_wallet": "Không có địa chỉ ví",
+      "min_amount": "Tối thiểu 10 WDD",
+      "sent": "Đã gửi",
+      "failed": "Yêu cầu Sumsub ID",
+      "account_deleted": "Tài khoản đã được xóa",
+      "delete_failed": "Xóa tài khoản thất bại",
+      "contract_address_error": "Không thể rút tiền đến địa chỉ hợp đồng",
+      "sign_out_failed": "Đăng xuất thất bại"
+    },
+    "parties": {
+      "founded": "Đảng phái đã được thành lập",
+      "found_failed": "Thành lập đảng phái thất bại",
+      "found_error": "Lỗi khi thành lập đảng phái",
+      "updated": "Đã cập nhật",
+      "update_failed": "Cập nhật thất bại",
+      "update_error": "Lỗi khi cập nhật đảng phái",
+      "transferred": "Đã chuyển giao",
+      "transfer_failed": "Chuyển giao lãnh đạo thất bại",
+      "transfer_error": "Lỗi khi chuyển giao lãnh đạo",
+      "dissolved": "Đã giải tán",
+      "dissolve_failed": "Giải tán thất bại",
+      "dissolve_error": "Lỗi khi giải tán đảng phái"
+    }
+  },
+  "common": {
+    "confirm": "Xác nhận",
+    "sign_in": "Đăng nhập",
+    "max": "Tối đa",
+    "loading": "Đang tải...",
+    "processing": "Đang xử lý...",
+    "insufficient_balance": "Không đủ WDD",
+    "delete_account": "Xóa tài khoản",
+    "sign_out": "Đăng xuất",
+    "invalid_address": "Địa chỉ không hợp lệ",
+    "coming_soon": "Sắp ra mắt",
+    "withdraw": "Rút tiền",
+    "trade": "Giao dịch",
+    "continue": "Tiếp tục",
+    "updating": "Đang cập nhật...",
+    "save": "Lưu",
+    "vote": "Bỏ phiếu",
+    "close": "Đóng"
+  },
+  "auth": {
+    "choose_method": "Chọn phương thức ưa thích của bạn.",
+    "sign_in_with_google": "Tiếp tục với Google",
+    "sign_in_with_passkey": "Sử dụng sinh trắc học",
+    "sign_in_or_create": "Truy cập tài khoản của bạn bằng passkey, sử dụng dấu vân tay, quét khuôn mặt hoặc khóa màn hình.",
+    "create_account": "Tạo tài khoản",
+    "create_passkey_name": "Tạo tên passkey",
+    "passkey_name_description": "Đặt tên cho passkey của bạn để xác định nó trong trình quản lý mật khẩu.",
+    "passkey_name": "Tên passkey"
+  }
+}

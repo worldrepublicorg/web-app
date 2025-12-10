@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "مینو",
+    "world_republic": "نړۍ جمهوریت"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "ټاکنې",
+        "referendums": "راټولیزې ټاکنې"
+      },
+      "sections": {
+        "parties": {
+          "title": "سیاسي ګوندونه",
+          "subtitle": "د شریکو ارزښتونو شاوخوا نړیواله متحدول"
+        },
+        "elections": {
+          "title": "ازمایښتي ټاکنې",
+          "subtitle": "د نړیوالې ډیموکراسۍ سره تجربه"
+        },
+        "referendums": {
+          "title": "نړیواله اساسي قانوني راټولیزه ټاکنه",
+          "subtitle": "زموږ د بنسټیزو اصولو پر سر رايه ورکړئ"
+        }
+      },
+      "parties": {
+        "discover": "موندل",
+        "search_placeholder": "ګوندونه لټون...",
+        "tabs": {
+          "new": "نوی",
+          "trending": "مشهور",
+          "top": "سر"
+        },
+        "no_parties_found": "هیڅ ګوند ونه موندل شو",
+        "loading_more": "نور ګوندونه پورته کېږي...",
+        "party_details": "د ګوند جزئیات",
+        "share_party": "ګوند شریک کړئ",
+        "my_party": "زما ګوند",
+        "found_party_and_earn": "ګوند جوړ کړئ او سوبسایډي ترلاسه کړئ",
+        "learn_more": "نور زده کړئ",
+        "party_management": "د ګوند مدیریت",
+        "edit_party_info": "د ګوند معلومات سمول",
+        "dissolve_party": "ګوند منحل کړئ",
+        "dialogs": {
+          "found_party": "ګوند جوړ کړئ",
+          "party_name": "د ګوند نوم",
+          "description_optional": "تفصیل (اختیاري)",
+          "official_link_optional": "رسمي لینک (اختیاري)",
+          "founding": "جوړېږي...",
+          "updating": "تازه کېږي...",
+          "found": "جوړ کړئ",
+          "save": "خوندي کړئ",
+          "dissolving": "منحل کېږي...",
+          "about_to_found": "تاسو نوی ګوند جوړولو ته یاست.",
+          "about_to_dissolve": "تاسو د {partyName} د منحل کولو په حال کې یاست. دا عمل بیرته نشي کیدی.",
+          "leader_warning_found": "تاسو اوس مهال د {partyName} مشر یاست. نوی ګوند جوړول به ستاسو اوسنی ګوند منحل کړي."
+        },
+        "detail": {
+          "failed_to_load": "د ګوند معلومات پورته کول ناکام شول",
+          "party_not_found": "ګوند ونه موندل شو",
+          "error_loading": "د ګوند پورته کولو کې تېروتنه",
+          "back_to_parties": "ګوندونو ته بیرته",
+          "description": "تفصیل",
+          "party_info": "د ګوند معلومات",
+          "leader": "رهبر",
+          "website": "وېب پاڼه",
+          "not_found_description": "ګوند چې تاسو یې لټون کوئ شتون نلري یا منحل شوی دی."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "د ازموینې ټاکنې به ډیر ژر راشي. د رایه ورکولو پرانیستلو سره چمتو کیدو لپاره اوس خپل پیژندنه تایید کړئ.",
+          "verify_button": "پخوانۍ تایید"
+        },
+        "coming_soon": {
+          "description": "د ازمېښتي ټاکنې به ډېر ژر پیل شي. تاسې لا دمخه تصدیق شوي ياست او چې ټاکنې پیل شي، د رایې ورکولو لپاره چمتو ياست."
+        },
+        "no_active_election": "هیڅ فعاله ټاکنې نشته"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "حساب",
+          "account_info": "د حساب معلومات",
+          "language": "ژبه"
+        },
+        "help": {
+          "title": "مرسته",
+          "faq": "FAQ",
+          "support": "ملاتړ"
+        },
+        "legal": {
+          "title": "قانوني",
+          "terms": "د کارولو شرایط",
+          "privacy": "د محرمیت پالیسي"
+        },
+        "source_code": {
+          "title": "سرچينه کوډ"
+        }
+      }
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": {
+        "app-purpose": {
+          "question": "نړیواله جمهوریت څه دی؟",
+          "answer": "د نړۍ جمهوریت د خپل ځان د ډیجیټل اسعارو سره یو خلاص سرچینې اداره پلیټ فارم دی چې د نړیوالې سولې او امنیت لپاره دیموکراتیک چوکاټ رامنځته کولو ته نښه لري."
+        },
+        "what-is-wdd": {
+          "question": "WDD څه دی؟",
+          "answer": "WDD (نړیوال دراخما) د نړۍ جمهوریت blockchain-native رسمي اسعارو دي چې په ګڼو شبکو کې د معیاري ERC-20 ټوکن په توګه صادر شوي."
+        },
+        "drachma-value": {
+          "question": "د دراخما ارزښت له چیرې راځي؟",
+          "answer": "دراخما د خپل ارزښت د نړۍ جمهوریت د رسمي اسعارو څخه ترلاسه کوي. د زموږ د نړیوال حکومت پلیټ فارم مشروعیت وده کړې سره، WDD د نړیوال بیا ویشونکي وسیله او د نړیوال اقتصاد په اصلي تبادلې رسنۍ کیدلی شي."
+        },
+        "identity-verification": {
+          "question": "د هویت تصدیق څنګه کار کوي؟",
+          "answer": "نړیواله جمهوریت د خپل پاسپورټ یا ملي ID له لارې ستاسو د هویت تایید لپاره Self کاروي. ستاسو محرمیت ساتل شوی—Self یوازې تایید کوي چې تاسو یو ریښتینی کس یاست پرته له دې چې ستاسو شخصي معلومات څرګند کړي."
+        },
+        "test-elections": {
+          "question": "د ازموینې ټاکنې څه دي؟",
+          "answer": "ازمایښتي ټاکنې هغه تجربې دي چیرې چې د نړۍ جمهوریت اتباع سیاسي ګوندونو ته رایه ورکوي. هر ګوند په اوتومات ډول په رای پاڼه کې شامل دی، د ټولو هیله مند مشرانو لپاره مساوي فرصت تضمینوي."
+        },
+        "party-subsidies": {
+          "question": "د ګوندونو مرستې څنګه کار کوي؟",
+          "answer": "نړۍ جمهوریت د ډیموکراټیک ملاتړ پراساس سیاسي ګوندونو ته بودیجه ورکوي. موږ د ټاکنو پایلو په تناسب د WDD مرستې ویشو، ډاډ ترلاسه کوو چې هره رایه په مستقیم ډول د ګوند مالي سرچینې ډیروي."
+        },
+        "verification-required": {
+          "question": "ایا د ګډون لپاره تصدیق اړین دی؟",
+          "answer": "د هویت تصدیق یوازې د رایې ورکولو لپاره اړین دی. تاسو کولی شئ ګوندونه جوړ کړئ او د ګوند له مرستو څخه ترلاسه شوي WDD له تصدیق پرته انتقال کړئ."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "والیټ"
+      },
+      "balance": "بیټلانس",
+      "modals": {
+        "sign_out": {
+          "confirm": "ایا تاسو ډاډه یاست چې ووتل غواړئ؟"
+        },
+        "send": {
+          "button": "لېږل",
+          "title": "WDD ولېږئ",
+          "choice_description": "غوره کړئ چې تاسو غواړئ خپل دراخما څنګه واستوئ.",
+          "transfer_to_citizen": {
+            "title": "لېږد",
+            "description": "WDD بل وګړي ته لېږد",
+            "username_label": "د ترلاسه کوونکي کارن نوم"
+          },
+          "withdraw_to_crypto": {
+            "title": "ووتل",
+            "description": "WDD کریپټو حساب ته ووتل",
+            "amount_label": "اندازه",
+            "address_label": "د والیټ پته",
+            "network_label": "شبکه"
+          }
+        },
+        "trade": {
+          "base": "Base WDD په Uniswap کې",
+          "monad": "Monad WDD په Uniswap کې",
+          "world": "World Chain WDD په Uniswap کې",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "دا به ستاسو حساب د تل لپاره ړنګ کړي او ټول معلومات د زموږ سرورونو څخه لرې کړي. دا عمل بیرته راګرځول کیدی نشي — مهرباني وکړئ په احتیاط سره ادامه ورکړئ.",
+          "deleting": "ړنګ کېږي..."
+        },
+        "receive": {
+          "button": "ترلاسه کول",
+          "title": "WDD ترلاسه کړئ",
+          "description": "د خپلو ملګرو څخه WDD ترلاسه کولو لپاره خپل کارن نوم شریک کړئ."
+        }
+      },
+      "sections": {
+        "identification": "پېژندنه",
+        "account": "حساب",
+        "danger_zone": "د خطر ساحه",
+        "delete_account": {
+          "description": "د خپلو ټولو ډیټا دایمي لرې کړئ"
+        }
+      },
+      "username": {
+        "label": "د کارونکي نوم",
+        "edit_title": "د کارونکي نوم سمول",
+        "description": "3-30 حروف، الفبايي-شمېري، لاندې کرښې او هایفن"
+      },
+      "history": {
+        "title": "تاریخ"
+      },
+      "transactions": {
+        "failed_to_load": "پورته کول ناکام شول",
+        "no_transactions": "تراوسه کوم معاملات نشته",
+        "just_now": "همدا اوس",
+        "minutes_ago": "{minutes}دقیقې وړاندې",
+        "hours_ago": "{hours}ساعته وړاندې",
+        "days_ago": "{days}ورځې وړاندې",
+        "filter": {
+          "all_types": "ټول ډولونه",
+          "select_type": "ډول وټاکئ"
+        },
+        "types": {
+          "withdrawal": "وتل",
+          "received": "ترلاسه شو",
+          "sent": "لیږل شو"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "د Self سره د تایید لپاره دا QR کوډ سکین کړئ.",
+        "status_completed": "تایید شوی",
+        "status_not_completed": "تایید شوی نه دی",
+        "mobile_dialog_description": "د تصدیق بشپړولو لپاره به تاسو Self اپ ته ولېږدول شئ.",
+        "supported_countries": "ملاتړ شوي هېوادونه",
+        "support_telegram": "د Self ملاتړ"
+      },
+      "verification_warning": {
+        "title": "تایید ترلاسه کړئ"
+      },
+      "verification_explainer": {
+        "title": "تایید اړین دی",
+        "description": "د توکنونو د راوتلو لپاره مهرباني وکړئ تایید بشپړ کړئ."
+      },
+      "re_verification_explainer": {
+        "title": "بیا تایید اړین دی",
+        "description": "ستاسو د امنیت لپاره، موږ د حساسو عملیاتو لکه راوتلو دمخه تازه تایید ته اړتیا لرو. دا ستاسو حساب د غیر مجاز لاسرسۍ څخه ساتلو کې مرسته کوي."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "ډیری والیټونه یوازې هغه وخت WDD ښیي کله چې دا په لاسي توګه په غوره شوي زنځیر کې د دې ",
+      "contract_address": "تړون پته"
+    }
+  },
+  "toasts": {
+    "generic_error": "یوه تېروتنه رامنځته شوه",
+    "copied": "کاپي شو",
+    "wallet": {
+      "no_wallet": "د والیټ پته نشته",
+      "min_amount": "لږترلږه 10 WDD",
+      "sent": "لیږل شو",
+      "failed": "د Sumsub ID اړین دی",
+      "account_deleted": "حساب ړنګ شو",
+      "delete_failed": "د حساب ړنګول ناکام شو",
+      "contract_address_error": "د تړون پتې ته نشي ووتل کیدی",
+      "sign_out_failed": "د ووتلو ناکامه"
+    },
+    "parties": {
+      "founded": "ګوند جوړ شو",
+      "found_failed": "د ګوند جوړول ناکام شول",
+      "found_error": "د ګوند جوړولو کې تېروتنه",
+      "updated": "تازه شو",
+      "update_failed": "تازه کول ناکام شول",
+      "update_error": "د ګوند تازه کولو کې تېروتنه",
+      "transferred": "لیږدول شول",
+      "transfer_failed": "د رهبري لیږدول ناکام شول",
+      "transfer_error": "د رهبري لیږدولو کې تېروتنه",
+      "dissolved": "منحل شو",
+      "dissolve_failed": "منحل کول ناکام شول",
+      "dissolve_error": "د ګوند منحل کولو کې تېروتنه"
+    }
+  },
+  "common": {
+    "confirm": "تایید کړئ",
+    "sign_in": "ننوتل",
+    "max": "اعظمي",
+    "loading": "بار کېږي...",
+    "processing": "پروسس کول...",
+    "insufficient_balance": "کافي WDD نشته",
+    "delete_account": "حساب ړنګ کړئ",
+    "sign_out": "وتل",
+    "invalid_address": "ناسم پته",
+    "coming_soon": "ژر تر ژره",
+    "withdraw": "واخیستل",
+    "trade": "سوداګري",
+    "continue": "دوام ورکړئ",
+    "updating": "تازه کول...",
+    "save": "خوندي کړئ",
+    "vote": "رايه ورکړه",
+    "close": "تړل"
+  },
+  "auth": {
+    "choose_method": "خپل غوره میتود غوره کړئ.",
+    "sign_in_with_google": "د Google سره دوام ورکړئ",
+    "sign_in_with_passkey": "بیومتریک وکاروئ",
+    "sign_in_or_create": "د خپل حساب ته د passkey په کارولو سره لاسرسی ومومئ، د خپل ګوتو نښه، د مخ سکین یا د پردې قفل کارولو سره.",
+    "create_account": "حساب جوړ کړئ",
+    "create_passkey_name": "د passkey نوم جوړ کړئ",
+    "passkey_name_description": "ستاسو د passkey نوم وټاکئ ترڅو دا ستاسو د پټنوم مدیر کې پیژندل شي.",
+    "passkey_name": "د passkey نوم"
+  }
+}

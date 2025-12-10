@@ -1,0 +1,299 @@
+{
+  "nav": {
+    "menu": "Meniu",
+    "world_republic": "Pasaulio Respublika"
+  },
+  "pages": {
+    "govern": {
+      "tabs": {
+        "elections": "Rinkimai",
+        "referendums": "Referendumai"
+      },
+      "sections": {
+        "parties": {
+          "title": "Politinės partijos",
+          "subtitle": "Vienykitės visame pasaulyje aplink bendras vertybes"
+        },
+        "elections": {
+          "title": "Testiniai rinkimai",
+          "subtitle": "Eksperimentuokite su globalia demokratija"
+        },
+        "referendums": {
+          "title": "Pasaulio konstitucinis referendumas",
+          "subtitle": "Balsuokite už mūsų pagrindinius principus"
+        }
+      },
+      "parties": {
+        "discover": "Atrasti",
+        "search_placeholder": "Ieškoti partijų...",
+        "tabs": {
+          "new": "Naujos",
+          "trending": "Populiarios",
+          "top": "Geriausios"
+        },
+        "no_parties_found": "Partijų nerasta",
+        "loading_more": "Įkeliama daugiau partijų...",
+        "party_details": "Partijos detalės",
+        "share_party": "Dalintis partija",
+        "my_party": "Mano partija",
+        "found_party_and_earn": "Įkurkite partiją ir gaukite subsidijas",
+        "learn_more": "Sužinokite daugiau",
+        "party_management": "Partijos valdymas",
+        "edit_party_info": "Redaguoti partijos informaciją",
+        "dissolve_party": "Išardyti partiją",
+        "dialogs": {
+          "found_party": "Įkurti partiją",
+          "party_name": "Partijos pavadinimas",
+          "description_optional": "Aprašymas (neprivalomas)",
+          "official_link_optional": "Oficialus nuoroda (neprivalomas)",
+          "founding": "Įkuriama...",
+          "updating": "Atnaujinama...",
+          "found": "Įkurti",
+          "save": "Išsaugoti",
+          "dissolving": "Išardoma...",
+          "about_to_found": "Jūs ketinate įkurti naują partiją.",
+          "about_to_dissolve": "Ketinate išformuoti {partyName}. Šio veiksmo negalima atšaukti.",
+          "leader_warning_found": "Šiuo metu esate {partyName} lyderis. Įkūrus naują partiją jūsų dabartinė partija bus išformuota."
+        },
+        "detail": {
+          "failed_to_load": "Nepavyko įkelti partijos duomenų",
+          "party_not_found": "Partija nerasta",
+          "error_loading": "Klaida įkeliant partiją",
+          "back_to_parties": "Atgal į partijas",
+          "description": "Aprašymas",
+          "party_info": "Partijos informacija",
+          "leader": "Lyderis",
+          "website": "Svetainė",
+          "not_found_description": "Partija, kurią ieškote, neegzistuoja arba buvo išardyta."
+        }
+      },
+      "vote": {
+        "pre_verification": {
+          "description": "Bandomieji rinkimai greitai prasidės. Patvirtinkite savo tapatybę dabar, kad būtumėte pasiruošę, kai prasidės balsavimas.",
+          "verify_button": "Išankstinis patvirtinimas"
+        },
+        "coming_soon": {
+          "description": "Bandomieji rinkimai netrukus prasidės. Jau esate patvirtintas ir pasirengęs balsuoti vos prasidėjus rinkimams."
+        },
+        "no_active_election": "Nėra vykstančių rinkimų"
+      }
+    },
+    "menu": {
+      "sections": {
+        "account": {
+          "title": "PASKYRA",
+          "account_info": "Paskyros informacija",
+          "language": "Kalba"
+        },
+        "help": {
+          "title": "PAGALBA",
+          "faq": "DUK",
+          "support": "Palaikymas"
+        },
+        "legal": {
+          "title": "TEISINIS",
+          "terms": "Naudojimo sąlygos",
+          "privacy": "Privatumo politika"
+        },
+        "source_code": {
+          "title": "IŠANKINIS KODAS"
+        }
+      }
+    },
+    "faq": {
+      "title": "DUK",
+      "items": {
+        "app-purpose": {
+          "question": "Kas yra Pasaulio respublika?",
+          "answer": "Pasaulio Respublika yra atvirojo kodo valdymo platforma su savo skaitmenine valiuta, kurios tikslas yra sukurti demokratinį pagrindą pasauliniam taikui ir saugumui."
+        },
+        "what-is-wdd": {
+          "question": "Kas yra WDD?",
+          "answer": "WDD (pasaulio drachma) yra Pasaulio Respublikos oficiali valiuta, kuri yra blockchain-native, išleista kaip standartinis ERC-20 tokenas keliose tinkluose."
+        },
+        "drachma-value": {
+          "question": "Iš kur drakma gauna savo vertę?",
+          "answer": "Drachma gauna savo vertę būdama Pasaulio Respublikos oficialia valiuta. Didėjant mūsų pasaulio valdymo platformos legitimumui, WDD gali tapti pasaulio perskirstymo priemone ir pagrindiniu mainų priemone pasaulio ekonomikoje."
+        },
+        "identity-verification": {
+          "question": "Kaip veikia tapatybės patvirtinimas?",
+          "answer": "Pasaulio Respublika naudoja Self jūsų tapatybės patvirtinimui per jūsų pasą arba nacionalinį ID. Jūsų privatumas yra apsaugotas—Self tik patvirtina, kad esate tikras asmuo neatskleisdamas jūsų asmeninių duomenų."
+        },
+        "test-elections": {
+          "question": "Kas yra bandomieji rinkimai?",
+          "answer": "Bandomieji rinkimai yra eksperimentai, kuriuose Pasaulio Respublika piliečiai balsuoja už politines partijas. Kiekviena partija automatiškai įtraukiama į balsavimo biuletenį, užtikrinant lygias galimybes visiems siekiantiems lyderių."
+        },
+        "party-subsidies": {
+          "question": "Kaip veikia partijų subsidijos?",
+          "answer": "Pasaulio Respublika finansuoja politines partijas remdamasi demokratine parama. Paskirstome WDD dotacijas proporcingai rinkimų rezultatams, užtikrindami, kad kiekvienas balsas tiesiogiai padidintų partijos finansinius išteklius."
+        },
+        "verification-required": {
+          "question": "Ar norint dalyvauti reikia patvirtinimo?",
+          "answer": "Tapatybės patvirtinimas reikalingas tik balsuojant. Be patvirtinimo galite kurti partijas ir pervesti WDD, gautus iš partijų subsidijų."
+        }
+      }
+    },
+    "wallet": {
+      "topbar": {
+        "title": "Piniginė"
+      },
+      "balance": "Likutis",
+      "modals": {
+        "sign_out": {
+          "confirm": "Ar tikrai norite atsijungti?"
+        },
+        "send": {
+          "button": "Siųsti",
+          "title": "Siųsti WDD",
+          "choice_description": "Pasirinkite, kaip norite siųsti savo drachmą.",
+          "transfer_to_citizen": {
+            "title": "Perkelti",
+            "description": "Perkelti WDD kitam piliečiui",
+            "username_label": "Gavėjo vartotojo vardas"
+          },
+          "withdraw_to_crypto": {
+            "title": "Išimti",
+            "description": "Išimti WDD į kripto sąskaitą",
+            "amount_label": "Suma",
+            "address_label": "Piniginės adresas",
+            "network_label": "Tinklas"
+          }
+        },
+        "trade": {
+          "base": "Base WDD Uniswap",
+          "monad": "Monad WDD Uniswap",
+          "world": "World Chain WDD Uniswap",
+          "base_alt": "Base",
+          "monad_alt": "Monad",
+          "world_alt": "World Chain"
+        },
+        "delete_account": {
+          "description": "Tai visam laikui ištrins jūsų paskyrą ir pašalins visus jūsų duomenis iš mūsų serverių. Šio veiksmo negalima atšaukti — tęskite atsargiai.",
+          "deleting": "Ištrinama..."
+        },
+        "receive": {
+          "button": "Gauti",
+          "title": "Gauti WDD",
+          "description": "Pasidalinkite savo vartotojo vardu, kad gautumėte WDD iš draugų."
+        }
+      },
+      "sections": {
+        "identification": "IDENTIFIKACIJA",
+        "account": "PASKYRA",
+        "danger_zone": "PAVOJINGA ZONA",
+        "delete_account": {
+          "description": "Permanentiškai pašalinkite visus savo duomenis"
+        }
+      },
+      "username": {
+        "label": "Vartotojo vardas",
+        "edit_title": "Redaguoti vartotojo vardą",
+        "description": "3-30 simbolių, alfanumeriniai, pabraukimai ir brūkšneliai"
+      },
+      "history": {
+        "title": "Istorija"
+      },
+      "transactions": {
+        "failed_to_load": "Įkelti nepavyko",
+        "no_transactions": "Dar nėra operacijų",
+        "just_now": "Ką tik",
+        "minutes_ago": "prieš {minutes}min",
+        "hours_ago": "prieš {hours}val",
+        "days_ago": "prieš {days}d",
+        "filter": {
+          "all_types": "Visi tipai",
+          "select_type": "Pasirinkite tipą"
+        },
+        "types": {
+          "withdrawal": "Išėmimas",
+          "received": "Gauta",
+          "sent": "Išsiųsta"
+        }
+      }
+    }
+  },
+  "components": {
+    "identity": {
+      "self": {
+        "dialog_description": "Nuskenuokite šį QR kodą, kad patvirtintumėte su Self.",
+        "status_completed": "Patvirtinta",
+        "status_not_completed": "Nepatvirtinta",
+        "mobile_dialog_description": "Būsite nukreipti į Self programėlę, kad užbaigtumėte patvirtinimą.",
+        "supported_countries": "Palaikomos šalys",
+        "support_telegram": "Self palaikymas"
+      },
+      "verification_warning": {
+        "title": "Gaukite patvirtinimą"
+      },
+      "verification_explainer": {
+        "title": "Reikalingas patvirtinimas",
+        "description": "Prašome užbaigti patvirtinimą, norint išsiimti tokenus."
+      },
+      "re_verification_explainer": {
+        "title": "Reikalingas pakartotinis patvirtinimas",
+        "description": "Jūsų saugumui reikalaujame šviežio patvirtinimo prieš jautrias operacijas, tokias kaip išėmimai. Tai padeda apsaugoti jūsų sąskaitą nuo neleistinos prieigos."
+      }
+    },
+    "wdd_import_info": {
+      "message_prefix": "Dauguma piniginių rodo WDD tik po to, kai jis rankiniu būdu importuotas į pasirinktą grandinę pagal jo ",
+      "contract_address": "sutarties adresą"
+    }
+  },
+  "toasts": {
+    "generic_error": "Įvyko klaida",
+    "copied": "Nukopijuota",
+    "wallet": {
+      "no_wallet": "Nėra piniginės adreso",
+      "min_amount": "Minimaliai 10 WDD",
+      "sent": "Išsiųsta",
+      "failed": "Reikia Sumsub ID",
+      "account_deleted": "Paskyra ištrinta",
+      "delete_failed": "Nepavyko ištrinti paskyros",
+      "contract_address_error": "Negalima išimti į sutarties adresą",
+      "sign_out_failed": "Atsijungimas nepavyko"
+    },
+    "parties": {
+      "founded": "Partija įkurta",
+      "found_failed": "Partijos įkūrimas nepavyko",
+      "found_error": "Klaida kuriant partiją",
+      "updated": "Atnaujinta",
+      "update_failed": "Atnaujinimas nepavyko",
+      "update_error": "Klaida atnaujinant partiją",
+      "transferred": "Perkelta",
+      "transfer_failed": "Vadovavimo perdavimas nepavyko",
+      "transfer_error": "Klaida perduodant vadovavimą",
+      "dissolved": "Išformuota",
+      "dissolve_failed": "Išformavimas nepavyko",
+      "dissolve_error": "Klaida išformuojant partiją"
+    }
+  },
+  "common": {
+    "confirm": "Patvirtinti",
+    "sign_in": "Prisijungti",
+    "max": "Maks",
+    "loading": "Kraunama...",
+    "processing": "Apdorojama...",
+    "insufficient_balance": "Nepakanka WDD",
+    "delete_account": "Ištrinti paskyrą",
+    "sign_out": "Atsijungti",
+    "invalid_address": "Neteisingas adresas",
+    "coming_soon": "Netrukus",
+    "withdraw": "Išsiimti",
+    "trade": "Prekiauti",
+    "continue": "Tęsti",
+    "updating": "Atnaujinama...",
+    "save": "Išsaugoti",
+    "vote": "Balsuoti",
+    "close": "Uždaryti"
+  },
+  "auth": {
+    "choose_method": "Pasirinkite pageidaujamą metodą.",
+    "sign_in_with_google": "Tęsti su Google",
+    "sign_in_with_passkey": "Naudoti biometriją",
+    "sign_in_or_create": "Prieiga prie jūsų paskyros naudojant passkey, naudojant piršto atspaudą, veido nuskaitymą arba ekrano užraktą.",
+    "create_account": "Sukurti paskyrą",
+    "create_passkey_name": "Sukurti passkey pavadinimą",
+    "passkey_name_description": "Pavadinkite savo passkey, kad galėtumėte jį identifikuoti slaptažodžių tvarkytuvėje.",
+    "passkey_name": "Passkey pavadinimas"
+  }
+}
